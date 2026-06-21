@@ -12,29 +12,9 @@ npm install react-muscle-map
 
 React 18 or newer is required as a peer dependency.
 
-## Using the library in another project
+## Quick start
 
-Copy this `muscle-map` folder into the consuming repository. A typical monorepo layout is:
-
-```text
-my-monorepo/
-├── apps/
-│   └── web/
-└── packages/
-    └── react-muscle-map/
-```
-
-Reference it from the consuming application with the workspace protocol:
-
-```json
-{
-  "dependencies": {
-    "react-muscle-map": "workspace:*"
-  }
-}
-```
-
-Install dependencies from the monorepo root, then import the component and stylesheet:
+Import the component and stylesheet:
 
 ```jsx
 import { ExerciseMuscleMap } from 'react-muscle-map'
@@ -44,14 +24,6 @@ export function MusclePreview() {
   return <ExerciseMuscleMap exerciseId="Barbell_Full_Squat" />
 }
 ```
-
-For a project that does not use workspaces, install the copied folder by relative path:
-
-```sh
-npm install ../react-muscle-map
-```
-
-The copied `muscle-map` folder is sufficient for building and consuming the library. Regenerating its components or packaged datasets requires the source `free-exercise-db` repository and its generator script.
 
 ## Exercise ID API
 
