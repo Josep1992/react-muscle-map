@@ -1,0 +1,16 @@
+import MuscleMap from '../MuscleMap.jsx'
+
+export const exerciseId = "Shoulder_Circles"
+export const primaryMuscles = Object.freeze(["shoulders"])
+export const secondaryMuscles = Object.freeze(["traps"])
+
+export default function ExerciseShoulderCirclesMuscleMap({ title = "Shoulder Circles muscle map", ...props }) {
+  return (
+    <MuscleMap
+      {...props}
+      title={title}
+      primaryMuscles={primaryMuscles}
+      secondaryMuscles={secondaryMuscles}
+    />
+  )
+}

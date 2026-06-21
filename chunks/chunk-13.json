@@ -1,0 +1,655 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": 1,
+  "sourceCount": 873,
+  "sourceHash": "eaea794e30faa4aae55bb8a23ea7fb4b488ec21d88558c77f255248cc618aaaf",
+  "canonicalComponentHash": "26e42ce9182a40b049b6cd5b744ea78620c0c7393a6989f6c9b5c960b95df07f",
+  "chunk": 13,
+  "chunkSize": 50,
+  "totalChunks": 18,
+  "entryCount": 50,
+  "sourceOverlapCount": 9,
+  "entries": [
+    {
+      "id": "Rocket_Jump",
+      "name": "Rocket Jump",
+      "componentName": "ExerciseRocketJumpMuscleMap",
+      "modulePath": "exercises/Rocket_Jump.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "hamstrings"
+      ],
+      "outputHash": "7ceeed499dbcd6845f0f1e2c03e8e5e0995cdcc9787dd19fcf520c9fa7e64d97"
+    },
+    {
+      "id": "Rocking_Standing_Calf_Raise",
+      "name": "Rocking Standing Calf Raise",
+      "componentName": "ExerciseRockingStandingCalfRaiseMuscleMap",
+      "modulePath": "exercises/Rocking_Standing_Calf_Raise.jsx",
+      "primaryMuscles": [
+        "calves"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "afbdc356fd91d0982be3c31aac9f2bff5087293f1f1ec5edd76b413ba4c1a245"
+    },
+    {
+      "id": "Rocky_Pull-Ups_Pulldowns",
+      "name": "Rocky Pull-Ups/Pulldowns",
+      "componentName": "ExerciseRockyPullUpsPulldownsMuscleMap",
+      "modulePath": "exercises/Rocky_Pull-Ups_Pulldowns.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "middle back",
+        "shoulders"
+      ],
+      "outputHash": "56ac0a06199ce1ac5983a05e187bd32543d830c3e9fa5a5fcb8145a909aacc12"
+    },
+    {
+      "id": "Romanian_Deadlift",
+      "name": "Romanian Deadlift",
+      "componentName": "ExerciseRomanianDeadliftMuscleMap",
+      "modulePath": "exercises/Romanian_Deadlift.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "lower back"
+      ],
+      "outputHash": "04a82dc610a6672e333a3763587608d385b9dfaf4e8eefc51563afe276ac47b0"
+    },
+    {
+      "id": "Romanian_Deadlift_from_Deficit",
+      "name": "Romanian Deadlift from Deficit",
+      "componentName": "ExerciseRomanianDeadliftFromDeficitMuscleMap",
+      "modulePath": "exercises/Romanian_Deadlift_from_Deficit.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "forearms",
+        "glutes",
+        "lower back",
+        "traps"
+      ],
+      "outputHash": "1c6169f8067daa81fe99d6d70de2508d411ff1bd9838507aada189f01e566af5"
+    },
+    {
+      "id": "Rope_Climb",
+      "name": "Rope Climb",
+      "componentName": "ExerciseRopeClimbMuscleMap",
+      "modulePath": "exercises/Rope_Climb.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "middle back",
+        "shoulders"
+      ],
+      "outputHash": "895ee82b7c907eacceba3e75a25a66a15b413d8c3d92fcacbed431d546c9dbde"
+    },
+    {
+      "id": "Rope_Crunch",
+      "name": "Rope Crunch",
+      "componentName": "ExerciseRopeCrunchMuscleMap",
+      "modulePath": "exercises/Rope_Crunch.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "3ceb40dd12269dba288ce95b51103fc81610e00716779f65883985dabad0e01e"
+    },
+    {
+      "id": "Rope_Jumping",
+      "name": "Rope Jumping",
+      "componentName": "ExerciseRopeJumpingMuscleMap",
+      "modulePath": "exercises/Rope_Jumping.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "hamstrings"
+      ],
+      "outputHash": "1b70c3c93b54f3fe9094f409b51027b09011f58ed63cac79a8098a0020ab3157"
+    },
+    {
+      "id": "Rope_Straight-Arm_Pulldown",
+      "name": "Rope Straight-Arm Pulldown",
+      "componentName": "ExerciseRopeStraightArmPulldownMuscleMap",
+      "modulePath": "exercises/Rope_Straight-Arm_Pulldown.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "08fdad8b2fc5fcac945d3f4b6e9d7710db8e7f6c8f790e4a5d0db6ef58a3929b"
+    },
+    {
+      "id": "Round_The_World_Shoulder_Stretch",
+      "name": "Round The World Shoulder Stretch",
+      "componentName": "ExerciseRoundTheWorldShoulderStretchMuscleMap",
+      "modulePath": "exercises/Round_The_World_Shoulder_Stretch.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "chest"
+      ],
+      "outputHash": "9344c369a981a7a3c463765bc777c5a0e0df564ca0992e70012cbc015b4368a2"
+    },
+    {
+      "id": "Rowing_Stationary",
+      "name": "Rowing, Stationary",
+      "componentName": "ExerciseRowingStationaryMuscleMap",
+      "modulePath": "exercises/Rowing_Stationary.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "calves",
+        "glutes",
+        "hamstrings",
+        "lower back",
+        "middle back"
+      ],
+      "outputHash": "5f39c1dcaa206fb2c262f507bfdeb6ee42a4647522b6d4bbfa0f1e76417c67c9"
+    },
+    {
+      "id": "Runners_Stretch",
+      "name": "Runner's Stretch",
+      "componentName": "ExerciseRunnersStretchMuscleMap",
+      "modulePath": "exercises/Runners_Stretch.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves"
+      ],
+      "outputHash": "00a2fc83ae86d3b3889537f74f15138c74cfa573a53f5527603164148217d197"
+    },
+    {
+      "id": "Running_Treadmill",
+      "name": "Running, Treadmill",
+      "componentName": "ExerciseRunningTreadmillMuscleMap",
+      "modulePath": "exercises/Running_Treadmill.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "f635ab13692eba26a560b7d85acec0e6da0466d21829b3d82ee2181dd869c8dd"
+    },
+    {
+      "id": "Russian_Twist",
+      "name": "Russian Twist",
+      "componentName": "ExerciseRussianTwistMuscleMap",
+      "modulePath": "exercises/Russian_Twist.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [
+        "lower back"
+      ],
+      "outputHash": "fbc6eac3fe85d7fdca93048dd1795bfbea51c7c2883513ed06242f7e17bc2097"
+    },
+    {
+      "id": "Sandbag_Load",
+      "name": "Sandbag Load",
+      "componentName": "ExerciseSandbagLoadMuscleMap",
+      "modulePath": "exercises/Sandbag_Load.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "abdominals",
+        "biceps",
+        "calves",
+        "forearms",
+        "glutes",
+        "hamstrings",
+        "lower back",
+        "middle back",
+        "shoulders",
+        "traps"
+      ],
+      "outputHash": "c0c83c00576d2ea99b6b7b1f17c44720383fee3c723f19fe860ba9f3987ba603"
+    },
+    {
+      "id": "Scapular_Pull-Up",
+      "name": "Scapular Pull-Up",
+      "componentName": "ExerciseScapularPullUpMuscleMap",
+      "modulePath": "exercises/Scapular_Pull-Up.jsx",
+      "primaryMuscles": [
+        "traps"
+      ],
+      "secondaryMuscles": [
+        "lats",
+        "middle back"
+      ],
+      "outputHash": "84aa90582ef0880cf65cea2e6067f65f3679e3e2365c0c9b18ec95c512ae57ed"
+    },
+    {
+      "id": "Scissor_Kick",
+      "name": "Scissor Kick",
+      "componentName": "ExerciseScissorKickMuscleMap",
+      "modulePath": "exercises/Scissor_Kick.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "66f97e9b34a6872b78cd6a2bf2901e2ee5ec4875dac875f8796e10f840ef10aa"
+    },
+    {
+      "id": "Scissors_Jump",
+      "name": "Scissors Jump",
+      "componentName": "ExerciseScissorsJumpMuscleMap",
+      "modulePath": "exercises/Scissors_Jump.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "3c6578f0b6e9fa9bc72df12f6542b17cde5b7115f6c7ff467a81d7ec1023ed95"
+    },
+    {
+      "id": "Seated_Band_Hamstring_Curl",
+      "name": "Seated Band Hamstring Curl",
+      "componentName": "ExerciseSeatedBandHamstringCurlMuscleMap",
+      "modulePath": "exercises/Seated_Band_Hamstring_Curl.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "9075d773f72893e895a3e84951e272625c5dd4932fc355e5adbb1f7658021c1f"
+    },
+    {
+      "id": "Seated_Barbell_Military_Press",
+      "name": "Seated Barbell Military Press",
+      "componentName": "ExerciseSeatedBarbellMilitaryPressMuscleMap",
+      "modulePath": "exercises/Seated_Barbell_Military_Press.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "outputHash": "90e0d820597870c0ebec262be133eac697f4a8da253808827f6b81ac500e7d44"
+    },
+    {
+      "id": "Seated_Barbell_Twist",
+      "name": "Seated Barbell Twist",
+      "componentName": "ExerciseSeatedBarbellTwistMuscleMap",
+      "modulePath": "exercises/Seated_Barbell_Twist.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "76565885bff2195b9c03818fac8a5882475b7c624c109491a9bb8b8989272382"
+    },
+    {
+      "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+      "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+      "componentName": "ExerciseSeatedBentOverOneArmDumbbellTricepsExtensionMuscleMap",
+      "modulePath": "exercises/Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension.jsx",
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "ba0c445392d0425b8ba1eb8d3d78297a344d0c125c6da77eaf43ab7597d6edaf"
+    },
+    {
+      "id": "Seated_Bent-Over_Rear_Delt_Raise",
+      "name": "Seated Bent-Over Rear Delt Raise",
+      "componentName": "ExerciseSeatedBentOverRearDeltRaiseMuscleMap",
+      "modulePath": "exercises/Seated_Bent-Over_Rear_Delt_Raise.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "8bcff6ddc832df494aa29a336f555e0167c1ecd59325568e08f2d0b2d49a2505"
+    },
+    {
+      "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+      "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+      "componentName": "ExerciseSeatedBentOverTwoArmDumbbellTricepsExtensionMuscleMap",
+      "modulePath": "exercises/Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension.jsx",
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "606d720d933881d0f5b4a20c9b94b9ba7d9c8c88ce96afa5f04e8323f6bc0f9b"
+    },
+    {
+      "id": "Seated_Biceps",
+      "name": "Seated Biceps",
+      "componentName": "ExerciseSeatedBicepsMuscleMap",
+      "modulePath": "exercises/Seated_Biceps.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [
+        "chest",
+        "shoulders"
+      ],
+      "outputHash": "4eea107ea46f864d0dd89a8c014573842b4870c374e5f9152aff89e17749f023"
+    },
+    {
+      "id": "Seated_Cable_Rows",
+      "name": "Seated Cable Rows",
+      "componentName": "ExerciseSeatedCableRowsMuscleMap",
+      "modulePath": "exercises/Seated_Cable_Rows.jsx",
+      "primaryMuscles": [
+        "middle back"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "lats",
+        "shoulders"
+      ],
+      "outputHash": "e3374b65c32bafdaf3cb2c6db5682e5eaa3f113830283e1e669cbbb150dad778"
+    },
+    {
+      "id": "Seated_Cable_Shoulder_Press",
+      "name": "Seated Cable Shoulder Press",
+      "componentName": "ExerciseSeatedCableShoulderPressMuscleMap",
+      "modulePath": "exercises/Seated_Cable_Shoulder_Press.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "outputHash": "e3a1043a7b13c944c2e722d7563567e7ecbe996d01dfa004ff989e2061772a26"
+    },
+    {
+      "id": "Seated_Calf_Raise",
+      "name": "Seated Calf Raise",
+      "componentName": "ExerciseSeatedCalfRaiseMuscleMap",
+      "modulePath": "exercises/Seated_Calf_Raise.jsx",
+      "primaryMuscles": [
+        "calves"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "9768241e6ef16d462a8ebbfe9b93289663437696380407641cc006493da201eb"
+    },
+    {
+      "id": "Seated_Calf_Stretch",
+      "name": "Seated Calf Stretch",
+      "componentName": "ExerciseSeatedCalfStretchMuscleMap",
+      "modulePath": "exercises/Seated_Calf_Stretch.jsx",
+      "primaryMuscles": [
+        "calves"
+      ],
+      "secondaryMuscles": [
+        "hamstrings",
+        "lower back"
+      ],
+      "outputHash": "e271c8a81f5debd2d13f4f076c9f6da1b9a545214fef0cd1ab774c87d7632c1c"
+    },
+    {
+      "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
+      "name": "Seated Close-Grip Concentration Barbell Curl",
+      "componentName": "ExerciseSeatedCloseGripConcentrationBarbellCurlMuscleMap",
+      "modulePath": "exercises/Seated_Close-Grip_Concentration_Barbell_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "bb541270a25421138074e8f0de2a51b9cdf46ceb4ee87b36e1e134ef66af664f"
+    },
+    {
+      "id": "Seated_Dumbbell_Curl",
+      "name": "Seated Dumbbell Curl",
+      "componentName": "ExerciseSeatedDumbbellCurlMuscleMap",
+      "modulePath": "exercises/Seated_Dumbbell_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "ca0fcf29b75e5c4e21bd18e7d08f4455b05e7d7766ae204d4aab49e03a200729"
+    },
+    {
+      "id": "Seated_Dumbbell_Inner_Biceps_Curl",
+      "name": "Seated Dumbbell Inner Biceps Curl",
+      "componentName": "ExerciseSeatedDumbbellInnerBicepsCurlMuscleMap",
+      "modulePath": "exercises/Seated_Dumbbell_Inner_Biceps_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "caa085146e3113d6c5eb38f8ed8683651a7d302f32493682cecde67c2dab16ab"
+    },
+    {
+      "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+      "name": "Seated Dumbbell Palms-Down Wrist Curl",
+      "componentName": "ExerciseSeatedDumbbellPalmsDownWristCurlMuscleMap",
+      "modulePath": "exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "3de3fd58f6cf5a7a6abbc3894f6474c4d131069493bce123420fdd96f496fe99"
+    },
+    {
+      "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+      "name": "Seated Dumbbell Palms-Up Wrist Curl",
+      "componentName": "ExerciseSeatedDumbbellPalmsUpWristCurlMuscleMap",
+      "modulePath": "exercises/Seated_Dumbbell_Palms-Up_Wrist_Curl.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "f78a4abf3e0ad5290de3b7738688b7e3edd420b7a88b4c406c2e19dd8a747e1c"
+    },
+    {
+      "id": "Seated_Dumbbell_Press",
+      "name": "Seated Dumbbell Press",
+      "componentName": "ExerciseSeatedDumbbellPressMuscleMap",
+      "modulePath": "exercises/Seated_Dumbbell_Press.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "outputHash": "ffc0bbcf12e96b8701dc7f652e0e89cc2ba64d7edd5d218743123210b5ef9c63"
+    },
+    {
+      "id": "Seated_Flat_Bench_Leg_Pull-In",
+      "name": "Seated Flat Bench Leg Pull-In",
+      "componentName": "ExerciseSeatedFlatBenchLegPullInMuscleMap",
+      "modulePath": "exercises/Seated_Flat_Bench_Leg_Pull-In.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "bd4060ab1c37add9eee5cb785e98c8472432212038ddfa7fe72674669538031a"
+    },
+    {
+      "id": "Seated_Floor_Hamstring_Stretch",
+      "name": "Seated Floor Hamstring Stretch",
+      "componentName": "ExerciseSeatedFloorHamstringStretchMuscleMap",
+      "modulePath": "exercises/Seated_Floor_Hamstring_Stretch.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves"
+      ],
+      "outputHash": "64e9a5315cc99034244f9228f216e4b14e6c4c7a8eae1ff31f8026ab19f24e15"
+    },
+    {
+      "id": "Seated_Front_Deltoid",
+      "name": "Seated Front Deltoid",
+      "componentName": "ExerciseSeatedFrontDeltoidMuscleMap",
+      "modulePath": "exercises/Seated_Front_Deltoid.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "chest"
+      ],
+      "outputHash": "b07d4090aa06bf8867ea6baaf1fb428cd3ca6d7e8fe85f64994dbf97dcd260dc"
+    },
+    {
+      "id": "Seated_Glute",
+      "name": "Seated Glute",
+      "componentName": "ExerciseSeatedGluteMuscleMap",
+      "modulePath": "exercises/Seated_Glute.jsx",
+      "primaryMuscles": [
+        "glutes"
+      ],
+      "secondaryMuscles": [
+        "adductors"
+      ],
+      "outputHash": "83888830a8452e179f6fbee9f6452cf8d118d24a9e12b38d01778bc7c995e4be"
+    },
+    {
+      "id": "Seated_Good_Mornings",
+      "name": "Seated Good Mornings",
+      "componentName": "ExerciseSeatedGoodMorningsMuscleMap",
+      "modulePath": "exercises/Seated_Good_Mornings.jsx",
+      "primaryMuscles": [
+        "lower back"
+      ],
+      "secondaryMuscles": [
+        "glutes"
+      ],
+      "outputHash": "dacc22089072861fc66a4577392a738e3fedaf4a9eda48e2e9442b2a2d7b9b91"
+    },
+    {
+      "id": "Seated_Hamstring",
+      "name": "Seated Hamstring",
+      "componentName": "ExerciseSeatedHamstringMuscleMap",
+      "modulePath": "exercises/Seated_Hamstring.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves"
+      ],
+      "outputHash": "0c6ef666142f4f377768c15976654135003cab5ce5f8968a698e3be9f560b7ba"
+    },
+    {
+      "id": "Seated_Hamstring_and_Calf_Stretch",
+      "name": "Seated Hamstring and Calf Stretch",
+      "componentName": "ExerciseSeatedHamstringAndCalfStretchMuscleMap",
+      "modulePath": "exercises/Seated_Hamstring_and_Calf_Stretch.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves"
+      ],
+      "outputHash": "07441bb76739af881e6f68d0c7ada8168523371a87f204367b9544f8ed048988"
+    },
+    {
+      "id": "Seated_Head_Harness_Neck_Resistance",
+      "name": "Seated Head Harness Neck Resistance",
+      "componentName": "ExerciseSeatedHeadHarnessNeckResistanceMuscleMap",
+      "modulePath": "exercises/Seated_Head_Harness_Neck_Resistance.jsx",
+      "primaryMuscles": [
+        "neck"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "05862c869bf0a01e6490985009b7d6034c33aa4f341b36aeaea518a8973ce4f6"
+    },
+    {
+      "id": "Seated_Leg_Curl",
+      "name": "Seated Leg Curl",
+      "componentName": "ExerciseSeatedLegCurlMuscleMap",
+      "modulePath": "exercises/Seated_Leg_Curl.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "67903a1eafd962b25a639d30a8b7a46b9e9d594b04cb54a4a5505dea41da05f1"
+    },
+    {
+      "id": "Seated_Leg_Tucks",
+      "name": "Seated Leg Tucks",
+      "componentName": "ExerciseSeatedLegTucksMuscleMap",
+      "modulePath": "exercises/Seated_Leg_Tucks.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "539f592fb67af4ae79339f2da89f78ea46178a07933ddcc1c60453492de708fd"
+    },
+    {
+      "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+      "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+      "componentName": "ExerciseSeatedOneArmDumbbellPalmsDownWristCurlMuscleMap",
+      "modulePath": "exercises/Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "c8bfd88ac3608aee254dbb35c9cd33fdb5e7b7e5a8dad080bfd983e55a2687c7"
+    },
+    {
+      "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+      "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+      "componentName": "ExerciseSeatedOneArmDumbbellPalmsUpWristCurlMuscleMap",
+      "modulePath": "exercises/Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "45a7eeb7371af96a35b89154e4f5eb3b4f38dc0344afb1f607257038c6ed159a"
+    },
+    {
+      "id": "Seated_One-arm_Cable_Pulley_Rows",
+      "name": "Seated One-arm Cable Pulley Rows",
+      "componentName": "ExerciseSeatedOneArmCablePulleyRowsMuscleMap",
+      "modulePath": "exercises/Seated_One-arm_Cable_Pulley_Rows.jsx",
+      "primaryMuscles": [
+        "middle back"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "lats",
+        "traps"
+      ],
+      "outputHash": "41ac07a6479d3998867fa1d4ebe31e85428183b72206b745a1a6c0a218a29360"
+    },
+    {
+      "id": "Seated_Overhead_Stretch",
+      "name": "Seated Overhead Stretch",
+      "componentName": "ExerciseSeatedOverheadStretchMuscleMap",
+      "modulePath": "exercises/Seated_Overhead_Stretch.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "b980660d480c26aedb897f092624b22d46ca01f37aeb0eb53772ff5c42eced68"
+    },
+    {
+      "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
+      "name": "Seated Palm-Up Barbell Wrist Curl",
+      "componentName": "ExerciseSeatedPalmUpBarbellWristCurlMuscleMap",
+      "modulePath": "exercises/Seated_Palm-Up_Barbell_Wrist_Curl.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "05f0bffa61988f62ea43d9310efb3cf67bf87e51b5c951b315989e457050e254"
+    }
+  ]
+}

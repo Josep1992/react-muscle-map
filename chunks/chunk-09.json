@@ -1,0 +1,677 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": 1,
+  "sourceCount": 873,
+  "sourceHash": "eaea794e30faa4aae55bb8a23ea7fb4b488ec21d88558c77f255248cc618aaaf",
+  "canonicalComponentHash": "26e42ce9182a40b049b6cd5b744ea78620c0c7393a6989f6c9b5c960b95df07f",
+  "chunk": 9,
+  "chunkSize": 50,
+  "totalChunks": 18,
+  "entryCount": 50,
+  "sourceOverlapCount": 9,
+  "entries": [
+    {
+      "id": "Landmine_180s",
+      "name": "Landmine 180's",
+      "componentName": "ExerciseLandmine180sMuscleMap",
+      "modulePath": "exercises/Landmine_180s.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "lower back",
+        "shoulders"
+      ],
+      "outputHash": "ba5c2436daefddd54c718e1ed049f1e82da0119c395cbcf994b2a49cd8881ee1"
+    },
+    {
+      "id": "Landmine_Linear_Jammer",
+      "name": "Landmine Linear Jammer",
+      "componentName": "ExerciseLandmineLinearJammerMuscleMap",
+      "modulePath": "exercises/Landmine_Linear_Jammer.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "abdominals",
+        "calves",
+        "chest",
+        "hamstrings",
+        "quadriceps",
+        "triceps"
+      ],
+      "outputHash": "4fb9a70d69eaf40477e3440d1520aad14646b3c09bc42883df8dbbcf8a12af34"
+    },
+    {
+      "id": "Lateral_Bound",
+      "name": "Lateral Bound",
+      "componentName": "ExerciseLateralBoundMuscleMap",
+      "modulePath": "exercises/Lateral_Bound.jsx",
+      "primaryMuscles": [
+        "adductors"
+      ],
+      "secondaryMuscles": [
+        "abductors",
+        "calves",
+        "glutes",
+        "hamstrings",
+        "quadriceps"
+      ],
+      "outputHash": "469c8d7f0c3203e9d6d5fa7e86dd99a3c3ba7b42fd70ed1d81495817d21f6d46"
+    },
+    {
+      "id": "Lateral_Box_Jump",
+      "name": "Lateral Box Jump",
+      "componentName": "ExerciseLateralBoxJumpMuscleMap",
+      "modulePath": "exercises/Lateral_Box_Jump.jsx",
+      "primaryMuscles": [
+        "adductors"
+      ],
+      "secondaryMuscles": [
+        "abductors",
+        "calves",
+        "glutes",
+        "hamstrings",
+        "quadriceps"
+      ],
+      "outputHash": "741874e43941ad69bb496b876efc30fb78a3dc75868135f43eaa4310e8dd9a5a"
+    },
+    {
+      "id": "Lateral_Cone_Hops",
+      "name": "Lateral Cone Hops",
+      "componentName": "ExerciseLateralConeHopsMuscleMap",
+      "modulePath": "exercises/Lateral_Cone_Hops.jsx",
+      "primaryMuscles": [
+        "adductors"
+      ],
+      "secondaryMuscles": [
+        "abductors",
+        "calves",
+        "glutes",
+        "hamstrings",
+        "quadriceps"
+      ],
+      "outputHash": "4960d0487835381dfa6beb4325bd6e9a460c169decb1c48afc904630933fc8d9"
+    },
+    {
+      "id": "Lateral_Raise_-_With_Bands",
+      "name": "Lateral Raise - With Bands",
+      "componentName": "ExerciseLateralRaiseWithBandsMuscleMap",
+      "modulePath": "exercises/Lateral_Raise_-_With_Bands.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "c125683bbd757c2729aca281699d7b4deb33b39fa6db4f561a2966e3c6e072e0"
+    },
+    {
+      "id": "Latissimus_Dorsi-SMR",
+      "name": "Latissimus Dorsi-SMR",
+      "componentName": "ExerciseLatissimusDorsiSMRMuscleMap",
+      "modulePath": "exercises/Latissimus_Dorsi-SMR.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "ce9a6b35d9fb21d3c1a0dcc3840e992029f513fac6b82d1f83b024c18baedebf"
+    },
+    {
+      "id": "Leg-Over_Floor_Press",
+      "name": "Leg-Over Floor Press",
+      "componentName": "ExerciseLegOverFloorPressMuscleMap",
+      "modulePath": "exercises/Leg-Over_Floor_Press.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "outputHash": "252721422c20d40019a5612133ca24b49f8afac19dada545ae497014ca80f9f9"
+    },
+    {
+      "id": "Leg-Up_Hamstring_Stretch",
+      "name": "Leg-Up Hamstring Stretch",
+      "componentName": "ExerciseLegUpHamstringStretchMuscleMap",
+      "modulePath": "exercises/Leg-Up_Hamstring_Stretch.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "4641704f35509de1648750d9b428e940550f017d4a2442159c03d7a16d2e7c6e"
+    },
+    {
+      "id": "Leg_Extensions",
+      "name": "Leg Extensions",
+      "componentName": "ExerciseLegExtensionsMuscleMap",
+      "modulePath": "exercises/Leg_Extensions.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "75ec9224342856e3e8ab76b8057dfe18e5c891ffa4279262c090366bee17765b"
+    },
+    {
+      "id": "Leg_Lift",
+      "name": "Leg Lift",
+      "componentName": "ExerciseLegLiftMuscleMap",
+      "modulePath": "exercises/Leg_Lift.jsx",
+      "primaryMuscles": [
+        "glutes"
+      ],
+      "secondaryMuscles": [
+        "hamstrings"
+      ],
+      "outputHash": "43c986973e96202a0ef4db280da502e860b0d688f21a5dd2aed5fa6db79678e2"
+    },
+    {
+      "id": "Leg_Press",
+      "name": "Leg Press",
+      "componentName": "ExerciseLegPressMuscleMap",
+      "modulePath": "exercises/Leg_Press.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "c548567ac8fa0cbda63fd1e2c71bfa214ad1b87b5b1d1ca648e631a716bf1e39"
+    },
+    {
+      "id": "Leg_Pull-In",
+      "name": "Leg Pull-In",
+      "componentName": "ExerciseLegPullInMuscleMap",
+      "modulePath": "exercises/Leg_Pull-In.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "74aa8c83773fefe158aac41318d9d1bcc62a20078ef47b81371fd1701ecab1c8"
+    },
+    {
+      "id": "Leverage_Chest_Press",
+      "name": "Leverage Chest Press",
+      "componentName": "ExerciseLeverageChestPressMuscleMap",
+      "modulePath": "exercises/Leverage_Chest_Press.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "outputHash": "71423148da86322fdba0da0c4ba6931fff94781c8d52465ff592ebec6c8343e0"
+    },
+    {
+      "id": "Leverage_Deadlift",
+      "name": "Leverage Deadlift",
+      "componentName": "ExerciseLeverageDeadliftMuscleMap",
+      "modulePath": "exercises/Leverage_Deadlift.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "047700493fbabe1d77a05b4982a26f8785dad0752a4ca7a507397ff49c41b2a4"
+    },
+    {
+      "id": "Leverage_Decline_Chest_Press",
+      "name": "Leverage Decline Chest Press",
+      "componentName": "ExerciseLeverageDeclineChestPressMuscleMap",
+      "modulePath": "exercises/Leverage_Decline_Chest_Press.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "outputHash": "48720b6b91826c21700919191301ffeec7eed7616688f068e75b459c1b0007cb"
+    },
+    {
+      "id": "Leverage_High_Row",
+      "name": "Leverage High Row",
+      "componentName": "ExerciseLeverageHighRowMuscleMap",
+      "modulePath": "exercises/Leverage_High_Row.jsx",
+      "primaryMuscles": [
+        "middle back"
+      ],
+      "secondaryMuscles": [
+        "lats"
+      ],
+      "outputHash": "0e551b98f25ae16159b984beb6683bb6033b8d6c0d2ccb5463c785a470b00267"
+    },
+    {
+      "id": "Leverage_Incline_Chest_Press",
+      "name": "Leverage Incline Chest Press",
+      "componentName": "ExerciseLeverageInclineChestPressMuscleMap",
+      "modulePath": "exercises/Leverage_Incline_Chest_Press.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "outputHash": "1e4337183d0d108b45553ad0e6dc8e46250ed4748e04a3d2fb954b14ebb8bf78"
+    },
+    {
+      "id": "Leverage_Iso_Row",
+      "name": "Leverage Iso Row",
+      "componentName": "ExerciseLeverageIsoRowMuscleMap",
+      "modulePath": "exercises/Leverage_Iso_Row.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "middle back"
+      ],
+      "outputHash": "40e23ed6e7e7a979f888af096a2a6ce90a8c591c1b41d9048f8ef9d13546e0d1"
+    },
+    {
+      "id": "Leverage_Shoulder_Press",
+      "name": "Leverage Shoulder Press",
+      "componentName": "ExerciseLeverageShoulderPressMuscleMap",
+      "modulePath": "exercises/Leverage_Shoulder_Press.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "triceps"
+      ],
+      "outputHash": "4aa45af09c295583af20cd3d38ba6e21ca6142473b10ea2b45f57e0b00d6155e"
+    },
+    {
+      "id": "Leverage_Shrug",
+      "name": "Leverage Shrug",
+      "componentName": "ExerciseLeverageShrugMuscleMap",
+      "modulePath": "exercises/Leverage_Shrug.jsx",
+      "primaryMuscles": [
+        "traps"
+      ],
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "outputHash": "d747b581871d8e4a46ec3157e5b5b718de6b8dbf0a0200c9d86930be886d94e4"
+    },
+    {
+      "id": "Linear_3-Part_Start_Technique",
+      "name": "Linear 3-Part Start Technique",
+      "componentName": "ExerciseLinear3PartStartTechniqueMuscleMap",
+      "modulePath": "exercises/Linear_3-Part_Start_Technique.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "quadriceps"
+      ],
+      "outputHash": "2683b1cb544d1faa0029ecd775557489b48a58ae91789cd1ebb0652c0789b9ed"
+    },
+    {
+      "id": "Linear_Acceleration_Wall_Drill",
+      "name": "Linear Acceleration Wall Drill",
+      "componentName": "ExerciseLinearAccelerationWallDrillMuscleMap",
+      "modulePath": "exercises/Linear_Acceleration_Wall_Drill.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "quadriceps"
+      ],
+      "outputHash": "7cc13f6d9b0383dad70eecfc43f63c36d70cf775041dcda78c39929ac616efb4"
+    },
+    {
+      "id": "Linear_Depth_Jump",
+      "name": "Linear Depth Jump",
+      "componentName": "ExerciseLinearDepthJumpMuscleMap",
+      "modulePath": "exercises/Linear_Depth_Jump.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "24cff3896a8dcaca3426cf34ff44559619f024c91780f29f2f7f3b60757344df"
+    },
+    {
+      "id": "Log_Lift",
+      "name": "Log Lift",
+      "componentName": "ExerciseLogLiftMuscleMap",
+      "modulePath": "exercises/Log_Lift.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "abdominals",
+        "chest",
+        "glutes",
+        "hamstrings",
+        "lower back",
+        "middle back",
+        "quadriceps",
+        "traps",
+        "triceps"
+      ],
+      "outputHash": "322adca139de40f18c769b5622e0526dc6224f45c19d044fc70a0451ad0ec122"
+    },
+    {
+      "id": "London_Bridges",
+      "name": "London Bridges",
+      "componentName": "ExerciseLondonBridgesMuscleMap",
+      "modulePath": "exercises/London_Bridges.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "middle back"
+      ],
+      "outputHash": "34d1c9671fc535ecacd6fb1d58f13cde644ddf332cf2f3a89b319966d58ed82c"
+    },
+    {
+      "id": "Looking_At_Ceiling",
+      "name": "Looking At Ceiling",
+      "componentName": "ExerciseLookingAtCeilingMuscleMap",
+      "modulePath": "exercises/Looking_At_Ceiling.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "cb96d91f71853896ed207cd99f46d8b3894c0ce1f761c1de987f5d29f352979c"
+    },
+    {
+      "id": "Low_Cable_Crossover",
+      "name": "Low Cable Crossover",
+      "componentName": "ExerciseLowCableCrossoverMuscleMap",
+      "modulePath": "exercises/Low_Cable_Crossover.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders"
+      ],
+      "outputHash": "16c6e7e69375a63d1ebe7af7638db9dfe7121877aec161c00dd5cc0dd402a66f"
+    },
+    {
+      "id": "Low_Cable_Triceps_Extension",
+      "name": "Low Cable Triceps Extension",
+      "componentName": "ExerciseLowCableTricepsExtensionMuscleMap",
+      "modulePath": "exercises/Low_Cable_Triceps_Extension.jsx",
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "2d116332a48008a1a2f64c543a899fed5196d188c42675cd152e1ec351da988e"
+    },
+    {
+      "id": "Low_Pulley_Row_To_Neck",
+      "name": "Low Pulley Row To Neck",
+      "componentName": "ExerciseLowPulleyRowToNeckMuscleMap",
+      "modulePath": "exercises/Low_Pulley_Row_To_Neck.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "middle back",
+        "traps"
+      ],
+      "outputHash": "26199ba2b035432ed1cf11d0fe807bfe7bb28d94857e4769d566f49b33063faa"
+    },
+    {
+      "id": "Lower_Back-SMR",
+      "name": "Lower Back-SMR",
+      "componentName": "ExerciseLowerBackSMRMuscleMap",
+      "modulePath": "exercises/Lower_Back-SMR.jsx",
+      "primaryMuscles": [
+        "lower back"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "7907461703c0a999340e4709cd44d503a8191e3e4c97b068fb0b58e529409f77"
+    },
+    {
+      "id": "Lower_Back_Curl",
+      "name": "Lower Back Curl",
+      "componentName": "ExerciseLowerBackCurlMuscleMap",
+      "modulePath": "exercises/Lower_Back_Curl.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "af5014a72379b85902f84e7c24661bc2f386bd5739b50c7e857f83060ea63a1c"
+    },
+    {
+      "id": "Lunge_Pass_Through",
+      "name": "Lunge Pass Through",
+      "componentName": "ExerciseLungePassThroughMuscleMap",
+      "modulePath": "exercises/Lunge_Pass_Through.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "quadriceps"
+      ],
+      "outputHash": "232a9cf0f0bc09ec3af1312add55b1ce60f683aa458dc74934a9f3f712bd3208"
+    },
+    {
+      "id": "Lunge_Sprint",
+      "name": "Lunge Sprint",
+      "componentName": "ExerciseLungeSprintMuscleMap",
+      "modulePath": "exercises/Lunge_Sprint.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "d0fd23333b08d41ee81d7f876836902fb0b20858c95b1571e086a01a6ef4972b"
+    },
+    {
+      "id": "Lying_Bent_Leg_Groin",
+      "name": "Lying Bent Leg Groin",
+      "componentName": "ExerciseLyingBentLegGroinMuscleMap",
+      "modulePath": "exercises/Lying_Bent_Leg_Groin.jsx",
+      "primaryMuscles": [
+        "adductors"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "f6517d2145192434b9ca874a90520904bf4b4fdba6f512824afb8d0a85bcb24e"
+    },
+    {
+      "id": "Lying_Cable_Curl",
+      "name": "Lying Cable Curl",
+      "componentName": "ExerciseLyingCableCurlMuscleMap",
+      "modulePath": "exercises/Lying_Cable_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "a634404b1e50778d74bf147b215b86e630ba7f16b469e70260ef65331025623b"
+    },
+    {
+      "id": "Lying_Cambered_Barbell_Row",
+      "name": "Lying Cambered Barbell Row",
+      "componentName": "ExerciseLyingCamberedBarbellRowMuscleMap",
+      "modulePath": "exercises/Lying_Cambered_Barbell_Row.jsx",
+      "primaryMuscles": [
+        "middle back"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "lats",
+        "traps"
+      ],
+      "outputHash": "7a2f0c72fce18502cdaa68392c9840eb439084c5f85c733feb3313018642b8ba"
+    },
+    {
+      "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+      "name": "Lying Close-Grip Bar Curl On High Pulley",
+      "componentName": "ExerciseLyingCloseGripBarCurlOnHighPulleyMuscleMap",
+      "modulePath": "exercises/Lying_Close-Grip_Bar_Curl_On_High_Pulley.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "acf7cc146a0cf0612c60bc33f8114ca1e0c7a6258c2e5405fc0fb0aae5d62db2"
+    },
+    {
+      "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+      "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+      "componentName": "ExerciseLyingCloseGripBarbellTricepsExtensionBehindTheHeadMuscleMap",
+      "modulePath": "exercises/Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head.jsx",
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "2f9e0d6dec575725220fa03657df410fa690f19c157e36551c06783999a8df22"
+    },
+    {
+      "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
+      "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+      "componentName": "ExerciseLyingCloseGripBarbellTricepsPressToChinMuscleMap",
+      "modulePath": "exercises/Lying_Close-Grip_Barbell_Triceps_Press_To_Chin.jsx",
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "d5c0a30ad9257799cb08f9822def73109523201ff4374440478e464dc3d1f2f0"
+    },
+    {
+      "id": "Lying_Crossover",
+      "name": "Lying Crossover",
+      "componentName": "ExerciseLyingCrossoverMuscleMap",
+      "modulePath": "exercises/Lying_Crossover.jsx",
+      "primaryMuscles": [
+        "abductors"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "6a1eed67b8c6fbd5b42cf3d0e6c1eb1af0cc7bf43112e190160c8745f06bf19d"
+    },
+    {
+      "id": "Lying_Dumbbell_Tricep_Extension",
+      "name": "Lying Dumbbell Tricep Extension",
+      "componentName": "ExerciseLyingDumbbellTricepExtensionMuscleMap",
+      "modulePath": "exercises/Lying_Dumbbell_Tricep_Extension.jsx",
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [
+        "chest",
+        "shoulders"
+      ],
+      "outputHash": "a506c2fd0496d5414f6d61150c85975e3aab631dd1bdbc46d8fba6d00be1acbc"
+    },
+    {
+      "id": "Lying_Face_Down_Plate_Neck_Resistance",
+      "name": "Lying Face Down Plate Neck Resistance",
+      "componentName": "ExerciseLyingFaceDownPlateNeckResistanceMuscleMap",
+      "modulePath": "exercises/Lying_Face_Down_Plate_Neck_Resistance.jsx",
+      "primaryMuscles": [
+        "neck"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "09eec7e0b3b0acff3a717bf6232fd80e6dde3b03035e665d85bb4ec7444de843"
+    },
+    {
+      "id": "Lying_Face_Up_Plate_Neck_Resistance",
+      "name": "Lying Face Up Plate Neck Resistance",
+      "componentName": "ExerciseLyingFaceUpPlateNeckResistanceMuscleMap",
+      "modulePath": "exercises/Lying_Face_Up_Plate_Neck_Resistance.jsx",
+      "primaryMuscles": [
+        "neck"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "964d88ff5d8a375e29d4b4508de1e74eb62a9de84d7168a93bc9383f18183895"
+    },
+    {
+      "id": "Lying_Glute",
+      "name": "Lying Glute",
+      "componentName": "ExerciseLyingGluteMuscleMap",
+      "modulePath": "exercises/Lying_Glute.jsx",
+      "primaryMuscles": [
+        "glutes"
+      ],
+      "secondaryMuscles": [
+        "abductors"
+      ],
+      "outputHash": "c40c4394a1de356bee9dbb8880c567b347155a936774af76e9c2e62703021ea8"
+    },
+    {
+      "id": "Lying_Hamstring",
+      "name": "Lying Hamstring",
+      "componentName": "ExerciseLyingHamstringMuscleMap",
+      "modulePath": "exercises/Lying_Hamstring.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves"
+      ],
+      "outputHash": "d2624189b5721da9d8df9a2fbb8b7255c2a5a8f20a58941955832f179c77e773"
+    },
+    {
+      "id": "Lying_High_Bench_Barbell_Curl",
+      "name": "Lying High Bench Barbell Curl",
+      "componentName": "ExerciseLyingHighBenchBarbellCurlMuscleMap",
+      "modulePath": "exercises/Lying_High_Bench_Barbell_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "0a5c509827f88dace922d0690f2088c17e98352eb8d06be6878d8e25dae704f7"
+    },
+    {
+      "id": "Lying_Leg_Curls",
+      "name": "Lying Leg Curls",
+      "componentName": "ExerciseLyingLegCurlsMuscleMap",
+      "modulePath": "exercises/Lying_Leg_Curls.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "eddb4f2d39a727a3193797be85f19d5c0e185a0f93c74d7583173687764427e9"
+    },
+    {
+      "id": "Lying_Machine_Squat",
+      "name": "Lying Machine Squat",
+      "componentName": "ExerciseLyingMachineSquatMuscleMap",
+      "modulePath": "exercises/Lying_Machine_Squat.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "f792a125baf0dbaee717080e1defb0cd0b1635f3fdcc4eb61f70694ab750c26a"
+    },
+    {
+      "id": "Lying_One-Arm_Lateral_Raise",
+      "name": "Lying One-Arm Lateral Raise",
+      "componentName": "ExerciseLyingOneArmLateralRaiseMuscleMap",
+      "modulePath": "exercises/Lying_One-Arm_Lateral_Raise.jsx",
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "564362f73fc3855de509f12641776e74fb585f5f9b222665a9edb23a7c269199"
+    }
+  ]
+}

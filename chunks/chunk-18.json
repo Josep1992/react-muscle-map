@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": 1,
+  "sourceCount": 873,
+  "sourceHash": "eaea794e30faa4aae55bb8a23ea7fb4b488ec21d88558c77f255248cc618aaaf",
+  "canonicalComponentHash": "26e42ce9182a40b049b6cd5b744ea78620c0c7393a6989f6c9b5c960b95df07f",
+  "chunk": 18,
+  "chunkSize": 50,
+  "totalChunks": 18,
+  "entryCount": 23,
+  "sourceOverlapCount": 9,
+  "entries": [
+    {
+      "id": "Weighted_Pull_Ups",
+      "name": "Weighted Pull Ups",
+      "componentName": "ExerciseWeightedPullUpsMuscleMap",
+      "modulePath": "exercises/Weighted_Pull_Ups.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "middle back"
+      ],
+      "outputHash": "f86098d844eb30c6e4790ce7a4b3ae9b518e3d5528462ee98d0937a7d51314c0"
+    },
+    {
+      "id": "Weighted_Sissy_Squat",
+      "name": "Weighted Sissy Squat",
+      "componentName": "ExerciseWeightedSissySquatMuscleMap",
+      "modulePath": "exercises/Weighted_Sissy_Squat.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "288895f078ed1bfb6f606d6eed7ae1a8570e467b1b49987a1db7f19f3d750b71"
+    },
+    {
+      "id": "Weighted_Sit-Ups_-_With_Bands",
+      "name": "Weighted Sit-Ups - With Bands",
+      "componentName": "ExerciseWeightedSitUpsWithBandsMuscleMap",
+      "modulePath": "exercises/Weighted_Sit-Ups_-_With_Bands.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "634e602e5394dcfc6adf0eac1b2f034458bc4173aed7cec671b16a1d873dbfb5"
+    },
+    {
+      "id": "Weighted_Squat",
+      "name": "Weighted Squat",
+      "componentName": "ExerciseWeightedSquatMuscleMap",
+      "modulePath": "exercises/Weighted_Squat.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "79326740f9c81a8e4ac32667351da100b4584bcbc896aeb30d64620c69f742d2"
+    },
+    {
+      "id": "Wide-Grip_Barbell_Bench_Press",
+      "name": "Wide-Grip Barbell Bench Press",
+      "componentName": "ExerciseWideGripBarbellBenchPressMuscleMap",
+      "modulePath": "exercises/Wide-Grip_Barbell_Bench_Press.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "outputHash": "d6ca4ff07d8a25708be9efcab3768bfd44460203ce3abfeaff53d37fa41c92bb"
+    },
+    {
+      "id": "Wide-Grip_Decline_Barbell_Bench_Press",
+      "name": "Wide-Grip Decline Barbell Bench Press",
+      "componentName": "ExerciseWideGripDeclineBarbellBenchPressMuscleMap",
+      "modulePath": "exercises/Wide-Grip_Decline_Barbell_Bench_Press.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "outputHash": "55f496339ebb60df56035c64b6a18d2e0a5084acc0242f90b93c726c6d780f6c"
+    },
+    {
+      "id": "Wide-Grip_Decline_Barbell_Pullover",
+      "name": "Wide-Grip Decline Barbell Pullover",
+      "componentName": "ExerciseWideGripDeclineBarbellPulloverMuscleMap",
+      "modulePath": "exercises/Wide-Grip_Decline_Barbell_Pullover.jsx",
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "outputHash": "a579bd0777a8ae9900d7b078203e641878b070ceebc25acb9ffe5108da1d0fed"
+    },
+    {
+      "id": "Wide-Grip_Lat_Pulldown",
+      "name": "Wide-Grip Lat Pulldown",
+      "componentName": "ExerciseWideGripLatPulldownMuscleMap",
+      "modulePath": "exercises/Wide-Grip_Lat_Pulldown.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "middle back",
+        "shoulders"
+      ],
+      "outputHash": "1f26b8e61cf1b4511bf7cf44f11e73a637c42c7501506321f2ba204321aa7a7e"
+    },
+    {
+      "id": "Wide-Grip_Pulldown_Behind_The_Neck",
+      "name": "Wide-Grip Pulldown Behind The Neck",
+      "componentName": "ExerciseWideGripPulldownBehindTheNeckMuscleMap",
+      "modulePath": "exercises/Wide-Grip_Pulldown_Behind_The_Neck.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "middle back",
+        "shoulders"
+      ],
+      "outputHash": "1dd24ad5fe1f59c450023e976424586ec4c52eb38fb015b9f35b9baffaf6fbbf"
+    },
+    {
+      "id": "Wide-Grip_Rear_Pull-Up",
+      "name": "Wide-Grip Rear Pull-Up",
+      "componentName": "ExerciseWideGripRearPullUpMuscleMap",
+      "modulePath": "exercises/Wide-Grip_Rear_Pull-Up.jsx",
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "middle back",
+        "shoulders"
+      ],
+      "outputHash": "98fe2b257f72c4f52a79dd993ca2a4bdddf8e4d2ac1f936acb41729cbd9555e9"
+    },
+    {
+      "id": "Wide-Grip_Standing_Barbell_Curl",
+      "name": "Wide-Grip Standing Barbell Curl",
+      "componentName": "ExerciseWideGripStandingBarbellCurlMuscleMap",
+      "modulePath": "exercises/Wide-Grip_Standing_Barbell_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "56dcccca4055500b3c37504025d8a69902133c70a5826b567b2042dbfd61033a"
+    },
+    {
+      "id": "Wide_Stance_Barbell_Squat",
+      "name": "Wide Stance Barbell Squat",
+      "componentName": "ExerciseWideStanceBarbellSquatMuscleMap",
+      "modulePath": "exercises/Wide_Stance_Barbell_Squat.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings",
+        "lower back"
+      ],
+      "outputHash": "96391bfe756ce775e2e579ae495f5218cdc2a62dee6b7afbf2c72a8a45fcdb68"
+    },
+    {
+      "id": "Wide_Stance_Stiff_Legs",
+      "name": "Wide Stance Stiff Legs",
+      "componentName": "ExerciseWideStanceStiffLegsMuscleMap",
+      "modulePath": "exercises/Wide_Stance_Stiff_Legs.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "adductors",
+        "glutes",
+        "lower back"
+      ],
+      "outputHash": "59bc9b85b40ce56ae9b231a00c4d6cc22a5e8bfb5269adb213f9443608650665"
+    },
+    {
+      "id": "Wind_Sprints",
+      "name": "Wind Sprints",
+      "componentName": "ExerciseWindSprintsMuscleMap",
+      "modulePath": "exercises/Wind_Sprints.jsx",
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "0aad23f2a06dd0ae48fd1677d71c94530b5477689277f107c812da1559cca5b0"
+    },
+    {
+      "id": "Windmills",
+      "name": "Windmills",
+      "componentName": "ExerciseWindmillsMuscleMap",
+      "modulePath": "exercises/Windmills.jsx",
+      "primaryMuscles": [
+        "abductors"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "lower back"
+      ],
+      "outputHash": "a474954b8d383e758570a6264cad51d347d81da3031e973d6143595de25b0ccb"
+    },
+    {
+      "id": "Worlds_Greatest_Stretch",
+      "name": "World's Greatest Stretch",
+      "componentName": "ExerciseWorldsGreatestStretchMuscleMap",
+      "modulePath": "exercises/Worlds_Greatest_Stretch.jsx",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "quadriceps"
+      ],
+      "outputHash": "77f2e9ec459b220b4328884679bbe9dbffb48d4c05a0109b4fd3c5076c4db1f4"
+    },
+    {
+      "id": "Wrist_Circles",
+      "name": "Wrist Circles",
+      "componentName": "ExerciseWristCirclesMuscleMap",
+      "modulePath": "exercises/Wrist_Circles.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "3f67a29d064538c2110d548ab0aca7f0c1aa25175b706686dac2de4cf2793d8a"
+    },
+    {
+      "id": "Wrist_Roller",
+      "name": "Wrist Roller",
+      "componentName": "ExerciseWristRollerMuscleMap",
+      "modulePath": "exercises/Wrist_Roller.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [
+        "shoulders"
+      ],
+      "outputHash": "6cbb1ebd8b2b44e40cadc6f08a11ba12971805204225d0a961140255f8b66130"
+    },
+    {
+      "id": "Wrist_Rotations_with_Straight_Bar",
+      "name": "Wrist Rotations with Straight Bar",
+      "componentName": "ExerciseWristRotationsWithStraightBarMuscleMap",
+      "modulePath": "exercises/Wrist_Rotations_with_Straight_Bar.jsx",
+      "primaryMuscles": [
+        "forearms"
+      ],
+      "secondaryMuscles": [],
+      "outputHash": "8bbe604b4e7b6cab8034c412023c5fb293d52de8bb2316280a6295b1e3902362"
+    },
+    {
+      "id": "Yoke_Walk",
+      "name": "Yoke Walk",
+      "componentName": "ExerciseYokeWalkMuscleMap",
+      "modulePath": "exercises/Yoke_Walk.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "abdominals",
+        "abductors",
+        "adductors",
+        "calves",
+        "glutes",
+        "hamstrings",
+        "lower back"
+      ],
+      "outputHash": "0f4790b5dda0b5e5ac324bf4515a9e7f4817888a41f396b5fb03f2bce69251a3"
+    },
+    {
+      "id": "Zercher_Squats",
+      "name": "Zercher Squats",
+      "componentName": "ExerciseZercherSquatsMuscleMap",
+      "modulePath": "exercises/Zercher_Squats.jsx",
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "outputHash": "c5fab2848bec6c47b1bdb982cda322b9fa074a0e3d91a7f2a56439cac79a5d0a"
+    },
+    {
+      "id": "Zottman_Curl",
+      "name": "Zottman Curl",
+      "componentName": "ExerciseZottmanCurlMuscleMap",
+      "modulePath": "exercises/Zottman_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "outputHash": "4737183e2f334cb809de2daf3e769b5f4dbb0238707a513c1cb95af5b3680b1d"
+    },
+    {
+      "id": "Zottman_Preacher_Curl",
+      "name": "Zottman Preacher Curl",
+      "componentName": "ExerciseZottmanPreacherCurlMuscleMap",
+      "modulePath": "exercises/Zottman_Preacher_Curl.jsx",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "outputHash": "13e9e378069ebf0d6b805cc0e9d00bddb063f3bf3ffdb0eefc7969ffd85c5a3c"
+    }
+  ]
+}

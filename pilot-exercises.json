@@ -1,0 +1,52 @@
+[
+  {
+    "id": "3_4_Sit-Up",
+    "primaryMuscles": ["abdominals"],
+    "secondaryMuscles": []
+  },
+  {
+    "id": "Barbell_Bench_Press_-_Medium_Grip",
+    "primaryMuscles": ["chest"],
+    "secondaryMuscles": ["shoulders", "triceps"]
+  },
+  {
+    "id": "Barbell_Full_Squat",
+    "primaryMuscles": ["quadriceps"],
+    "secondaryMuscles": ["calves", "glutes", "hamstrings", "lower back"]
+  },
+  {
+    "id": "Pullups",
+    "primaryMuscles": ["lats"],
+    "secondaryMuscles": ["biceps", "middle back"]
+  },
+  {
+    "id": "Barbell_Shoulder_Press",
+    "primaryMuscles": ["shoulders"],
+    "secondaryMuscles": ["chest", "triceps"]
+  },
+  {
+    "id": "Barbell_Curl",
+    "primaryMuscles": ["biceps"],
+    "secondaryMuscles": ["forearms"]
+  },
+  {
+    "id": "Triceps_Pushdown",
+    "primaryMuscles": ["triceps"],
+    "secondaryMuscles": []
+  },
+  {
+    "id": "Standing_Calf_Raises",
+    "primaryMuscles": ["calves"],
+    "secondaryMuscles": []
+  },
+  {
+    "id": "Hyperextensions_Back_Extensions",
+    "primaryMuscles": ["lower back"],
+    "secondaryMuscles": ["glutes", "hamstrings"]
+  },
+  {
+    "id": "Barbell_Shrug",
+    "primaryMuscles": ["traps"],
+    "secondaryMuscles": []
+  }
+]

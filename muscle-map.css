@@ -1,0 +1,38 @@
+.muscle-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+}
+
+.muscle-map__body {
+  fill: var(--muscle-body-color, #eff0f2);
+}
+
+.muscle-map__group {
+  fill: var(--muscle-inactive-color, #b9bcc3);
+  stroke: var(--muscle-separator-color, #f8f8f9);
+  stroke-linejoin: round;
+  stroke-width: 3;
+  transition: fill 180ms ease;
+}
+
+.muscle-map__group[data-state='primary'] {
+  fill: var(--muscle-primary-color, #2447c6);
+}
+
+.muscle-map__group[data-state='secondary'] {
+  fill: var(--muscle-secondary-color, #7790e5);
+}
+
+.muscle-map__seam {
+  fill: none;
+  stroke: var(--muscle-separator-color, #f8f8f9);
+  stroke-width: 3;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .muscle-map__group {
+    transition: none;
+  }
+}

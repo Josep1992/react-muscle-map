@@ -1,0 +1,4376 @@
+{
+  "schemaVersion": 1,
+  "exerciseCount": 873,
+  "muscleGroupCount": 17,
+  "aggregatePath": "exercises.json",
+  "splitDirectory": "exercises",
+  "sourceHash": "6c8525ddf60689ca7080dd5c5b7b1e829836fa565268fc36b79ce64456b4942f",
+  "aggregateHash": "6c8525ddf60689ca7080dd5c5b7b1e829836fa565268fc36b79ce64456b4942f",
+  "entries": [
+    {
+      "id": "3_4_Sit-Up",
+      "path": "exercises/3_4_Sit-Up.json",
+      "hash": "c973d6daa9b309ff1985ae7fa0078d2b6c8698de7b9d650af689457f8b03b5f9"
+    },
+    {
+      "id": "90_90_Hamstring",
+      "path": "exercises/90_90_Hamstring.json",
+      "hash": "ca0a232d8f34f2e3e27b0ee2b2706024c76e8c96e7dcedeb2446aa22ea7ffdb3"
+    },
+    {
+      "id": "Ab_Crunch_Machine",
+      "path": "exercises/Ab_Crunch_Machine.json",
+      "hash": "66c0cc50f205909808ff366b0bba5558fedbc78958843b461814ce8ccdac6d5e"
+    },
+    {
+      "id": "Ab_Roller",
+      "path": "exercises/Ab_Roller.json",
+      "hash": "a050e074c44d2a0411b83125bd16f423fe34ca6ef323ca3bb339f03d8bf26a1d"
+    },
+    {
+      "id": "Adductor",
+      "path": "exercises/Adductor.json",
+      "hash": "378bef7360ac644a911956e65d4bd7b475edde75c4ff8968f27131fd73246fc0"
+    },
+    {
+      "id": "Adductor_Groin",
+      "path": "exercises/Adductor_Groin.json",
+      "hash": "302251f9ad58b3fb195442c7e1536c836e0fb51417d9ffdb9d68a416dc3af665"
+    },
+    {
+      "id": "Advanced_Kettlebell_Windmill",
+      "path": "exercises/Advanced_Kettlebell_Windmill.json",
+      "hash": "052142d1b356e2f8796ce006a97cceead1af1173f60c7c4bd5e63a6068a84091"
+    },
+    {
+      "id": "Air_Bike",
+      "path": "exercises/Air_Bike.json",
+      "hash": "db3b741fd9b3b1e5fce2c39b3bd4ae632bb08f60d03220274a03ecda27958c0d"
+    },
+    {
+      "id": "All_Fours_Quad_Stretch",
+      "path": "exercises/All_Fours_Quad_Stretch.json",
+      "hash": "35b175ebdb3bbf0cefffc07f64628b91cca2fd330bd8e34693c68e0fee2d9131"
+    },
+    {
+      "id": "Alternate_Hammer_Curl",
+      "path": "exercises/Alternate_Hammer_Curl.json",
+      "hash": "c541a2da156eb2cfecbcc62642933e1b9d93d60343bef9f076ca2bad778ad8f0"
+    },
+    {
+      "id": "Alternate_Heel_Touchers",
+      "path": "exercises/Alternate_Heel_Touchers.json",
+      "hash": "0059e42d49bd360901679f0dba6740306b5fea1f6620b25b5de35af9b52bcbdb"
+    },
+    {
+      "id": "Alternate_Incline_Dumbbell_Curl",
+      "path": "exercises/Alternate_Incline_Dumbbell_Curl.json",
+      "hash": "78b0aad7be592816acfd7db73e040804aad5e337757fd1d6a48c2977973c8ad0"
+    },
+    {
+      "id": "Alternate_Leg_Diagonal_Bound",
+      "path": "exercises/Alternate_Leg_Diagonal_Bound.json",
+      "hash": "3300eeabce78eb529b4e70bd589b41f1f2b2247e7df7a78d1d206517ac6b9fdc"
+    },
+    {
+      "id": "Alternating_Cable_Shoulder_Press",
+      "path": "exercises/Alternating_Cable_Shoulder_Press.json",
+      "hash": "5f53145f390b62ce09072c365ae9014757b933178cadb884640c68d0b343635f"
+    },
+    {
+      "id": "Alternating_Deltoid_Raise",
+      "path": "exercises/Alternating_Deltoid_Raise.json",
+      "hash": "1ef5a2d4a950f4a32e7d3e5bedcb41132e05a951cef8d787aebd0ffd4d90b903"
+    },
+    {
+      "id": "Alternating_Floor_Press",
+      "path": "exercises/Alternating_Floor_Press.json",
+      "hash": "5584187bd4c9ca59d61857ce7cd37f86a6dde7dd244f058f2ad4bcbb8a2fab46"
+    },
+    {
+      "id": "Alternating_Hang_Clean",
+      "path": "exercises/Alternating_Hang_Clean.json",
+      "hash": "0df329d3d2410f3adf7f927c501ef99ded17fe6f06148b0a87239bf4e5ce023a"
+    },
+    {
+      "id": "Alternating_Kettlebell_Press",
+      "path": "exercises/Alternating_Kettlebell_Press.json",
+      "hash": "302bde71e2038f7e67eabd2a8cdad09f4dfa8e5c4b3b61d2b67fbc98c4f6a9e8"
+    },
+    {
+      "id": "Alternating_Kettlebell_Row",
+      "path": "exercises/Alternating_Kettlebell_Row.json",
+      "hash": "890a272a7168714564e2ab017cb5ad487bf6e497ed9e25b9b83da9e586ebf78b"
+    },
+    {
+      "id": "Alternating_Renegade_Row",
+      "path": "exercises/Alternating_Renegade_Row.json",
+      "hash": "dd5176f5ee1028d09babe561ab02db84a1bc354dcb38eaa4c82ed5b2eac4bc52"
+    },
+    {
+      "id": "Ankle_Circles",
+      "path": "exercises/Ankle_Circles.json",
+      "hash": "920682a1788183eb548d909ce06153a4573fb52e7c701ab82ef29ea8606b8917"
+    },
+    {
+      "id": "Ankle_On_The_Knee",
+      "path": "exercises/Ankle_On_The_Knee.json",
+      "hash": "f42ecbb96d708da157c048bbe317fb38b984e758cb398587eeb33fc92f775a86"
+    },
+    {
+      "id": "Anterior_Tibialis-SMR",
+      "path": "exercises/Anterior_Tibialis-SMR.json",
+      "hash": "e34160ab405f9294698547d3d2b8c3acef3d75959f1b3259c7583fb1bdbfadd9"
+    },
+    {
+      "id": "Anti-Gravity_Press",
+      "path": "exercises/Anti-Gravity_Press.json",
+      "hash": "de4f26279ef6bde9e47455b600396f694548916a240c9e4419c22f4378304131"
+    },
+    {
+      "id": "Arm_Circles",
+      "path": "exercises/Arm_Circles.json",
+      "hash": "8545ffbb6315cac378e9bbb2678807ef155c8a930c06e8cf3677731de033368f"
+    },
+    {
+      "id": "Arnold_Dumbbell_Press",
+      "path": "exercises/Arnold_Dumbbell_Press.json",
+      "hash": "6e935540d246f54de6f7685e9807d6829c8206b60616b81e4118fe24a4c2ed47"
+    },
+    {
+      "id": "Around_The_Worlds",
+      "path": "exercises/Around_The_Worlds.json",
+      "hash": "9cd95a3e74fc9bfefaa5574c6b3d8084d9157c3c2423f30a70e4a2c09015f863"
+    },
+    {
+      "id": "Atlas_Stone_Trainer",
+      "path": "exercises/Atlas_Stone_Trainer.json",
+      "hash": "2838b0bde9e453e04c4e04a49f46186f6eb5ee7518195856cab8f8f5a8215403"
+    },
+    {
+      "id": "Atlas_Stones",
+      "path": "exercises/Atlas_Stones.json",
+      "hash": "6f64913b18b7e1fd4ad96ba04ea9eb0abd866fa547db2c07baefe025d873681c"
+    },
+    {
+      "id": "Axle_Deadlift",
+      "path": "exercises/Axle_Deadlift.json",
+      "hash": "5db5ce52e9a014220306a7dd5075231fb1aa16feebc0686edafa6ede01aff39f"
+    },
+    {
+      "id": "Back_Flyes_-_With_Bands",
+      "path": "exercises/Back_Flyes_-_With_Bands.json",
+      "hash": "9712129aa3ab0249744250ed135cfd6fbfca4ac6f44c31174f71ab8c51c9930f"
+    },
+    {
+      "id": "Backward_Drag",
+      "path": "exercises/Backward_Drag.json",
+      "hash": "9607413f4148bc008b594a553a082fc70f4673b6f81495e16b6a0a3da7a1a4ee"
+    },
+    {
+      "id": "Backward_Medicine_Ball_Throw",
+      "path": "exercises/Backward_Medicine_Ball_Throw.json",
+      "hash": "5523771f761c5ead2ee9b068952eb540c194d7a0538ea4ec4bc7efd99055b066"
+    },
+    {
+      "id": "Balance_Board",
+      "path": "exercises/Balance_Board.json",
+      "hash": "32fa253f11569e6c3c806aa132b8020bcea145e92f272154b7d6e444daefe939"
+    },
+    {
+      "id": "Ball_Leg_Curl",
+      "path": "exercises/Ball_Leg_Curl.json",
+      "hash": "6487376680316aa467dacd12165582fa3bf653dc67d593662698516185d5f399"
+    },
+    {
+      "id": "Band_Assisted_Pull-Up",
+      "path": "exercises/Band_Assisted_Pull-Up.json",
+      "hash": "59b771f25c9153efa53504d28386cfc2fbcc7d847f6450d38b74aa238ce3c107"
+    },
+    {
+      "id": "Band_Good_Morning",
+      "path": "exercises/Band_Good_Morning.json",
+      "hash": "87a2c338d04a0942033c2f990da83481d765fe32548a1efc3460362ef609b629"
+    },
+    {
+      "id": "Band_Good_Morning_Pull_Through",
+      "path": "exercises/Band_Good_Morning_Pull_Through.json",
+      "hash": "94305341ebd493a54f99fc8e775d94351e58819ef8534a161c1bb94f5fbe7db8"
+    },
+    {
+      "id": "Band_Hip_Adductions",
+      "path": "exercises/Band_Hip_Adductions.json",
+      "hash": "9300b1b7bf8b1c7e2fc61722298cc1ff393142eccb796807c40a8bd6a922ce29"
+    },
+    {
+      "id": "Band_Pull_Apart",
+      "path": "exercises/Band_Pull_Apart.json",
+      "hash": "74f8f1f2fde7043abae8b99c3351c4cf4ee0da666d868dbc6e864b5aed5ec82e"
+    },
+    {
+      "id": "Band_Skull_Crusher",
+      "path": "exercises/Band_Skull_Crusher.json",
+      "hash": "fe1abbce6ec392bd47f0befd6d0ec105bbd4029af8504ecd8d3969180cd9d3b5"
+    },
+    {
+      "id": "Barbell_Ab_Rollout",
+      "path": "exercises/Barbell_Ab_Rollout.json",
+      "hash": "ff71739956a0ddb9ac64fca465bbafee026907ea7ed7a00562735854b466914f"
+    },
+    {
+      "id": "Barbell_Ab_Rollout_-_On_Knees",
+      "path": "exercises/Barbell_Ab_Rollout_-_On_Knees.json",
+      "hash": "65f706ba56e58c4628472ab3b761c0dd5f3d80611b902be00841d5bd4ce05e03"
+    },
+    {
+      "id": "Barbell_Bench_Press_-_Medium_Grip",
+      "path": "exercises/Barbell_Bench_Press_-_Medium_Grip.json",
+      "hash": "c9f5fc96c74347b96a5c62f8956479e59ec1c15d958427d5eee8801210f21f5c"
+    },
+    {
+      "id": "Barbell_Curl",
+      "path": "exercises/Barbell_Curl.json",
+      "hash": "312b035572e81c3e8bfa65e412f89b584e42f6c0a511ce3250036ec058003e55"
+    },
+    {
+      "id": "Barbell_Curls_Lying_Against_An_Incline",
+      "path": "exercises/Barbell_Curls_Lying_Against_An_Incline.json",
+      "hash": "4ddb7015a8a6035ad672d2e04607f62577133c0ae50ccee407c90b2765e8f48f"
+    },
+    {
+      "id": "Barbell_Deadlift",
+      "path": "exercises/Barbell_Deadlift.json",
+      "hash": "73f3bc2c55d514bb42fe623a32f5214035b4c7e77f3efc82a348a3cfdc7fc227"
+    },
+    {
+      "id": "Barbell_Full_Squat",
+      "path": "exercises/Barbell_Full_Squat.json",
+      "hash": "42d7f86e07532cced7414f83b75cda4ab12c9dda1b00f9ce8e922b06bfe71dca"
+    },
+    {
+      "id": "Barbell_Glute_Bridge",
+      "path": "exercises/Barbell_Glute_Bridge.json",
+      "hash": "d81ff5644f3d26d04fbae527482d36e38a56347a105f6052d7ac2a7145ac512b"
+    },
+    {
+      "id": "Barbell_Guillotine_Bench_Press",
+      "path": "exercises/Barbell_Guillotine_Bench_Press.json",
+      "hash": "288ef470b39e2ad598d74b4ac2e728c8a18dd7ebdf30e1109ffebc8ba76eed27"
+    },
+    {
+      "id": "Barbell_Hack_Squat",
+      "path": "exercises/Barbell_Hack_Squat.json",
+      "hash": "e666471210081a449985987783a1d8cefcafbde01aef6b40a0d3d9fbe2546a0b"
+    },
+    {
+      "id": "Barbell_Hip_Thrust",
+      "path": "exercises/Barbell_Hip_Thrust.json",
+      "hash": "9dd5ccbe31206355d3c8645d03f406ba18b11af1ca447bd48beb780c88f9da05"
+    },
+    {
+      "id": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+      "path": "exercises/Barbell_Incline_Bench_Press_-_Medium_Grip.json",
+      "hash": "5f630a7e46c59025dfb04359e446e90c28f3990d326ecf53e68d55b1dc6c370c"
+    },
+    {
+      "id": "Barbell_Incline_Shoulder_Raise",
+      "path": "exercises/Barbell_Incline_Shoulder_Raise.json",
+      "hash": "fe62b6f3e2316056967ffbea29da564cf3c12c6697f2bc2d84dc52efa9691f2e"
+    },
+    {
+      "id": "Barbell_Lunge",
+      "path": "exercises/Barbell_Lunge.json",
+      "hash": "36ab9d35486efda087981f3394900ad77f36a5f5adf900ebc24642da64270474"
+    },
+    {
+      "id": "Barbell_Rear_Delt_Row",
+      "path": "exercises/Barbell_Rear_Delt_Row.json",
+      "hash": "0f5a4bd0e9b36fcf842d9e9437f72fc973d73c235d286b12c947e3db9cbee9f9"
+    },
+    {
+      "id": "Barbell_Rollout_from_Bench",
+      "path": "exercises/Barbell_Rollout_from_Bench.json",
+      "hash": "c6f1c5eb6ce609b69143bc40953e33769c5a7826a11fed6446b0c03663f46fff"
+    },
+    {
+      "id": "Barbell_Seated_Calf_Raise",
+      "path": "exercises/Barbell_Seated_Calf_Raise.json",
+      "hash": "56380660334b9ade5716a9261592b069ce2711f25b1834724869af952c192ae3"
+    },
+    {
+      "id": "Barbell_Shoulder_Press",
+      "path": "exercises/Barbell_Shoulder_Press.json",
+      "hash": "0680e4346f6b1d076a584e625932be30de58563cb3a494e38e0574df1d9ea8a3"
+    },
+    {
+      "id": "Barbell_Shrug",
+      "path": "exercises/Barbell_Shrug.json",
+      "hash": "2c3519c2dac9be4b45d166cbd1c86d86a1330c374ca275ef66732e24d3ef8508"
+    },
+    {
+      "id": "Barbell_Shrug_Behind_The_Back",
+      "path": "exercises/Barbell_Shrug_Behind_The_Back.json",
+      "hash": "968f5de23626f21801a0a19821195484970dc07e8f374192362508b6a2a665ee"
+    },
+    {
+      "id": "Barbell_Side_Bend",
+      "path": "exercises/Barbell_Side_Bend.json",
+      "hash": "10f87bb68370f5807940235415534e27a8068c11508c539aafe7f6bbfa0fb0b4"
+    },
+    {
+      "id": "Barbell_Side_Split_Squat",
+      "path": "exercises/Barbell_Side_Split_Squat.json",
+      "hash": "95e4051f15e395c1ede75769f83f68213b805425fc651c2b929bb2a3903076a9"
+    },
+    {
+      "id": "Barbell_Squat",
+      "path": "exercises/Barbell_Squat.json",
+      "hash": "821d9200ccf3680ca0872175d280428a5da93ae0559cb93c9dde456a099a7325"
+    },
+    {
+      "id": "Barbell_Squat_To_A_Bench",
+      "path": "exercises/Barbell_Squat_To_A_Bench.json",
+      "hash": "d67b12035747ef5a56a268dfe71f4d26c490c6b82a551505c9b0e5eedb7df811"
+    },
+    {
+      "id": "Barbell_Step_Ups",
+      "path": "exercises/Barbell_Step_Ups.json",
+      "hash": "08566dfbf570c8be9d1029dce86681f724ea671b65388bdde88571542be400b7"
+    },
+    {
+      "id": "Barbell_Walking_Lunge",
+      "path": "exercises/Barbell_Walking_Lunge.json",
+      "hash": "4901248828e02282ac1042a27036a33582ad9ceba037c477a3cd760cc81960d8"
+    },
+    {
+      "id": "Battling_Ropes",
+      "path": "exercises/Battling_Ropes.json",
+      "hash": "1dafea8c52052cdc7a103010042848f437da1ff7a01e805c43293d40b891f3be"
+    },
+    {
+      "id": "Bear_Crawl_Sled_Drags",
+      "path": "exercises/Bear_Crawl_Sled_Drags.json",
+      "hash": "bebb17ac3d8462465774a3a142e01013a52046481df18c7a632a21a07439a2e6"
+    },
+    {
+      "id": "Behind_Head_Chest_Stretch",
+      "path": "exercises/Behind_Head_Chest_Stretch.json",
+      "hash": "2dc38ef05df240ee347ae9bb727b913ee9df9af9c104da90dac91d17bd5ea7c4"
+    },
+    {
+      "id": "Bench_Dips",
+      "path": "exercises/Bench_Dips.json",
+      "hash": "08177cc76993a7e7537a0a2141bd50da81f3819dd34edee2747f26ce35369824"
+    },
+    {
+      "id": "Bench_Jump",
+      "path": "exercises/Bench_Jump.json",
+      "hash": "d82594646425af267adc19b1807861c2d857c29663315eda6f3b3244ec2d43b0"
+    },
+    {
+      "id": "Bench_Press_-_Powerlifting",
+      "path": "exercises/Bench_Press_-_Powerlifting.json",
+      "hash": "f61588fa774593624292800c44bbe8495c0cdd22615db5065843165eb1d47f87"
+    },
+    {
+      "id": "Bench_Press_-_With_Bands",
+      "path": "exercises/Bench_Press_-_With_Bands.json",
+      "hash": "537f094b3ced227e82c16603703d61a5daf0fa2d62e20c843522bd6e33a2e23a"
+    },
+    {
+      "id": "Bench_Press_with_Chains",
+      "path": "exercises/Bench_Press_with_Chains.json",
+      "hash": "4fb1e8c40bfc8d188758bd0dbf73f31ce69c23f7566634a482b655326c57b055"
+    },
+    {
+      "id": "Bench_Sprint",
+      "path": "exercises/Bench_Sprint.json",
+      "hash": "a5ac5fabdabe65b9b78bd8885f1509dcf00d46c8ba648e249ae995896358f30e"
+    },
+    {
+      "id": "Bent-Arm_Barbell_Pullover",
+      "path": "exercises/Bent-Arm_Barbell_Pullover.json",
+      "hash": "1fff47ba43f35fa3c42af8ad79ab18dee7afcba50152873bd29789e8b7d684cf"
+    },
+    {
+      "id": "Bent-Arm_Dumbbell_Pullover",
+      "path": "exercises/Bent-Arm_Dumbbell_Pullover.json",
+      "hash": "1f7c80cdf3f620a787dd88a02598da30e6648084513866d7238b2e61298932b7"
+    },
+    {
+      "id": "Bent-Knee_Hip_Raise",
+      "path": "exercises/Bent-Knee_Hip_Raise.json",
+      "hash": "03ef84c2a8f0caa487b38061ea49ce42d09c2809099514093470852ef0def5bb"
+    },
+    {
+      "id": "Bent_Over_Barbell_Row",
+      "path": "exercises/Bent_Over_Barbell_Row.json",
+      "hash": "f79dd5c8f7a315f8ea9dfbc24150bfbb11d5167e9d3126f7d7154f520b028e6a"
+    },
+    {
+      "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+      "path": "exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench.json",
+      "hash": "4e3b84bda5f5adf33885e1a620c2cd5429573781db4924955d72ce7bfa2c5317"
+    },
+    {
+      "id": "Bent_Over_Low-Pulley_Side_Lateral",
+      "path": "exercises/Bent_Over_Low-Pulley_Side_Lateral.json",
+      "hash": "ca187a927177ef10380f345ac899c4f4d887b3939d7148b7cc87f558ba3c7da9"
+    },
+    {
+      "id": "Bent_Over_One-Arm_Long_Bar_Row",
+      "path": "exercises/Bent_Over_One-Arm_Long_Bar_Row.json",
+      "hash": "72804350f5c6a1f066be6a4f5f76e2d2babbef2d4615bf8cb73bc51846a160e9"
+    },
+    {
+      "id": "Bent_Over_Two-Arm_Long_Bar_Row",
+      "path": "exercises/Bent_Over_Two-Arm_Long_Bar_Row.json",
+      "hash": "a46813dfcdb9dba66fdd58e33dfd0c97083e075819a007c62ee66425847bf526"
+    },
+    {
+      "id": "Bent_Over_Two-Dumbbell_Row",
+      "path": "exercises/Bent_Over_Two-Dumbbell_Row.json",
+      "hash": "3e21d8cd4f3799f82fcaa2365774f5e257fd7fcc3d9bdcf7505089ac7a187ae2"
+    },
+    {
+      "id": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
+      "path": "exercises/Bent_Over_Two-Dumbbell_Row_With_Palms_In.json",
+      "hash": "6f0c15c98949192b624529aff3627ddd5b9dbc8dc2cf0ffa44eb5279d4d63a22"
+    },
+    {
+      "id": "Bent_Press",
+      "path": "exercises/Bent_Press.json",
+      "hash": "3467ee69bfd9b04c1c83d14f79e1a9c6b52fa1f07951639a71fea6c840aa2ef4"
+    },
+    {
+      "id": "Bicycling",
+      "path": "exercises/Bicycling.json",
+      "hash": "8d5144702c35f3dc7ecf376f61d70954bb321c8f20c63dc2100b88e49bae55d5"
+    },
+    {
+      "id": "Bicycling_Stationary",
+      "path": "exercises/Bicycling_Stationary.json",
+      "hash": "85faa682d7c2e14138bca026f8773df970e626a9ebc4ea55b3f19f72320553b5"
+    },
+    {
+      "id": "Board_Press",
+      "path": "exercises/Board_Press.json",
+      "hash": "c89349a4475ae0bcf50dabdc0c6e734644ab37456c3aea8670c6214f8d2b4ab2"
+    },
+    {
+      "id": "Body-Up",
+      "path": "exercises/Body-Up.json",
+      "hash": "c305e192df821c6548c9562e4b4b5b83d0b540fb8aeb183989c9d23838bce94c"
+    },
+    {
+      "id": "Body_Tricep_Press",
+      "path": "exercises/Body_Tricep_Press.json",
+      "hash": "5455e2ff918d43d1456b196aa2a04bccec025f18f3830e7869395b08e1a3113b"
+    },
+    {
+      "id": "Bodyweight_Flyes",
+      "path": "exercises/Bodyweight_Flyes.json",
+      "hash": "1bd8dce80fdbc684629af1bc1546f9bf8c29a7cc80545bde18e8494ac718019c"
+    },
+    {
+      "id": "Bodyweight_Mid_Row",
+      "path": "exercises/Bodyweight_Mid_Row.json",
+      "hash": "02de419c1ec578edb7c02cea5bcbb81e6f3b99d37309290a79f98cde561b4837"
+    },
+    {
+      "id": "Bodyweight_Squat",
+      "path": "exercises/Bodyweight_Squat.json",
+      "hash": "07a43263eacbd7d7ea15ed4beaa4d046eb941974ec61e5677f8f6890bd2dad11"
+    },
+    {
+      "id": "Bodyweight_Walking_Lunge",
+      "path": "exercises/Bodyweight_Walking_Lunge.json",
+      "hash": "02b07dbfa55a28bcf0b8b90a9ae1bacf305981d3b1f1f4ba7087455b48fed8b3"
+    },
+    {
+      "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
+      "path": "exercises/Bosu_Ball_Cable_Crunch_With_Side_Bends.json",
+      "hash": "fbd6f92a38169aeb3b4d7220548f8afe36bae8fa0095bb36b52d1f59374dbe97"
+    },
+    {
+      "id": "Bottoms-Up_Clean_From_The_Hang_Position",
+      "path": "exercises/Bottoms-Up_Clean_From_The_Hang_Position.json",
+      "hash": "3c4a9b55ffdd64ff7d96f32c5ab749ffb15bf3795aae3148190f777055f75835"
+    },
+    {
+      "id": "Bottoms_Up",
+      "path": "exercises/Bottoms_Up.json",
+      "hash": "998fb44444c732deb4830f22e692b72498dba5dc7f0d5235d1db9f45c80f6295"
+    },
+    {
+      "id": "Box_Jump_Multiple_Response",
+      "path": "exercises/Box_Jump_Multiple_Response.json",
+      "hash": "57e15078eac516b763133f0363a40ec76306d5d5b2bc868c027b8964bc56ecf8"
+    },
+    {
+      "id": "Box_Skip",
+      "path": "exercises/Box_Skip.json",
+      "hash": "770f539d2af2497c3f4d9fb9ce406213b020e21cb977740731dd7c100db3b0db"
+    },
+    {
+      "id": "Box_Squat",
+      "path": "exercises/Box_Squat.json",
+      "hash": "aa9700e8b521ddc0b058f5ac85ea943073bf5c7f86c22065bb081fb3d543daa4"
+    },
+    {
+      "id": "Box_Squat_with_Bands",
+      "path": "exercises/Box_Squat_with_Bands.json",
+      "hash": "6378525fc7895aae8283006f8ffcaae81ac0dde87d27619fcf3e5734e457eab7"
+    },
+    {
+      "id": "Box_Squat_with_Chains",
+      "path": "exercises/Box_Squat_with_Chains.json",
+      "hash": "59e799c9a5c78ee55e8b6317090837f551318affa64aeecae4fddb40e49c7dae"
+    },
+    {
+      "id": "Brachialis-SMR",
+      "path": "exercises/Brachialis-SMR.json",
+      "hash": "3762a97c392d20ea1ff8573c211188918eb0716f7e8798c97bd4747f120ac9ee"
+    },
+    {
+      "id": "Bradford_Rocky_Presses",
+      "path": "exercises/Bradford_Rocky_Presses.json",
+      "hash": "26017434ea91ec86ce6dc2c14f663593a0f97b88306463cf0822b2b319d7ac6e"
+    },
+    {
+      "id": "Butt-Ups",
+      "path": "exercises/Butt-Ups.json",
+      "hash": "a8111d8b39b79210c6b9cd025b9a06a9b3e0500ba551f5622d8fe30fff293e75"
+    },
+    {
+      "id": "Butt_Lift_Bridge",
+      "path": "exercises/Butt_Lift_Bridge.json",
+      "hash": "e0ef88e31b07c3396d6842e0fae27f6714610f9d4928ab987c21c7f65ec95b78"
+    },
+    {
+      "id": "Butterfly",
+      "path": "exercises/Butterfly.json",
+      "hash": "3141778179ab64219b4d4ae68c378f31f570c9ebef02d0e81f61c8007b617966"
+    },
+    {
+      "id": "Cable_Chest_Press",
+      "path": "exercises/Cable_Chest_Press.json",
+      "hash": "a6a575fa09cc6b4c3b0377c80f473f95f190fe9797c19a4528e801f363d421b2"
+    },
+    {
+      "id": "Cable_Crossover",
+      "path": "exercises/Cable_Crossover.json",
+      "hash": "4d3febb749e4c6287bff18b83a9d1d97b56861d97d73603e4ba04ed0a95ff5fa"
+    },
+    {
+      "id": "Cable_Crunch",
+      "path": "exercises/Cable_Crunch.json",
+      "hash": "88fdf6cfe806b4b40874a6b7794b79ff92ed4b5baed5126989303d47a1d9ee45"
+    },
+    {
+      "id": "Cable_Deadlifts",
+      "path": "exercises/Cable_Deadlifts.json",
+      "hash": "808d17b0f2d8cc9543568b4323dba92bfea415e3925a975ae4b1b3de2eb1233f"
+    },
+    {
+      "id": "Cable_Hammer_Curls_-_Rope_Attachment",
+      "path": "exercises/Cable_Hammer_Curls_-_Rope_Attachment.json",
+      "hash": "69a53a666736718f50bc7833bbfd8acf19f4f37852dfcd7c431fe9945347d5d1"
+    },
+    {
+      "id": "Cable_Hip_Adduction",
+      "path": "exercises/Cable_Hip_Adduction.json",
+      "hash": "173e818839b21a879a4a355845c0657583fb5184255ad2d415604e7b7932d5c6"
+    },
+    {
+      "id": "Cable_Incline_Pushdown",
+      "path": "exercises/Cable_Incline_Pushdown.json",
+      "hash": "4dfa37c246d72e209821503c3e06b6e673b56d9e9895b4968901378e3b201d3d"
+    },
+    {
+      "id": "Cable_Incline_Triceps_Extension",
+      "path": "exercises/Cable_Incline_Triceps_Extension.json",
+      "hash": "8cce0bb740aea97957587ccd7608e9833c61d552923c839006ddc5486987aaa8"
+    },
+    {
+      "id": "Cable_Internal_Rotation",
+      "path": "exercises/Cable_Internal_Rotation.json",
+      "hash": "b6557fba94f2a830c4cc0dbdd49fdfc7cb9080f8bb96f657d16bfc0715e7f859"
+    },
+    {
+      "id": "Cable_Iron_Cross",
+      "path": "exercises/Cable_Iron_Cross.json",
+      "hash": "e7eda1afcb0625ee9bde85b5a0702ee25351c60953a8500140dfada8ecd37052"
+    },
+    {
+      "id": "Cable_Judo_Flip",
+      "path": "exercises/Cable_Judo_Flip.json",
+      "hash": "9adac445c6533759eef350f42d944e1f6a159ec2f75ab59cef18f18290522cb5"
+    },
+    {
+      "id": "Cable_Lying_Triceps_Extension",
+      "path": "exercises/Cable_Lying_Triceps_Extension.json",
+      "hash": "2f03e45f1df6ea1ab1e39cc126cba8df588cf6ef34f0fe84db9aaad9c6ef845b"
+    },
+    {
+      "id": "Cable_One_Arm_Tricep_Extension",
+      "path": "exercises/Cable_One_Arm_Tricep_Extension.json",
+      "hash": "a9179f26cd6a0b39a6ed37a1e5eebbdedc98ffdc453c158bbc0d8421896e5298"
+    },
+    {
+      "id": "Cable_Preacher_Curl",
+      "path": "exercises/Cable_Preacher_Curl.json",
+      "hash": "b3e8b71d72446d791c6c1bae4bcd8613b773ad5adf76adf9e210747a3821f172"
+    },
+    {
+      "id": "Cable_Rear_Delt_Fly",
+      "path": "exercises/Cable_Rear_Delt_Fly.json",
+      "hash": "c0e45710446323e43e3ab3f44b8fcadea416584ada860fdbcaa0a0fcabc43bf3"
+    },
+    {
+      "id": "Cable_Reverse_Crunch",
+      "path": "exercises/Cable_Reverse_Crunch.json",
+      "hash": "9ac2dccfb2e83d9e1abe5c1009b10a1ea9081c0f565b7426751503aebce24514"
+    },
+    {
+      "id": "Cable_Rope_Overhead_Triceps_Extension",
+      "path": "exercises/Cable_Rope_Overhead_Triceps_Extension.json",
+      "hash": "2d723a1208705a8d1f8dc8d8b6e68281eca76a9d837aeacb2c5896c91166dd77"
+    },
+    {
+      "id": "Cable_Rope_Rear-Delt_Rows",
+      "path": "exercises/Cable_Rope_Rear-Delt_Rows.json",
+      "hash": "005b46af05e4903bb91784838d8f1a9e6356df3e97bcc2643c36e44e872e7d60"
+    },
+    {
+      "id": "Cable_Russian_Twists",
+      "path": "exercises/Cable_Russian_Twists.json",
+      "hash": "2fa0a80921383e42b03ab6435e419e9290eabca00cb5861cfdfa159bcf6a9a60"
+    },
+    {
+      "id": "Cable_Seated_Crunch",
+      "path": "exercises/Cable_Seated_Crunch.json",
+      "hash": "baa812294196465c958136959355443a5fb362f152f6103719e6fcfb4be72934"
+    },
+    {
+      "id": "Cable_Seated_Lateral_Raise",
+      "path": "exercises/Cable_Seated_Lateral_Raise.json",
+      "hash": "392b1baad9ea6d8e328382f769ea4706ec5886f681b437054f936224292738c4"
+    },
+    {
+      "id": "Cable_Shoulder_Press",
+      "path": "exercises/Cable_Shoulder_Press.json",
+      "hash": "c81830cdc0019fa7abe04bb93cfe948ce09853ec1976b6b1af552a6972b84458"
+    },
+    {
+      "id": "Cable_Shrugs",
+      "path": "exercises/Cable_Shrugs.json",
+      "hash": "6737124ef93b6a7480af301a272af669e93e1fcc0ebddbdea26c6568a8a9f6bf"
+    },
+    {
+      "id": "Cable_Wrist_Curl",
+      "path": "exercises/Cable_Wrist_Curl.json",
+      "hash": "fb50e32c9536830f8a364735f279c250e3e1cd14d02cbb1e9b01355cd9abfd0e"
+    },
+    {
+      "id": "Calf-Machine_Shoulder_Shrug",
+      "path": "exercises/Calf-Machine_Shoulder_Shrug.json",
+      "hash": "f137094699a054bdb421a1181e9e57b71e2fa091ad2469359be339cd64f70071"
+    },
+    {
+      "id": "Calf_Press",
+      "path": "exercises/Calf_Press.json",
+      "hash": "251f54bdf94a7cfcb324fd31e1f9b58d72ea318bc6b10a7b5e6c107fb230bd87"
+    },
+    {
+      "id": "Calf_Press_On_The_Leg_Press_Machine",
+      "path": "exercises/Calf_Press_On_The_Leg_Press_Machine.json",
+      "hash": "d8f4bc57f7a63e9ca82af15f3aa1cc76d3228c1ddcd8b913fadaf15790762f01"
+    },
+    {
+      "id": "Calf_Raise_On_A_Dumbbell",
+      "path": "exercises/Calf_Raise_On_A_Dumbbell.json",
+      "hash": "bab163e35c39311b2d4af9492491dd85bbc0de439382b3f274fefd304c4790c3"
+    },
+    {
+      "id": "Calf_Raises_-_With_Bands",
+      "path": "exercises/Calf_Raises_-_With_Bands.json",
+      "hash": "e0736e68643badfa86c3114d761745670d2de07e9c56a16d973909414a5ee48d"
+    },
+    {
+      "id": "Calf_Stretch_Elbows_Against_Wall",
+      "path": "exercises/Calf_Stretch_Elbows_Against_Wall.json",
+      "hash": "4f24d7445d662364fb27d74d84cc0d943ec40a256f8ae2e0bb91941c28479343"
+    },
+    {
+      "id": "Calf_Stretch_Hands_Against_Wall",
+      "path": "exercises/Calf_Stretch_Hands_Against_Wall.json",
+      "hash": "af3e5a6458b65e8aa54d16a73f72fbc8e1114bd1690a4e4cd314a287bd95f20d"
+    },
+    {
+      "id": "Calves-SMR",
+      "path": "exercises/Calves-SMR.json",
+      "hash": "4223d7028cd5c8c15ba6f2797a5c03b63b7642fcb93e52bf82744cf21825603d"
+    },
+    {
+      "id": "Car_Deadlift",
+      "path": "exercises/Car_Deadlift.json",
+      "hash": "ea17432494fecf3525ef0ac802eb8ae7924bac88093028e07d29fb34f8d829ec"
+    },
+    {
+      "id": "Car_Drivers",
+      "path": "exercises/Car_Drivers.json",
+      "hash": "3fd6b84a593908ffdf417de490c0a391f4f8e990dcde2c9978414fd055424912"
+    },
+    {
+      "id": "Carioca_Quick_Step",
+      "path": "exercises/Carioca_Quick_Step.json",
+      "hash": "b2a8b651bb63697f23916743aa6e7143023d87d8b928921814ef9a3b7af02031"
+    },
+    {
+      "id": "Cat_Stretch",
+      "path": "exercises/Cat_Stretch.json",
+      "hash": "8a2813ca3ee836fb1a2994c4190c14dd36279377ea726cb11cd9b7f968c33ffd"
+    },
+    {
+      "id": "Catch_and_Overhead_Throw",
+      "path": "exercises/Catch_and_Overhead_Throw.json",
+      "hash": "d9de5cad1b018108ed33f244b02859a008bb1619613a79effe1d12e62496a94f"
+    },
+    {
+      "id": "Chain_Handle_Extension",
+      "path": "exercises/Chain_Handle_Extension.json",
+      "hash": "c8d25870f89406c067aab84b85762d5c9e70807d13dfdf1d48fa07227eaa17a4"
+    },
+    {
+      "id": "Chain_Press",
+      "path": "exercises/Chain_Press.json",
+      "hash": "4b95401fa37d40fc74de087eeb1a24d02f9ed99ecdd7042d33eef87d2c1776c8"
+    },
+    {
+      "id": "Chair_Leg_Extended_Stretch",
+      "path": "exercises/Chair_Leg_Extended_Stretch.json",
+      "hash": "bb20fa1806d4cb5e615a773efe9836bb0b4d362df66c41ebc6d25ac0c20c7b5e"
+    },
+    {
+      "id": "Chair_Lower_Back_Stretch",
+      "path": "exercises/Chair_Lower_Back_Stretch.json",
+      "hash": "dcd243d952f5958643b419b09006d4b171823c5404bc91f761bbcd27814e0d97"
+    },
+    {
+      "id": "Chair_Squat",
+      "path": "exercises/Chair_Squat.json",
+      "hash": "99dbf66c1580625c3959b3bed21910388a98173dd7cf9c4417f0792a18a88bcd"
+    },
+    {
+      "id": "Chair_Upper_Body_Stretch",
+      "path": "exercises/Chair_Upper_Body_Stretch.json",
+      "hash": "c1db5055049894ddc9a4470a584ce38c37bf48227e3094edee12c07cc0122de5"
+    },
+    {
+      "id": "Chest_And_Front_Of_Shoulder_Stretch",
+      "path": "exercises/Chest_And_Front_Of_Shoulder_Stretch.json",
+      "hash": "af179b57e03be0d032e1b4149edbd1050e7fb084d2c248d35bfa6d4f8ee7f573"
+    },
+    {
+      "id": "Chest_Push_from_3_point_stance",
+      "path": "exercises/Chest_Push_from_3_point_stance.json",
+      "hash": "a70310e27fbb13b43641229c2e5382a6778715b501ca4ba18f35f5aa81ccbd25"
+    },
+    {
+      "id": "Chest_Push_multiple_response",
+      "path": "exercises/Chest_Push_multiple_response.json",
+      "hash": "26f148dba34cfa3290bb1d574fd59cd10bf2e71053a55ed0bec53620b71e584e"
+    },
+    {
+      "id": "Chest_Push_single_response",
+      "path": "exercises/Chest_Push_single_response.json",
+      "hash": "edf22e7feaf04c0c8360e24d97535d53914dfda1892608a4c80c8ff1db317c5e"
+    },
+    {
+      "id": "Chest_Push_with_Run_Release",
+      "path": "exercises/Chest_Push_with_Run_Release.json",
+      "hash": "ef7272c02f9995f180aac70b0c44cd3a5eeb121a6286381597dc66bd1f8c39a5"
+    },
+    {
+      "id": "Chest_Stretch_on_Stability_Ball",
+      "path": "exercises/Chest_Stretch_on_Stability_Ball.json",
+      "hash": "fb3eabd269cfc35a13eba03b9d0a21212e001bfd02937c8ad4667e63b2056d92"
+    },
+    {
+      "id": "Childs_Pose",
+      "path": "exercises/Childs_Pose.json",
+      "hash": "2e655cbeadfd2bda97bbe8d130f98569cd2ef11dc628a2c343c827aead6b2cf3"
+    },
+    {
+      "id": "Chin-Up",
+      "path": "exercises/Chin-Up.json",
+      "hash": "d74ce4c72999ff359be6bf571e86f3ed529b7e138580ce82fb14e13ae0731396"
+    },
+    {
+      "id": "Chin_To_Chest_Stretch",
+      "path": "exercises/Chin_To_Chest_Stretch.json",
+      "hash": "0c20ab263a2cf274d62187dcf6ab6985a74a9f5d932fb5cc88c6ccba8aa0a9a8"
+    },
+    {
+      "id": "Circus_Bell",
+      "path": "exercises/Circus_Bell.json",
+      "hash": "53646de1824fe6918864d230180b935c76f1655d2c88bf185040c2a17b12727e"
+    },
+    {
+      "id": "Clean",
+      "path": "exercises/Clean.json",
+      "hash": "d694aa7cac5403770fac2d2266aa987f162d6e38960a3325b9fbb7d4f47ad704"
+    },
+    {
+      "id": "Clean_Deadlift",
+      "path": "exercises/Clean_Deadlift.json",
+      "hash": "59bfdd96a42140e9f3cdbdc99045d86b139b0af623d658cb4cb11078722b791a"
+    },
+    {
+      "id": "Clean_Pull",
+      "path": "exercises/Clean_Pull.json",
+      "hash": "8e0094803ee3d3a5edbdeded068c1ba058662b1a51ad3333beb615299584adff"
+    },
+    {
+      "id": "Clean_Shrug",
+      "path": "exercises/Clean_Shrug.json",
+      "hash": "5a346361fb6674de3470994b98e7b044e58c272b76b849d3a3df37ddcc60e689"
+    },
+    {
+      "id": "Clean_and_Jerk",
+      "path": "exercises/Clean_and_Jerk.json",
+      "hash": "9ceb7b3acb287057f5d8da7d54a92e63b26244b60ea65e2511f8680240944b30"
+    },
+    {
+      "id": "Clean_and_Press",
+      "path": "exercises/Clean_and_Press.json",
+      "hash": "452da4c40f571d4b73cb553a66025fc7ef448e3780fef1cb5166efe65f68df2a"
+    },
+    {
+      "id": "Clean_from_Blocks",
+      "path": "exercises/Clean_from_Blocks.json",
+      "hash": "e5baf152da3212a2cb226277f7fd9f8457396f5348c6c6849d98489fb23f6952"
+    },
+    {
+      "id": "Clock_Push-Up",
+      "path": "exercises/Clock_Push-Up.json",
+      "hash": "353460ba07613ffa18b723d8b80bdf7ebc0d44e6bbd162538d6258c9e9ed46e3"
+    },
+    {
+      "id": "Close-Grip_Barbell_Bench_Press",
+      "path": "exercises/Close-Grip_Barbell_Bench_Press.json",
+      "hash": "10fddc5c61d1f825cd9ed792be0af1f80234abe247e80aeb47f044c4b2c3a76e"
+    },
+    {
+      "id": "Close-Grip_Dumbbell_Press",
+      "path": "exercises/Close-Grip_Dumbbell_Press.json",
+      "hash": "4f84934dd2587f85de0764e93d2fb4e4c436820fd23019553a564e8d65299068"
+    },
+    {
+      "id": "Close-Grip_EZ-Bar_Curl_with_Band",
+      "path": "exercises/Close-Grip_EZ-Bar_Curl_with_Band.json",
+      "hash": "1b6c12f62a64e1f43b8ea940ed6ea16bd0a3c6c02bcbed63da4a2ea356e8039b"
+    },
+    {
+      "id": "Close-Grip_EZ-Bar_Press",
+      "path": "exercises/Close-Grip_EZ-Bar_Press.json",
+      "hash": "bd5e876dc538ccc5913171a022a98cdfbebd6ffe09870213ac93f12928ffad93"
+    },
+    {
+      "id": "Close-Grip_EZ_Bar_Curl",
+      "path": "exercises/Close-Grip_EZ_Bar_Curl.json",
+      "hash": "426a3411e1a028257bea9415901c9fb897888e75eedac6317730dbcfc8a28ac6"
+    },
+    {
+      "id": "Close-Grip_Front_Lat_Pulldown",
+      "path": "exercises/Close-Grip_Front_Lat_Pulldown.json",
+      "hash": "ba985f664b9d866aaa42112f87acf81553b8c11c8f6bb4d8f9d0e56e6e9045e1"
+    },
+    {
+      "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
+      "path": "exercises/Close-Grip_Push-Up_off_of_a_Dumbbell.json",
+      "hash": "b6556b142a330602deee420547c045db79b9d145dcedde25707217b25ec91b02"
+    },
+    {
+      "id": "Close-Grip_Standing_Barbell_Curl",
+      "path": "exercises/Close-Grip_Standing_Barbell_Curl.json",
+      "hash": "9d2e5fa6f14c44ef14bc2efc52f46a05f1b920256dc582af7ab941c00325a3b5"
+    },
+    {
+      "id": "Cocoons",
+      "path": "exercises/Cocoons.json",
+      "hash": "8f4c4e7375006184e996f5db3d8ebdf2793d5cb0028cd6c4385d18cb89bdfa52"
+    },
+    {
+      "id": "Conans_Wheel",
+      "path": "exercises/Conans_Wheel.json",
+      "hash": "4d04880fbf8fb980d812a108fad8dc947b9ad738e3ed7444625366dee926b93f"
+    },
+    {
+      "id": "Concentration_Curls",
+      "path": "exercises/Concentration_Curls.json",
+      "hash": "c79e598212d52b7fea7137c735ba3be0987fbe566ceea4f2a04563c59e67b3e0"
+    },
+    {
+      "id": "Cross-Body_Crunch",
+      "path": "exercises/Cross-Body_Crunch.json",
+      "hash": "187bd0d7c74cf54cb3cb15a2e006b79403bd48848855beb4631542bebb996b42"
+    },
+    {
+      "id": "Cross_Body_Hammer_Curl",
+      "path": "exercises/Cross_Body_Hammer_Curl.json",
+      "hash": "62a1460b978d6e31655f93bc51cd94d8ecb13798f3f5afa532799c046f585c1c"
+    },
+    {
+      "id": "Cross_Over_-_With_Bands",
+      "path": "exercises/Cross_Over_-_With_Bands.json",
+      "hash": "f1fb0e314a3eb949a31a5c52ed5d731df28f2f776efba44e4586c148850a0322"
+    },
+    {
+      "id": "Crossover_Reverse_Lunge",
+      "path": "exercises/Crossover_Reverse_Lunge.json",
+      "hash": "dd2e940907469941ac0622f169f48442199962e4b1d8daa7ea314f58ffa612e9"
+    },
+    {
+      "id": "Crucifix",
+      "path": "exercises/Crucifix.json",
+      "hash": "8d5008a48b77973ba3fd6bd6db0c314c4b46b73cdcf27a2b0cc13f93b909ea0c"
+    },
+    {
+      "id": "Crunch_-_Hands_Overhead",
+      "path": "exercises/Crunch_-_Hands_Overhead.json",
+      "hash": "67353ae139af7bd42d9e2fd3623eb45e6973304effd8395c6bb7c395e57ddfa5"
+    },
+    {
+      "id": "Crunch_-_Legs_On_Exercise_Ball",
+      "path": "exercises/Crunch_-_Legs_On_Exercise_Ball.json",
+      "hash": "305cdd41de2c3f70a2bfac83188fd08ef4bc7f5820d520570a3875233c3427bb"
+    },
+    {
+      "id": "Crunches",
+      "path": "exercises/Crunches.json",
+      "hash": "5250dbd96e3c5e24a241908f1ea850934853738fb87b1979a8074520fcbb08b1"
+    },
+    {
+      "id": "Cuban_Press",
+      "path": "exercises/Cuban_Press.json",
+      "hash": "2d878f6b12351cf0135977e0a0652cd86c59cf7744aca23bd75a4da202763f88"
+    },
+    {
+      "id": "Dancers_Stretch",
+      "path": "exercises/Dancers_Stretch.json",
+      "hash": "b55af04fe426593c693ed789b55a60e17a573d3419cf4962cb0c52fc8658d3ee"
+    },
+    {
+      "id": "Dead_Bug",
+      "path": "exercises/Dead_Bug.json",
+      "hash": "eb622ee13c7b80d0fc8a9bc8f72a83d22767f0b9aed159ca46cc094b33d9f414"
+    },
+    {
+      "id": "Deadlift_with_Bands",
+      "path": "exercises/Deadlift_with_Bands.json",
+      "hash": "4abe159aa55a57ffffc81e52794e7d2ff2208f8fdd59a8a9ee87bdf0c6377444"
+    },
+    {
+      "id": "Deadlift_with_Chains",
+      "path": "exercises/Deadlift_with_Chains.json",
+      "hash": "16a56e95fd2db7bc6110c01d960d652ed3c361a55fffef70c02d8e7bfefb46af"
+    },
+    {
+      "id": "Decline_Barbell_Bench_Press",
+      "path": "exercises/Decline_Barbell_Bench_Press.json",
+      "hash": "e9480272b2515363420ecd91a833f59f20d032336c9e7c04fb42f7db4a6e9a08"
+    },
+    {
+      "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
+      "path": "exercises/Decline_Close-Grip_Bench_To_Skull_Crusher.json",
+      "hash": "4e7bf3c4b69690520d7edd6f533304c8315856bf22cdb410119cb082da32d128"
+    },
+    {
+      "id": "Decline_Crunch",
+      "path": "exercises/Decline_Crunch.json",
+      "hash": "19e2d7874d09c306549e66ac38e896d9c26bf66bbd642078646a0ef863015017"
+    },
+    {
+      "id": "Decline_Dumbbell_Bench_Press",
+      "path": "exercises/Decline_Dumbbell_Bench_Press.json",
+      "hash": "9811605dff97dc4893cf4955e289822b52f721a418ce8c4be506c99b8dd6651d"
+    },
+    {
+      "id": "Decline_Dumbbell_Flyes",
+      "path": "exercises/Decline_Dumbbell_Flyes.json",
+      "hash": "44fcddeb6f5c7f68a15f010b0310d364ba9262184e6df3679173f40a4299be63"
+    },
+    {
+      "id": "Decline_Dumbbell_Triceps_Extension",
+      "path": "exercises/Decline_Dumbbell_Triceps_Extension.json",
+      "hash": "52058b9643f369cb9e45d44880ae8f13baa70a962f6c19964c17bbcb0bebe8f6"
+    },
+    {
+      "id": "Decline_EZ_Bar_Triceps_Extension",
+      "path": "exercises/Decline_EZ_Bar_Triceps_Extension.json",
+      "hash": "607ddeed0c93bff085bf23d8d408e2eb7b703162b5df260f99de65fcdd3bfb3d"
+    },
+    {
+      "id": "Decline_Oblique_Crunch",
+      "path": "exercises/Decline_Oblique_Crunch.json",
+      "hash": "2908b3c789213e45105e656ba017e85b457bafa0fb180be872aaf930dc310fdb"
+    },
+    {
+      "id": "Decline_Push-Up",
+      "path": "exercises/Decline_Push-Up.json",
+      "hash": "3ded5cd01decf096e2e676b8dc714fbe8fcddc78a25c01883039fc1bc9f0e4d2"
+    },
+    {
+      "id": "Decline_Reverse_Crunch",
+      "path": "exercises/Decline_Reverse_Crunch.json",
+      "hash": "9d6c072d93c2fa9b4c5ea280b438f432b68662fe8fdb535f27424effed128a96"
+    },
+    {
+      "id": "Decline_Smith_Press",
+      "path": "exercises/Decline_Smith_Press.json",
+      "hash": "16d8c9b954062f69aca293eb72d29a14ee48b9a4e55897d7bec4969cf28763e1"
+    },
+    {
+      "id": "Deficit_Deadlift",
+      "path": "exercises/Deficit_Deadlift.json",
+      "hash": "d876b51b03473992fcaa61d62bea3b780fe7b6b99d56b39d77a6cb9f37bf02f9"
+    },
+    {
+      "id": "Depth_Jump_Leap",
+      "path": "exercises/Depth_Jump_Leap.json",
+      "hash": "657c968ec6886a7333aba7922f65423403053d4d1b46f98619650cb3a90ce025"
+    },
+    {
+      "id": "Dip_Machine",
+      "path": "exercises/Dip_Machine.json",
+      "hash": "263ba7af0bf139267c62de5778c6a79bb3d28db02fec3032b300fb3a4897e796"
+    },
+    {
+      "id": "Dips_-_Chest_Version",
+      "path": "exercises/Dips_-_Chest_Version.json",
+      "hash": "ea71fd022fc5c6ea386a065563d7f384e1879c5765161537d7e747a8c48935d8"
+    },
+    {
+      "id": "Dips_-_Triceps_Version",
+      "path": "exercises/Dips_-_Triceps_Version.json",
+      "hash": "d5cbd59e7fd5ca3e593cff2d0b44f0774925c7ab8cefa4a6b8091c29b81fe778"
+    },
+    {
+      "id": "Donkey_Calf_Raises",
+      "path": "exercises/Donkey_Calf_Raises.json",
+      "hash": "220cb90e77fd1e5eb29ed37505e5aa5a9bceffdadc5d0d628b9d37339cfa595d"
+    },
+    {
+      "id": "Double_Kettlebell_Alternating_Hang_Clean",
+      "path": "exercises/Double_Kettlebell_Alternating_Hang_Clean.json",
+      "hash": "2efc9263bac175512b0362c00ce4e9dc45c6c5cca8d7b624af13f53cf2229230"
+    },
+    {
+      "id": "Double_Kettlebell_Jerk",
+      "path": "exercises/Double_Kettlebell_Jerk.json",
+      "hash": "ddd0857610d1336e86ed9e0901e97c94b2c5ae3b260b69917a503fc9c98f46ef"
+    },
+    {
+      "id": "Double_Kettlebell_Push_Press",
+      "path": "exercises/Double_Kettlebell_Push_Press.json",
+      "hash": "e9fd9016827f690591cbe8a924ba8add92ce4ce83bad97765010bd38c4e62e9c"
+    },
+    {
+      "id": "Double_Kettlebell_Snatch",
+      "path": "exercises/Double_Kettlebell_Snatch.json",
+      "hash": "181b3a58cde50f35d9911be61950158c569e20d1d834f1d1db305a75e99a3fac"
+    },
+    {
+      "id": "Double_Kettlebell_Windmill",
+      "path": "exercises/Double_Kettlebell_Windmill.json",
+      "hash": "ced0a3a19cad6a68ec30b961f326973f3e67b51d67ce0de31ac50e028b6859ae"
+    },
+    {
+      "id": "Double_Leg_Butt_Kick",
+      "path": "exercises/Double_Leg_Butt_Kick.json",
+      "hash": "28769efc3f22122dbac9f26527c6c8ff05f7b92637bda9edbe4a852c4c0d44dd"
+    },
+    {
+      "id": "Downward_Facing_Balance",
+      "path": "exercises/Downward_Facing_Balance.json",
+      "hash": "48ab81fffa45e1b14aa380df2dcfb43e0a1632f6f27eb4c51db10da40aa7ee70"
+    },
+    {
+      "id": "Drag_Curl",
+      "path": "exercises/Drag_Curl.json",
+      "hash": "8c100900f12f15c6c25c36b18f2a26d9364205323a6106fc535827af7f3018d3"
+    },
+    {
+      "id": "Drop_Push",
+      "path": "exercises/Drop_Push.json",
+      "hash": "7b366b07d16d1b6984fb400c41a74a5f6c12641217bc60e7a40de4cf66a84b88"
+    },
+    {
+      "id": "Dumbbell_Alternate_Bicep_Curl",
+      "path": "exercises/Dumbbell_Alternate_Bicep_Curl.json",
+      "hash": "9905e7efde06b02d9af0a1c0d09520e682fdbc9c236bbee4184a52caa56fabe7"
+    },
+    {
+      "id": "Dumbbell_Bench_Press",
+      "path": "exercises/Dumbbell_Bench_Press.json",
+      "hash": "4d2958c588446f138810f73bed8b1bc959737722f98b9f3227700d4a55db7706"
+    },
+    {
+      "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
+      "path": "exercises/Dumbbell_Bench_Press_with_Neutral_Grip.json",
+      "hash": "c3325a89b29e010423eba2907dd745166a0a1b097d4687fab9ab0f4b42f24342"
+    },
+    {
+      "id": "Dumbbell_Bicep_Curl",
+      "path": "exercises/Dumbbell_Bicep_Curl.json",
+      "hash": "8a0760356e8c4b310c281348e37b3ef49616b743b634bc474a067a4dafab5dc7"
+    },
+    {
+      "id": "Dumbbell_Clean",
+      "path": "exercises/Dumbbell_Clean.json",
+      "hash": "15f12ea8cd223fbde80735a5686d98beb1ea60bf6c8f03872ee28238b27583a2"
+    },
+    {
+      "id": "Dumbbell_Floor_Press",
+      "path": "exercises/Dumbbell_Floor_Press.json",
+      "hash": "dfb5e4506bdcc5261c81b5c7e4fcad79fb96f63a22d44743e8248cedc7123f79"
+    },
+    {
+      "id": "Dumbbell_Flyes",
+      "path": "exercises/Dumbbell_Flyes.json",
+      "hash": "8e5b1fea4c390047afdbc40c73be14cb69406007939486f2c4ec939464931ae7"
+    },
+    {
+      "id": "Dumbbell_Incline_Row",
+      "path": "exercises/Dumbbell_Incline_Row.json",
+      "hash": "f0f43b55cd50787e44eab26766cdd3c3fb969ed7badde775d51716f925be01c6"
+    },
+    {
+      "id": "Dumbbell_Incline_Shoulder_Raise",
+      "path": "exercises/Dumbbell_Incline_Shoulder_Raise.json",
+      "hash": "ec16d5626c9b574b1e97fcf742a65a093129375b89f25594422071438ca8235c"
+    },
+    {
+      "id": "Dumbbell_Lunges",
+      "path": "exercises/Dumbbell_Lunges.json",
+      "hash": "f3cfaa73578513bfa90169fc5592928869ebea65550e56842216b5906c5a5ded"
+    },
+    {
+      "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+      "path": "exercises/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise.json",
+      "hash": "1a277e9e562a129e8c64954d1e6b3044270339180e6233b9983b3d1839558211"
+    },
+    {
+      "id": "Dumbbell_Lying_Pronation",
+      "path": "exercises/Dumbbell_Lying_Pronation.json",
+      "hash": "88ee17248b90ff0b4ced52175fdc5333dc46eaa331f99d8c4137d42d2a4c3880"
+    },
+    {
+      "id": "Dumbbell_Lying_Rear_Lateral_Raise",
+      "path": "exercises/Dumbbell_Lying_Rear_Lateral_Raise.json",
+      "hash": "1d900a9a9538dd8bd779358ecccdba3503114afec05b2105e4639ab65872e351"
+    },
+    {
+      "id": "Dumbbell_Lying_Supination",
+      "path": "exercises/Dumbbell_Lying_Supination.json",
+      "hash": "5e9231846a7c3f9f6b4ac7e86c64bb3294656c2b3b44882bd2e664ce15caac4e"
+    },
+    {
+      "id": "Dumbbell_One-Arm_Shoulder_Press",
+      "path": "exercises/Dumbbell_One-Arm_Shoulder_Press.json",
+      "hash": "44a24db3c52bea6369c8822498ac1e9682f967a27d28f81d9d39640db72ff346"
+    },
+    {
+      "id": "Dumbbell_One-Arm_Triceps_Extension",
+      "path": "exercises/Dumbbell_One-Arm_Triceps_Extension.json",
+      "hash": "2a8e4a0a5c2f23b2612b9354849757be9351b21de400ec92fdeaccf5a0abdb86"
+    },
+    {
+      "id": "Dumbbell_One-Arm_Upright_Row",
+      "path": "exercises/Dumbbell_One-Arm_Upright_Row.json",
+      "hash": "d3b16a0c7e085fc675b60a831d7888ad9d0001d77b292181f6ed5b9119be7845"
+    },
+    {
+      "id": "Dumbbell_Prone_Incline_Curl",
+      "path": "exercises/Dumbbell_Prone_Incline_Curl.json",
+      "hash": "1dba70a63e248140dea7471031dc7bf0c6681681204e2a6ec549157276de5297"
+    },
+    {
+      "id": "Dumbbell_Raise",
+      "path": "exercises/Dumbbell_Raise.json",
+      "hash": "55373fae1b8b879654ae1051836d9a273f875c285baecddaf117da36467d9e0f"
+    },
+    {
+      "id": "Dumbbell_Rear_Lunge",
+      "path": "exercises/Dumbbell_Rear_Lunge.json",
+      "hash": "9d75c858221ed6d45696310e86c557d5efad506ec2580dd9b615b0359f8cb168"
+    },
+    {
+      "id": "Dumbbell_Scaption",
+      "path": "exercises/Dumbbell_Scaption.json",
+      "hash": "b61385036a02ce4c1893d587aad6973b52d9da740bc2090fd44bb4d0f0599666"
+    },
+    {
+      "id": "Dumbbell_Seated_Box_Jump",
+      "path": "exercises/Dumbbell_Seated_Box_Jump.json",
+      "hash": "750c2a070b4d43ce321bd2f16607dc7b1cdd6f3b10ea4f56033f7cd273524d14"
+    },
+    {
+      "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
+      "path": "exercises/Dumbbell_Seated_One-Leg_Calf_Raise.json",
+      "hash": "ba6d2a2e3d713317abdc41b3fc8ed27501cb4bf4cfd3284e29bddd6b1fcbd258"
+    },
+    {
+      "id": "Dumbbell_Shoulder_Press",
+      "path": "exercises/Dumbbell_Shoulder_Press.json",
+      "hash": "bc71f83369b37d1db7e1e2aefec764050c17d0c8d12246747361f5d1e87cb73b"
+    },
+    {
+      "id": "Dumbbell_Shrug",
+      "path": "exercises/Dumbbell_Shrug.json",
+      "hash": "27bbd5883148efa4ca77b4b13d5e153d0b6756cdac323fe22d06515beec06199"
+    },
+    {
+      "id": "Dumbbell_Side_Bend",
+      "path": "exercises/Dumbbell_Side_Bend.json",
+      "hash": "90b3d9c3dc903f53d0ac7f1a714f8f309a71d02d4c05f97a07d3c3674b8e1d1f"
+    },
+    {
+      "id": "Dumbbell_Squat",
+      "path": "exercises/Dumbbell_Squat.json",
+      "hash": "0bd5ab10cda95df8fd4a78268c29ced7786888311d9f4956304df9085b8917d5"
+    },
+    {
+      "id": "Dumbbell_Squat_To_A_Bench",
+      "path": "exercises/Dumbbell_Squat_To_A_Bench.json",
+      "hash": "47af6433b131769827281614f04f6166299a4a7717e24c66e151124d58b5bac3"
+    },
+    {
+      "id": "Dumbbell_Step_Ups",
+      "path": "exercises/Dumbbell_Step_Ups.json",
+      "hash": "c7344afb805d19e288abb752a391ffe0a3ff1c99b1132ecbb62b0ca0313fc681"
+    },
+    {
+      "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+      "path": "exercises/Dumbbell_Tricep_Extension_-Pronated_Grip.json",
+      "hash": "4a0ee0ec8c227a5a9c4325a9506419d599c730e1e4b08daefe57a18bc6155785"
+    },
+    {
+      "id": "Dynamic_Back_Stretch",
+      "path": "exercises/Dynamic_Back_Stretch.json",
+      "hash": "618571467241ce9a3b14926623d0062f7941bd27f5ea025819783195f32c64e8"
+    },
+    {
+      "id": "Dynamic_Chest_Stretch",
+      "path": "exercises/Dynamic_Chest_Stretch.json",
+      "hash": "cb78d67026072b8c057551acd36fbdbbc420d96dd432aab372f281f9202b6698"
+    },
+    {
+      "id": "EZ-Bar_Curl",
+      "path": "exercises/EZ-Bar_Curl.json",
+      "hash": "cc8aae5a94ae02cca0cef079047ea51355d062b5f1f5525b1d330cd62a76908c"
+    },
+    {
+      "id": "EZ-Bar_Skullcrusher",
+      "path": "exercises/EZ-Bar_Skullcrusher.json",
+      "hash": "8a647ade36ebb25a1390c9b064a2a88d8c617d3ae7ca9f9b4f5cb185886fdde8"
+    },
+    {
+      "id": "Elbow_Circles",
+      "path": "exercises/Elbow_Circles.json",
+      "hash": "d380b9e88cf5c72f4b1a530461433f8d6f958e1a65c6b4affd377112dabc248f"
+    },
+    {
+      "id": "Elbow_to_Knee",
+      "path": "exercises/Elbow_to_Knee.json",
+      "hash": "644e33529b3f112c3c98ea88e03739493f6a26557fadc50a37fb1601b02cdcf5"
+    },
+    {
+      "id": "Elbows_Back",
+      "path": "exercises/Elbows_Back.json",
+      "hash": "128675b88c5013a07dfd38fee3caac313542a8eb769a524350c7126c46e2fe0b"
+    },
+    {
+      "id": "Elevated_Back_Lunge",
+      "path": "exercises/Elevated_Back_Lunge.json",
+      "hash": "7fae7618ae04b2c1852b9d9bad3f8b7cd088d8177f7a7312244ab8aa23f2ee4f"
+    },
+    {
+      "id": "Elevated_Cable_Rows",
+      "path": "exercises/Elevated_Cable_Rows.json",
+      "hash": "699b3c8177cda7f139e5a75381d9e0d30d0f833be4fc150da4076d29a610537a"
+    },
+    {
+      "id": "Elliptical_Trainer",
+      "path": "exercises/Elliptical_Trainer.json",
+      "hash": "6fa9dd61950300ae39268c23c7dc808589362253ca5bf87669e2f3bada277ec2"
+    },
+    {
+      "id": "Exercise_Ball_Crunch",
+      "path": "exercises/Exercise_Ball_Crunch.json",
+      "hash": "08ee5f49e26e9ddebb6d3417e1e90c62cfa116be2ab641d57fe64233605b8f13"
+    },
+    {
+      "id": "Exercise_Ball_Pull-In",
+      "path": "exercises/Exercise_Ball_Pull-In.json",
+      "hash": "9e0745217d6ce4bd1ecffb26de2d939634b53122b13b4ce6c50e4414803bf37f"
+    },
+    {
+      "id": "Extended_Range_One-Arm_Kettlebell_Floor_Press",
+      "path": "exercises/Extended_Range_One-Arm_Kettlebell_Floor_Press.json",
+      "hash": "1eabccc00fc82c2d536d00e30e6a874a1cafdc1bc41addd6e59d860275d183af"
+    },
+    {
+      "id": "External_Rotation",
+      "path": "exercises/External_Rotation.json",
+      "hash": "a3e97b940e5d5d54bfb0b129da2b43f8e7921b7d9d9da5e1d8e7d37177576760"
+    },
+    {
+      "id": "External_Rotation_with_Band",
+      "path": "exercises/External_Rotation_with_Band.json",
+      "hash": "67d86697ae1a35b5fb237fd2c9b8c83923a2f41b872cfddecc609793d0921f22"
+    },
+    {
+      "id": "External_Rotation_with_Cable",
+      "path": "exercises/External_Rotation_with_Cable.json",
+      "hash": "8b42996d54a8e72d54ffa7e89f965861321f64056c370df8e4d462031ea328ca"
+    },
+    {
+      "id": "Face_Pull",
+      "path": "exercises/Face_Pull.json",
+      "hash": "50de0c5fd6e7ffd53ba4d2cc92eb0a9976e3feeeb6ae2ae603e3233c3dac44ea"
+    },
+    {
+      "id": "Farmers_Walk",
+      "path": "exercises/Farmers_Walk.json",
+      "hash": "cba1b472ed64f4da6d6d357d59d48032ce1903e0cf28c6327668374f67162847"
+    },
+    {
+      "id": "Fast_Skipping",
+      "path": "exercises/Fast_Skipping.json",
+      "hash": "f9a6904fd8700f97d5cb0fb3f91e61758435183b72404738b43fc5117c908b5c"
+    },
+    {
+      "id": "Finger_Curls",
+      "path": "exercises/Finger_Curls.json",
+      "hash": "37e52a5e542c5823ad0813f962efad58df8c20acdf30d2cf1e60146c9c50c7fa"
+    },
+    {
+      "id": "Flat_Bench_Cable_Flyes",
+      "path": "exercises/Flat_Bench_Cable_Flyes.json",
+      "hash": "b622165d5233bd054028dbd01feb1e70d6e23e77114c91b72d27e5bc36062c82"
+    },
+    {
+      "id": "Flat_Bench_Leg_Pull-In",
+      "path": "exercises/Flat_Bench_Leg_Pull-In.json",
+      "hash": "67aeed003b358d4bdcea4885307a425b0c8d57cefb4c67667a6399350e0bd694"
+    },
+    {
+      "id": "Flat_Bench_Lying_Leg_Raise",
+      "path": "exercises/Flat_Bench_Lying_Leg_Raise.json",
+      "hash": "3896fc90fbeb1b3fc41d9f737eb7873ab737719c570e0a32a7afab901ac2fff6"
+    },
+    {
+      "id": "Flexor_Incline_Dumbbell_Curls",
+      "path": "exercises/Flexor_Incline_Dumbbell_Curls.json",
+      "hash": "0183cb3f7264784a4944b98f03e01b8775c541d978904fa2ce046d7bf83d8583"
+    },
+    {
+      "id": "Floor_Glute-Ham_Raise",
+      "path": "exercises/Floor_Glute-Ham_Raise.json",
+      "hash": "e3e9eaf6780dab4a6bd839f1e19bdc7f2e340e2d1ad43695f752df0968cee652"
+    },
+    {
+      "id": "Floor_Press",
+      "path": "exercises/Floor_Press.json",
+      "hash": "4210b961107c9ccbe18e7549af5e24c4936a5f7664a85281c1f8f8820002d59a"
+    },
+    {
+      "id": "Floor_Press_with_Chains",
+      "path": "exercises/Floor_Press_with_Chains.json",
+      "hash": "db75d2a2f5bb4a6c26994346f55a02b4e5859d91c8f03f99780ed83d23dd6c05"
+    },
+    {
+      "id": "Flutter_Kicks",
+      "path": "exercises/Flutter_Kicks.json",
+      "hash": "1b98b739cc041fc2654d356886392330499b545428a9104142059208b8d6f241"
+    },
+    {
+      "id": "Foot-SMR",
+      "path": "exercises/Foot-SMR.json",
+      "hash": "2da5e7905ca57075212bac61d231887941da527ffb59758ca14437cde7d2df81"
+    },
+    {
+      "id": "Forward_Drag_with_Press",
+      "path": "exercises/Forward_Drag_with_Press.json",
+      "hash": "c6f174211aa6fcd927f567fa43ad1955eac421e2b88c3bb83a52dec67e6bce83"
+    },
+    {
+      "id": "Frankenstein_Squat",
+      "path": "exercises/Frankenstein_Squat.json",
+      "hash": "b345efcb62e4a0c5f5498187f95878ffabd04485acb992bf2d17d669425ae233"
+    },
+    {
+      "id": "Freehand_Jump_Squat",
+      "path": "exercises/Freehand_Jump_Squat.json",
+      "hash": "8352568820e3495c09d6d0923483389ff4c1c1c8911d005af554f5c3f1dd1351"
+    },
+    {
+      "id": "Frog_Hops",
+      "path": "exercises/Frog_Hops.json",
+      "hash": "ade623d6aa0b6a54ef68f03de1a392e7ff3f19de1e089e38e0957114b0d1328c"
+    },
+    {
+      "id": "Frog_Sit-Ups",
+      "path": "exercises/Frog_Sit-Ups.json",
+      "hash": "9fcf8215a93bdf3355fb5972af56b882ffb265703698f18a29f23bf8b5c33925"
+    },
+    {
+      "id": "Front_Barbell_Squat",
+      "path": "exercises/Front_Barbell_Squat.json",
+      "hash": "2d2b6df42952961630667cd419cc77eac9bbb7348e2b14a97a786b9e2f77925c"
+    },
+    {
+      "id": "Front_Barbell_Squat_To_A_Bench",
+      "path": "exercises/Front_Barbell_Squat_To_A_Bench.json",
+      "hash": "35918218a4b7d49728d9790ac4c49c26e8fa4a527ca89f7375f89f7b8916e5ce"
+    },
+    {
+      "id": "Front_Box_Jump",
+      "path": "exercises/Front_Box_Jump.json",
+      "hash": "d3abcc8df0cf424417d519a342833f1ae4ddf35b7912b311b11d83bc40fe331f"
+    },
+    {
+      "id": "Front_Cable_Raise",
+      "path": "exercises/Front_Cable_Raise.json",
+      "hash": "e9f80565e94a240337ea00fd9d5e325921fd44cf13df2665825e80face7d9eeb"
+    },
+    {
+      "id": "Front_Cone_Hops_or_hurdle_hops",
+      "path": "exercises/Front_Cone_Hops_or_hurdle_hops.json",
+      "hash": "68b7f32cdb2697eeee7c7fe7d65824a857a296e4a94d2a1011961fb0db4b4b6c"
+    },
+    {
+      "id": "Front_Dumbbell_Raise",
+      "path": "exercises/Front_Dumbbell_Raise.json",
+      "hash": "d17b842721911ad1ee882cc059c96d27c53cf2f4b7299330cdc7b47ccedbfd14"
+    },
+    {
+      "id": "Front_Incline_Dumbbell_Raise",
+      "path": "exercises/Front_Incline_Dumbbell_Raise.json",
+      "hash": "bc4bdc6cc87576d2def47e08fd0d2f8f80b2d9f17346f40daf8a2f1b74fa384c"
+    },
+    {
+      "id": "Front_Leg_Raises",
+      "path": "exercises/Front_Leg_Raises.json",
+      "hash": "9076db224a4ceeec0b02e7b4c316d5f77dd9ca54f58784f22e85786eed0289d6"
+    },
+    {
+      "id": "Front_Plate_Raise",
+      "path": "exercises/Front_Plate_Raise.json",
+      "hash": "bf56f2839526c360706f7c073816d9963c19569fb0e496e5c3dda933f8fdd39b"
+    },
+    {
+      "id": "Front_Raise_And_Pullover",
+      "path": "exercises/Front_Raise_And_Pullover.json",
+      "hash": "60919f8d3130ac9ade0b05966a15e3449157566af48745cd52b644399bfbf9b4"
+    },
+    {
+      "id": "Front_Squat_Clean_Grip",
+      "path": "exercises/Front_Squat_Clean_Grip.json",
+      "hash": "3aa3f1ceedf80cc707f7d0c17e8d153214f5f4d90f5012a806a0a097406afec6"
+    },
+    {
+      "id": "Front_Squats_With_Two_Kettlebells",
+      "path": "exercises/Front_Squats_With_Two_Kettlebells.json",
+      "hash": "c2b6b524459199034eefb38243120bf0274c9a3505312eae702f17e2cce56563"
+    },
+    {
+      "id": "Front_Two-Dumbbell_Raise",
+      "path": "exercises/Front_Two-Dumbbell_Raise.json",
+      "hash": "36e910b766048ba5a9dffeca1f9176c3125b77fd9473de78e8df8aefc1e4caaa"
+    },
+    {
+      "id": "Full_Range-Of-Motion_Lat_Pulldown",
+      "path": "exercises/Full_Range-Of-Motion_Lat_Pulldown.json",
+      "hash": "d86f6819e85a447caa409d15f73d0472e23b2d282a08c4cc60e25bcc359acdc0"
+    },
+    {
+      "id": "Gironda_Sternum_Chins",
+      "path": "exercises/Gironda_Sternum_Chins.json",
+      "hash": "5ef7b8caeb6a3bd8c59e5c6e1df3408f4292b90696f124df027955bd6979bc64"
+    },
+    {
+      "id": "Glute_Ham_Raise",
+      "path": "exercises/Glute_Ham_Raise.json",
+      "hash": "1a8a469b1f998abb5d01a333a5ff34187075d3e64511713b242382671a6ec4ff"
+    },
+    {
+      "id": "Glute_Kickback",
+      "path": "exercises/Glute_Kickback.json",
+      "hash": "5202a2fd6916f0d544c6048e2f3c556fb7c7408f4770a83041e2ddb27e71d388"
+    },
+    {
+      "id": "Goblet_Squat",
+      "path": "exercises/Goblet_Squat.json",
+      "hash": "1ff685855f57df302c2df8b09caad4f271013a0708bb78f301be08a4dbd62fa4"
+    },
+    {
+      "id": "Good_Morning",
+      "path": "exercises/Good_Morning.json",
+      "hash": "397416c7aba13d53c4b7c4d04f906c272c33e088e83aa4743662be03ddf708bc"
+    },
+    {
+      "id": "Good_Morning_off_Pins",
+      "path": "exercises/Good_Morning_off_Pins.json",
+      "hash": "7fd7896052ed32340e42ec9be42291faf5e7e18dc8e148b0455890469d8c8023"
+    },
+    {
+      "id": "Gorilla_Chin_Crunch",
+      "path": "exercises/Gorilla_Chin_Crunch.json",
+      "hash": "6eda0c2156f7d09b968f251cf0cc593e2c6620845ed89be1b0b03c4f437f5787"
+    },
+    {
+      "id": "Groin_and_Back_Stretch",
+      "path": "exercises/Groin_and_Back_Stretch.json",
+      "hash": "f15df4f0c4a958a21f7b13f1b76f5b72ed7c093926fd879c43aa349ea0540202"
+    },
+    {
+      "id": "Groiners",
+      "path": "exercises/Groiners.json",
+      "hash": "4a1a2c6255227efc73ec2ec9ae1aef601a241d8c2231988f2b4eda54fb44275f"
+    },
+    {
+      "id": "Hack_Squat",
+      "path": "exercises/Hack_Squat.json",
+      "hash": "553af8844754a62f7a7fa309b8d3d3f43091e0f2f8b14ef2bae736704414eebb"
+    },
+    {
+      "id": "Hammer_Curls",
+      "path": "exercises/Hammer_Curls.json",
+      "hash": "86d861eaeaf1b46f8ee5fea5f89e1f8772a3be6b1a430a71d56157cb429038e6"
+    },
+    {
+      "id": "Hammer_Grip_Incline_DB_Bench_Press",
+      "path": "exercises/Hammer_Grip_Incline_DB_Bench_Press.json",
+      "hash": "19b46518356bb9e723d710c1f943f766880b877be20db34175496b899390072d"
+    },
+    {
+      "id": "Hamstring-SMR",
+      "path": "exercises/Hamstring-SMR.json",
+      "hash": "6f9eb6ea480c6ece90b60c26e877e488abc01146224a7d593ff268a1f414fb57"
+    },
+    {
+      "id": "Hamstring_Stretch",
+      "path": "exercises/Hamstring_Stretch.json",
+      "hash": "ae7bda37b8a94c059d79c2dbfc05dc181a6234d8aee6fd3bfb8750d7b604d792"
+    },
+    {
+      "id": "Handstand_Push-Ups",
+      "path": "exercises/Handstand_Push-Ups.json",
+      "hash": "c6b969b3a25f32010b54029452cf63a40bee486ca53eb7fa4f575bda18ab4fb2"
+    },
+    {
+      "id": "Hang_Clean",
+      "path": "exercises/Hang_Clean.json",
+      "hash": "1400dbccdaae764cca2adcd64f80cd44f47ed642943d49cc9122d8292b99a607"
+    },
+    {
+      "id": "Hang_Clean_-_Below_the_Knees",
+      "path": "exercises/Hang_Clean_-_Below_the_Knees.json",
+      "hash": "ca68e3620e1fb46188ba071c6dd16af257b90125eb005b29d79a1478e1030347"
+    },
+    {
+      "id": "Hang_Snatch",
+      "path": "exercises/Hang_Snatch.json",
+      "hash": "dcff7e4d37b214df15d228286c93cd5f60e0cd9e9994acdf7a55b274d972cdc2"
+    },
+    {
+      "id": "Hang_Snatch_-_Below_Knees",
+      "path": "exercises/Hang_Snatch_-_Below_Knees.json",
+      "hash": "58ec0660a84def6989f7e47111e2bb594052f146cade61b5cb6774a3dc747c5e"
+    },
+    {
+      "id": "Hanging_Bar_Good_Morning",
+      "path": "exercises/Hanging_Bar_Good_Morning.json",
+      "hash": "e066fc10eef27ce046597027540a383d435c5dea69c77ad06d605e3446639350"
+    },
+    {
+      "id": "Hanging_Leg_Raise",
+      "path": "exercises/Hanging_Leg_Raise.json",
+      "hash": "989cc24e2041a53b4aecc88ef0a3784bfabf36d7d5f31a7e6e0139c14031be97"
+    },
+    {
+      "id": "Hanging_Pike",
+      "path": "exercises/Hanging_Pike.json",
+      "hash": "1bce55df87f918d9b2f6b24d5a527f492a7060470b94fe36de36fbb22df575a1"
+    },
+    {
+      "id": "Heaving_Snatch_Balance",
+      "path": "exercises/Heaving_Snatch_Balance.json",
+      "hash": "754e7eed0aa4ca5442c5cc7b4066cf05590cc836e1abce029e8460435b1acffc"
+    },
+    {
+      "id": "Heavy_Bag_Thrust",
+      "path": "exercises/Heavy_Bag_Thrust.json",
+      "hash": "e99b4c70ff545470a995f06a9ffd70741ccb37365b54b5e347b37aa307b392e5"
+    },
+    {
+      "id": "High_Cable_Curls",
+      "path": "exercises/High_Cable_Curls.json",
+      "hash": "c2b2f3857cf859f1f65343f987ade3c8f66df16a9e46f3da2c83870adfba4e4e"
+    },
+    {
+      "id": "Hip_Circles_prone",
+      "path": "exercises/Hip_Circles_prone.json",
+      "hash": "2b6ab94cf808f4c7bdfc81a473da8f9b24ec6157ea732124ae00da47874fdd94"
+    },
+    {
+      "id": "Hip_Extension_with_Bands",
+      "path": "exercises/Hip_Extension_with_Bands.json",
+      "hash": "a4a9c623ef693567404fa164f6556c6fba74dcb897fe8ed468a7b1eb5cfdfdc9"
+    },
+    {
+      "id": "Hip_Flexion_with_Band",
+      "path": "exercises/Hip_Flexion_with_Band.json",
+      "hash": "a54e7477509404d5212730225c74bd78228e20e2012b3744df2c83c403009681"
+    },
+    {
+      "id": "Hip_Lift_with_Band",
+      "path": "exercises/Hip_Lift_with_Band.json",
+      "hash": "b99df7d38dfb561128ce91546486192ebc544e38909f97d0055506a1b4572579"
+    },
+    {
+      "id": "Hug_A_Ball",
+      "path": "exercises/Hug_A_Ball.json",
+      "hash": "83aced52538712772c56bc4730471cf0b93b35c063668052c713db12cfbec5be"
+    },
+    {
+      "id": "Hug_Knees_To_Chest",
+      "path": "exercises/Hug_Knees_To_Chest.json",
+      "hash": "e5adbaf4ff18f5c90bbe0f4df5cbfb337b457fd402984879346549318eb782c2"
+    },
+    {
+      "id": "Hurdle_Hops",
+      "path": "exercises/Hurdle_Hops.json",
+      "hash": "84e21f67df7913c28269311c64ae472d0d120b8104dee50f1f1900844bc6e5b2"
+    },
+    {
+      "id": "Hyperextensions_Back_Extensions",
+      "path": "exercises/Hyperextensions_Back_Extensions.json",
+      "hash": "e2079aea17439f47cba18f84618828b6926f0ed30c54b96d46dc9c31444df758"
+    },
+    {
+      "id": "Hyperextensions_With_No_Hyperextension_Bench",
+      "path": "exercises/Hyperextensions_With_No_Hyperextension_Bench.json",
+      "hash": "e22cdc9ccad75c12e189e538fa85535cf17cc1267922102abb1c842f46405e26"
+    },
+    {
+      "id": "IT_Band_and_Glute_Stretch",
+      "path": "exercises/IT_Band_and_Glute_Stretch.json",
+      "hash": "2717a5392d264ab7ac616ffb2bdc3c70d5b827717ebd0a0a0ec08a361a7d28bd"
+    },
+    {
+      "id": "Iliotibial_Tract-SMR",
+      "path": "exercises/Iliotibial_Tract-SMR.json",
+      "hash": "e8df3f054ae4e225c604a298e98c87b3043256af61500f1295b180e503bb79ba"
+    },
+    {
+      "id": "Inchworm",
+      "path": "exercises/Inchworm.json",
+      "hash": "a4148bd560b7b433b858489102c0edfedb9f5ef5b1b3eccb1cb04e18c6492be5"
+    },
+    {
+      "id": "Incline_Barbell_Triceps_Extension",
+      "path": "exercises/Incline_Barbell_Triceps_Extension.json",
+      "hash": "b498a9ed3ecd5d69f01bf15582cd0cace05252634e3229b8d99b8fa9b61f17c7"
+    },
+    {
+      "id": "Incline_Bench_Pull",
+      "path": "exercises/Incline_Bench_Pull.json",
+      "hash": "c5d5327ba4b11c2c3e35126e04a20619632baa16f1f0b882f956fde3dba01073"
+    },
+    {
+      "id": "Incline_Cable_Chest_Press",
+      "path": "exercises/Incline_Cable_Chest_Press.json",
+      "hash": "da8599fe13d7e6c7a35e605a4c5ab6fcafe300f0a42305554861d45104e6b890"
+    },
+    {
+      "id": "Incline_Cable_Flye",
+      "path": "exercises/Incline_Cable_Flye.json",
+      "hash": "88b1ba72e65263c8faf3f805dd8717118a7ab2015165971a15b3a56e4d893184"
+    },
+    {
+      "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In",
+      "path": "exercises/Incline_Dumbbell_Bench_With_Palms_Facing_In.json",
+      "hash": "e4f8ef4b81c00d3e3192ae19b6dc96f5b8a8c7ea9d82df43f1fde0d4777503f4"
+    },
+    {
+      "id": "Incline_Dumbbell_Curl",
+      "path": "exercises/Incline_Dumbbell_Curl.json",
+      "hash": "42611e99a9b28589862f0fd65f385daaa68340331cb7000efd6c324ad97efde4"
+    },
+    {
+      "id": "Incline_Dumbbell_Flyes",
+      "path": "exercises/Incline_Dumbbell_Flyes.json",
+      "hash": "2fb78bee30c8c453b29fc7c1f8a1aa855989d3e4b8fa0e9165608bfd8264519c"
+    },
+    {
+      "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+      "path": "exercises/Incline_Dumbbell_Flyes_-_With_A_Twist.json",
+      "hash": "b75f3586b2e774ac3e02d677877ac38969906499a139a14e63d0b8da38797d35"
+    },
+    {
+      "id": "Incline_Dumbbell_Press",
+      "path": "exercises/Incline_Dumbbell_Press.json",
+      "hash": "4d8211007a63f2e00f0b0a765df9737355329b13ac5aad5669239f364460989d"
+    },
+    {
+      "id": "Incline_Hammer_Curls",
+      "path": "exercises/Incline_Hammer_Curls.json",
+      "hash": "732288b1a974df21273b1c10beb257085e5b25a7677fc4f3d709d714cf7c098b"
+    },
+    {
+      "id": "Incline_Inner_Biceps_Curl",
+      "path": "exercises/Incline_Inner_Biceps_Curl.json",
+      "hash": "2d94f44af7b63fc567e9b02850c1c958041adf9db35c7a674df15bbfffc0b4a2"
+    },
+    {
+      "id": "Incline_Push-Up",
+      "path": "exercises/Incline_Push-Up.json",
+      "hash": "dc80d36ff67fe8fd1635d44c98baf7865ae9351daf9643659dcfd3d6f3d7e206"
+    },
+    {
+      "id": "Incline_Push-Up_Close-Grip",
+      "path": "exercises/Incline_Push-Up_Close-Grip.json",
+      "hash": "34496e20c1efe066cf1a6900536645267de6042b12559e9a47e2dcae5214977a"
+    },
+    {
+      "id": "Incline_Push-Up_Depth_Jump",
+      "path": "exercises/Incline_Push-Up_Depth_Jump.json",
+      "hash": "b8eb2608ceae7d33dd9103eedfcccb7f2dff3d79ddfc742c9a96723d221232af"
+    },
+    {
+      "id": "Incline_Push-Up_Medium",
+      "path": "exercises/Incline_Push-Up_Medium.json",
+      "hash": "ac9abb345ffda36f10ec79d692031869bb6a754a35ae836744331cd17e367eb8"
+    },
+    {
+      "id": "Incline_Push-Up_Reverse_Grip",
+      "path": "exercises/Incline_Push-Up_Reverse_Grip.json",
+      "hash": "b5c2aad030e10d36c8eea6f49b554957a9dd876fd518c787385e842f959dc44a"
+    },
+    {
+      "id": "Incline_Push-Up_Wide",
+      "path": "exercises/Incline_Push-Up_Wide.json",
+      "hash": "d2c96adc95aaf16650cf0980eb22b83a0e698e80e99c18743b57f5032803868d"
+    },
+    {
+      "id": "Intermediate_Groin_Stretch",
+      "path": "exercises/Intermediate_Groin_Stretch.json",
+      "hash": "84051547072d68c55ea4aaa2b6c6c9404a90c49b2092f316c557cdb68b5e73dc"
+    },
+    {
+      "id": "Intermediate_Hip_Flexor_and_Quad_Stretch",
+      "path": "exercises/Intermediate_Hip_Flexor_and_Quad_Stretch.json",
+      "hash": "22597de3815e3586241af3b3ce9a1d8119214f7fc6b3387f6759ee98cedbd498"
+    },
+    {
+      "id": "Internal_Rotation_with_Band",
+      "path": "exercises/Internal_Rotation_with_Band.json",
+      "hash": "ba33b9f6f781fbfb11725aea8ffc1f3f159b7283cddea08ec66ab3910fd00d48"
+    },
+    {
+      "id": "Inverted_Row",
+      "path": "exercises/Inverted_Row.json",
+      "hash": "601cc597a5797623643c630a36e7d0fc1787961a3acb8128be60e36b562f951d"
+    },
+    {
+      "id": "Inverted_Row_with_Straps",
+      "path": "exercises/Inverted_Row_with_Straps.json",
+      "hash": "c17d06d2f425d87e7450fe36f8bcd4c4dcd85608338b3e4c3ee51efe91ae22bb"
+    },
+    {
+      "id": "Iron_Cross",
+      "path": "exercises/Iron_Cross.json",
+      "hash": "11e7427cddac56bc5ec45cf389d5aa886f7aaaadc82ac9bc8547a22915608a09"
+    },
+    {
+      "id": "Iron_Crosses_stretch",
+      "path": "exercises/Iron_Crosses_stretch.json",
+      "hash": "109985def216dda8f28cc6234b944056872fe560e62fa0c5dc6a0e1ac7654910"
+    },
+    {
+      "id": "Isometric_Chest_Squeezes",
+      "path": "exercises/Isometric_Chest_Squeezes.json",
+      "hash": "296b16069a3a7b5581b3392c8a74a99f484777657fdece1443c0b8bbca5d7484"
+    },
+    {
+      "id": "Isometric_Neck_Exercise_-_Front_And_Back",
+      "path": "exercises/Isometric_Neck_Exercise_-_Front_And_Back.json",
+      "hash": "d7d830a7a1008103df267a0c9b569fa1eba45ff28e1a632e401f3d22351ece81"
+    },
+    {
+      "id": "Isometric_Neck_Exercise_-_Sides",
+      "path": "exercises/Isometric_Neck_Exercise_-_Sides.json",
+      "hash": "bdae1489b664f247b9bebec86755fd683cffbf05dfef626863d37524f64b73b1"
+    },
+    {
+      "id": "Isometric_Wipers",
+      "path": "exercises/Isometric_Wipers.json",
+      "hash": "91ab52ae93faba08a3abfa2c533d905c53d2614996a92b15f36e766690a167d1"
+    },
+    {
+      "id": "JM_Press",
+      "path": "exercises/JM_Press.json",
+      "hash": "1f480485806852f10521355cd0d76574dff1f7ac04eea27a4240b94e1884c85a"
+    },
+    {
+      "id": "Jackknife_Sit-Up",
+      "path": "exercises/Jackknife_Sit-Up.json",
+      "hash": "9fe7427a65e0ffedd4fe15b1d05142ea313d11ec7c8d81de18d6ce29aa82de4b"
+    },
+    {
+      "id": "Janda_Sit-Up",
+      "path": "exercises/Janda_Sit-Up.json",
+      "hash": "0628169e7f632459932a198f452f5ea5a241c6945aff7c35daceb75e5357a72a"
+    },
+    {
+      "id": "Jefferson_Squats",
+      "path": "exercises/Jefferson_Squats.json",
+      "hash": "a0729dffbab5adb10c98e55f6e907ff231855e08a09343c67760319dadf3239b"
+    },
+    {
+      "id": "Jerk_Balance",
+      "path": "exercises/Jerk_Balance.json",
+      "hash": "b948efc9c15192c38acd46e24e2b7f2a694304e0a3bc5ea710b03a8cf04f6c31"
+    },
+    {
+      "id": "Jerk_Dip_Squat",
+      "path": "exercises/Jerk_Dip_Squat.json",
+      "hash": "a1231cea8c300e7acce0e9812d1a5acc62d72c72de8aa4bb5914e9c22e86b871"
+    },
+    {
+      "id": "Jogging_Treadmill",
+      "path": "exercises/Jogging_Treadmill.json",
+      "hash": "d3ce32f6641e1830fb6b54433639378bb4a3f89b24426a2437a26a264c2c4aec"
+    },
+    {
+      "id": "Keg_Load",
+      "path": "exercises/Keg_Load.json",
+      "hash": "e1225e9a7dd3c03d3142a3e43b497f5739d439b43b1ac5680ca37c3a453ba2e6"
+    },
+    {
+      "id": "Kettlebell_Arnold_Press",
+      "path": "exercises/Kettlebell_Arnold_Press.json",
+      "hash": "df07b50cb90188e46ae7a2b01fb246079fe4a0a86b2980d0d6fe0c510e46a94a"
+    },
+    {
+      "id": "Kettlebell_Dead_Clean",
+      "path": "exercises/Kettlebell_Dead_Clean.json",
+      "hash": "d4721999952fed3fe3a9576963ebb3804c76dc941b4261e2c0b873868791ad61"
+    },
+    {
+      "id": "Kettlebell_Figure_8",
+      "path": "exercises/Kettlebell_Figure_8.json",
+      "hash": "2694d24838cee8b933ce0d7d407deb95577a3b56792f6b5903746f46759e315f"
+    },
+    {
+      "id": "Kettlebell_Hang_Clean",
+      "path": "exercises/Kettlebell_Hang_Clean.json",
+      "hash": "95674bb74270274c7c7c566e24ac441a41480a21cd3d9a1637a221ebfece76a0"
+    },
+    {
+      "id": "Kettlebell_One-Legged_Deadlift",
+      "path": "exercises/Kettlebell_One-Legged_Deadlift.json",
+      "hash": "332bde6ffef9e28ea6b551112acc198cae3e2b597b4ec687acc2e1d93854eb53"
+    },
+    {
+      "id": "Kettlebell_Pass_Between_The_Legs",
+      "path": "exercises/Kettlebell_Pass_Between_The_Legs.json",
+      "hash": "e58783b5c43156163fa323862adc49ccf4f9fc7c2c061e9ed3d8ebf0b610817b"
+    },
+    {
+      "id": "Kettlebell_Pirate_Ships",
+      "path": "exercises/Kettlebell_Pirate_Ships.json",
+      "hash": "00143e610b050fe9154b7c5e855a0c08f231dce74fbfcbda090066fabcd33c1a"
+    },
+    {
+      "id": "Kettlebell_Pistol_Squat",
+      "path": "exercises/Kettlebell_Pistol_Squat.json",
+      "hash": "5d9becd3b3cac6092ba981184e07e77f6d8510ce5d7963e94bedc61eca420487"
+    },
+    {
+      "id": "Kettlebell_Seated_Press",
+      "path": "exercises/Kettlebell_Seated_Press.json",
+      "hash": "bd16f3656cf501f89f5b0546ab4e2ba3489052d3d2a795fac7be06dc2b93940d"
+    },
+    {
+      "id": "Kettlebell_Seesaw_Press",
+      "path": "exercises/Kettlebell_Seesaw_Press.json",
+      "hash": "112915ab56d2d217dd381a5029fc5279a49a11d7d4b21e7304d884fb70088081"
+    },
+    {
+      "id": "Kettlebell_Sumo_High_Pull",
+      "path": "exercises/Kettlebell_Sumo_High_Pull.json",
+      "hash": "9b11238a2bb11446af33bdb1056e84161e9ac335f905a414eac3454463c3936e"
+    },
+    {
+      "id": "Kettlebell_Thruster",
+      "path": "exercises/Kettlebell_Thruster.json",
+      "hash": "32176faa7bc2dd22aa789d177fa20ecc0abcf0df06142e39b1e13a5c6ac65f81"
+    },
+    {
+      "id": "Kettlebell_Turkish_Get-Up_Lunge_style",
+      "path": "exercises/Kettlebell_Turkish_Get-Up_Lunge_style.json",
+      "hash": "2923e95632fb0360a421ff7b8382a967e0b0587cf8884272112e3f64e4873dff"
+    },
+    {
+      "id": "Kettlebell_Turkish_Get-Up_Squat_style",
+      "path": "exercises/Kettlebell_Turkish_Get-Up_Squat_style.json",
+      "hash": "a9e627939041e3ffcaa6fca0a1ee65d054d70d44c087dd160f5ffff6af166897"
+    },
+    {
+      "id": "Kettlebell_Windmill",
+      "path": "exercises/Kettlebell_Windmill.json",
+      "hash": "60b87115a794cd41200ce230bb8def01803d581402b66b7f2457f4cf43c69044"
+    },
+    {
+      "id": "Kipping_Muscle_Up",
+      "path": "exercises/Kipping_Muscle_Up.json",
+      "hash": "e0f42a4236c5cebd8d23d9ab052aaf1de43f1beefb67e6570fc7211e92e648ef"
+    },
+    {
+      "id": "Knee_Across_The_Body",
+      "path": "exercises/Knee_Across_The_Body.json",
+      "hash": "e2b130e5fc0dfe3355e0a6da83d3ff839ffbe8288a177c4772e9d8f5e68fb99d"
+    },
+    {
+      "id": "Knee_Circles",
+      "path": "exercises/Knee_Circles.json",
+      "hash": "a79bb211c42bcbf4c601110aa4f1fdb569510d19f42688b0e11ed00decd523ed"
+    },
+    {
+      "id": "Knee_Hip_Raise_On_Parallel_Bars",
+      "path": "exercises/Knee_Hip_Raise_On_Parallel_Bars.json",
+      "hash": "65dcb78ab925b509a18f20632a23ee4e69a0951a6cdde8acd715b067f1d4e3c4"
+    },
+    {
+      "id": "Knee_Tuck_Jump",
+      "path": "exercises/Knee_Tuck_Jump.json",
+      "hash": "c6b55f99634b22226d4bd54fd29d92a874178bd5be29a9a4aef265c1e23bfdcc"
+    },
+    {
+      "id": "Kneeling_Arm_Drill",
+      "path": "exercises/Kneeling_Arm_Drill.json",
+      "hash": "5a46c3de2b79a86ad9e6bce6aafdfc514a0538b293c22a763aabddd61985ad72"
+    },
+    {
+      "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+      "path": "exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists.json",
+      "hash": "8412ff945142c1ad7df0be66658dad8a1296fb825cbd84531befff4ebf6bd5e6"
+    },
+    {
+      "id": "Kneeling_Cable_Triceps_Extension",
+      "path": "exercises/Kneeling_Cable_Triceps_Extension.json",
+      "hash": "3508766ae6810c721f1e106a567e46c1b9b2ea7cc7e0103d301489b70439c9be"
+    },
+    {
+      "id": "Kneeling_Forearm_Stretch",
+      "path": "exercises/Kneeling_Forearm_Stretch.json",
+      "hash": "6993cdef6aa1369daaa32fffb8a46b4bc625b6722739262e11b3a32905d249c9"
+    },
+    {
+      "id": "Kneeling_High_Pulley_Row",
+      "path": "exercises/Kneeling_High_Pulley_Row.json",
+      "hash": "ba3dfee9185fcebb163692c26693433e6e9750938c83c95522d13a0c36e543aa"
+    },
+    {
+      "id": "Kneeling_Hip_Flexor",
+      "path": "exercises/Kneeling_Hip_Flexor.json",
+      "hash": "c8a0c0a80bbea021fe168d47c4f69816d4e2baba19daa32ec7ef10357ea865dd"
+    },
+    {
+      "id": "Kneeling_Jump_Squat",
+      "path": "exercises/Kneeling_Jump_Squat.json",
+      "hash": "bb4fecedab575a11249485df8bacdc2ec1e6f352c221ab99dd9eac5d0eba83c6"
+    },
+    {
+      "id": "Kneeling_Single-Arm_High_Pulley_Row",
+      "path": "exercises/Kneeling_Single-Arm_High_Pulley_Row.json",
+      "hash": "b20dad4c76c0a9cc5eedf0e944634bb7ce5335cf60d64f99d41f3b23e51fe989"
+    },
+    {
+      "id": "Kneeling_Squat",
+      "path": "exercises/Kneeling_Squat.json",
+      "hash": "46fefa5d224be9fb44c9df164a08a310888cbda36eccd0af114803a058feb51b"
+    },
+    {
+      "id": "Landmine_180s",
+      "path": "exercises/Landmine_180s.json",
+      "hash": "48f0e14403f817db3280015ddea42662bc02657ee238fa3347d5036a10217601"
+    },
+    {
+      "id": "Landmine_Linear_Jammer",
+      "path": "exercises/Landmine_Linear_Jammer.json",
+      "hash": "00013fec9c10d51c42153b2c3089d6be22aeb07086a563538a86104f73979e17"
+    },
+    {
+      "id": "Lateral_Bound",
+      "path": "exercises/Lateral_Bound.json",
+      "hash": "2fe5a05c1134e2926c8ad005e86bbc38feb2bd16cf7f33016f4ba463ea656011"
+    },
+    {
+      "id": "Lateral_Box_Jump",
+      "path": "exercises/Lateral_Box_Jump.json",
+      "hash": "15f089c28a0faf584b54dac2ec6e784a44fa2a17beb03c9bce82144969904064"
+    },
+    {
+      "id": "Lateral_Cone_Hops",
+      "path": "exercises/Lateral_Cone_Hops.json",
+      "hash": "cbacfc10f2b12833c15c302371ed6d4f014a8b254446d7e1f4949fb4ecdc809d"
+    },
+    {
+      "id": "Lateral_Raise_-_With_Bands",
+      "path": "exercises/Lateral_Raise_-_With_Bands.json",
+      "hash": "91fc617e104b229608087e155197478c93357598ba19eb1b0176241ba2b10fe7"
+    },
+    {
+      "id": "Latissimus_Dorsi-SMR",
+      "path": "exercises/Latissimus_Dorsi-SMR.json",
+      "hash": "a58daefb1eced3696b4d4e5acd8aa00f0d652f080ce3ca019a741a964b876c09"
+    },
+    {
+      "id": "Leg-Over_Floor_Press",
+      "path": "exercises/Leg-Over_Floor_Press.json",
+      "hash": "40a1a1eec33db5ae1f74a8f2014a21d22972723c00df2b4e19670aec53343e7c"
+    },
+    {
+      "id": "Leg-Up_Hamstring_Stretch",
+      "path": "exercises/Leg-Up_Hamstring_Stretch.json",
+      "hash": "8d87c5085e27209de30d2b3321ce9666d41b07ee7e46a94fa3fc3fbe422d071b"
+    },
+    {
+      "id": "Leg_Extensions",
+      "path": "exercises/Leg_Extensions.json",
+      "hash": "9a9cb1ede0c6a9ac50fa29f1c907b33e6847b4e8e38d3cee6559a9747ac99c57"
+    },
+    {
+      "id": "Leg_Lift",
+      "path": "exercises/Leg_Lift.json",
+      "hash": "505291b49cda8e77ee1d43f6b8b37edd17dab1e144b430264b039e58274d00c1"
+    },
+    {
+      "id": "Leg_Press",
+      "path": "exercises/Leg_Press.json",
+      "hash": "7b65b783d690f83b1c5e608a56259482d896c463525b9d75b5cca571556ed8c7"
+    },
+    {
+      "id": "Leg_Pull-In",
+      "path": "exercises/Leg_Pull-In.json",
+      "hash": "0a2a621b4feff5edcfba1d223ac94617d8406244b0fee72f886801478a7e743b"
+    },
+    {
+      "id": "Leverage_Chest_Press",
+      "path": "exercises/Leverage_Chest_Press.json",
+      "hash": "b6429302defc5fc9316044e5510a9e4163c687cacf230d3232fc28ceb78c0401"
+    },
+    {
+      "id": "Leverage_Deadlift",
+      "path": "exercises/Leverage_Deadlift.json",
+      "hash": "31cafee1292b38b00622ddcd4781a6d32ec27c5944c1e26538e2942a6fbc77c4"
+    },
+    {
+      "id": "Leverage_Decline_Chest_Press",
+      "path": "exercises/Leverage_Decline_Chest_Press.json",
+      "hash": "041bec92504f619a23930df1a519dd3e6139b6b3fc99c4de4bfd09dc4ef96d77"
+    },
+    {
+      "id": "Leverage_High_Row",
+      "path": "exercises/Leverage_High_Row.json",
+      "hash": "43c9fda82924135ceb11f1474459f9c61aeb66ffe6a57f58963ab8a33f7cb154"
+    },
+    {
+      "id": "Leverage_Incline_Chest_Press",
+      "path": "exercises/Leverage_Incline_Chest_Press.json",
+      "hash": "667d4ef1a06e71e19e1b9d96a88b0152c7550800c691d81047d7e19c8e394ddd"
+    },
+    {
+      "id": "Leverage_Iso_Row",
+      "path": "exercises/Leverage_Iso_Row.json",
+      "hash": "9f33b163e0fc235497cc162de15bc8e018915565c6997bc12acf7891097e55eb"
+    },
+    {
+      "id": "Leverage_Shoulder_Press",
+      "path": "exercises/Leverage_Shoulder_Press.json",
+      "hash": "8a489d8193651acbe365c4572bac8baa38736b72faab6e060121b647fbc8623b"
+    },
+    {
+      "id": "Leverage_Shrug",
+      "path": "exercises/Leverage_Shrug.json",
+      "hash": "58c8460de49359548ae5467e8a160ba295c3992b5e44482426d15f480d013b4f"
+    },
+    {
+      "id": "Linear_3-Part_Start_Technique",
+      "path": "exercises/Linear_3-Part_Start_Technique.json",
+      "hash": "947bd78c90d38daafabf8b66565bd58b94b1b7f5613a60b23274621db523fb1f"
+    },
+    {
+      "id": "Linear_Acceleration_Wall_Drill",
+      "path": "exercises/Linear_Acceleration_Wall_Drill.json",
+      "hash": "ddc2d63deea6f8b5adbacb840cc526283b0d5d76638ee450c58a6ba82afdb0d6"
+    },
+    {
+      "id": "Linear_Depth_Jump",
+      "path": "exercises/Linear_Depth_Jump.json",
+      "hash": "b9e36aa189977a16587e7b6be42ab0beef3b92e4391054fbfa9ef60030db5274"
+    },
+    {
+      "id": "Log_Lift",
+      "path": "exercises/Log_Lift.json",
+      "hash": "4faa8b9c724ccce2e7a62c61874968b5a3641849497e3083e6cc0a3c41e0ef13"
+    },
+    {
+      "id": "London_Bridges",
+      "path": "exercises/London_Bridges.json",
+      "hash": "2f8f085cd8a073a972c421d0967f7a48e7a52454c0e3d3465427a7ad7cfc46f3"
+    },
+    {
+      "id": "Looking_At_Ceiling",
+      "path": "exercises/Looking_At_Ceiling.json",
+      "hash": "967887724f84755ddf7dc2611701be9e4ee17676943c573e0522a77a10b38b4d"
+    },
+    {
+      "id": "Low_Cable_Crossover",
+      "path": "exercises/Low_Cable_Crossover.json",
+      "hash": "d6f8b3cded787fd94d0aa4ca9f92868c61db05acb3b9d45d79141f88cb901fed"
+    },
+    {
+      "id": "Low_Cable_Triceps_Extension",
+      "path": "exercises/Low_Cable_Triceps_Extension.json",
+      "hash": "dbebfc0665c9e103ccb6f6d8095df2f09b3d6fefb583f7d4f32baea81c634156"
+    },
+    {
+      "id": "Low_Pulley_Row_To_Neck",
+      "path": "exercises/Low_Pulley_Row_To_Neck.json",
+      "hash": "a293c5ce0b09b689d944280c4d1f4e3cdd9c7f3db90073ef64b97cad03f188d1"
+    },
+    {
+      "id": "Lower_Back-SMR",
+      "path": "exercises/Lower_Back-SMR.json",
+      "hash": "35b455f335690543d43d2071c5db304338f1530906f7670ca2f7363b477d1f49"
+    },
+    {
+      "id": "Lower_Back_Curl",
+      "path": "exercises/Lower_Back_Curl.json",
+      "hash": "f6e755e39eaea8a4e67f7a7814063fc54814eb89fc83a83aac2ac9012ad7f3cd"
+    },
+    {
+      "id": "Lunge_Pass_Through",
+      "path": "exercises/Lunge_Pass_Through.json",
+      "hash": "366e33365bf3cb3f9b72def0c88c36a2c39c7fee081d0fe7e4e04d6c0421fb94"
+    },
+    {
+      "id": "Lunge_Sprint",
+      "path": "exercises/Lunge_Sprint.json",
+      "hash": "faaeb7e9f33b3464c68cf60eb8b62de25e4672ed51c2ee692d1fdbd8c82d4aa0"
+    },
+    {
+      "id": "Lying_Bent_Leg_Groin",
+      "path": "exercises/Lying_Bent_Leg_Groin.json",
+      "hash": "af936d15c1c72286058bf9138856b5be016e752e2dbe88ca73fce9e7ca106eca"
+    },
+    {
+      "id": "Lying_Cable_Curl",
+      "path": "exercises/Lying_Cable_Curl.json",
+      "hash": "1427849af105dd83f6909e4c885acfb0335170a421ea3f8aa7f8cceee025025c"
+    },
+    {
+      "id": "Lying_Cambered_Barbell_Row",
+      "path": "exercises/Lying_Cambered_Barbell_Row.json",
+      "hash": "f9fa77cb1cd9615a4882e19ecd2340c67b8095cbe9e3bc41b1e616c7f4df0790"
+    },
+    {
+      "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+      "path": "exercises/Lying_Close-Grip_Bar_Curl_On_High_Pulley.json",
+      "hash": "3290eb28285987ac40d2ef2f781c7362eb546e422fca0c30a41f19a9bd3ef491"
+    },
+    {
+      "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+      "path": "exercises/Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head.json",
+      "hash": "2ef90a9db3058683c8d5ccd1bb056ea8b816a46e695677ec89f12247d5d6d47d"
+    },
+    {
+      "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
+      "path": "exercises/Lying_Close-Grip_Barbell_Triceps_Press_To_Chin.json",
+      "hash": "9028cebd459697a853c7cf533af70e303e5a2a7c92f1eff44bc8059c4981b7e1"
+    },
+    {
+      "id": "Lying_Crossover",
+      "path": "exercises/Lying_Crossover.json",
+      "hash": "5b9c93a21c85a77dc1f7bddc9cdf741140fb5c7cdba42b21464adc582b0d3e63"
+    },
+    {
+      "id": "Lying_Dumbbell_Tricep_Extension",
+      "path": "exercises/Lying_Dumbbell_Tricep_Extension.json",
+      "hash": "cf036287068f8291432ca7c7192ef52692eea7f0026d99324e6cfa1826485414"
+    },
+    {
+      "id": "Lying_Face_Down_Plate_Neck_Resistance",
+      "path": "exercises/Lying_Face_Down_Plate_Neck_Resistance.json",
+      "hash": "5640565a27a5b762708fe955f529bf6847dae7174afbfacb6c0aa0ee01d9a81b"
+    },
+    {
+      "id": "Lying_Face_Up_Plate_Neck_Resistance",
+      "path": "exercises/Lying_Face_Up_Plate_Neck_Resistance.json",
+      "hash": "93d6a14c10bf3b5db21c5e7a21bef683dbc54982c880e998cc23a0df39315a3a"
+    },
+    {
+      "id": "Lying_Glute",
+      "path": "exercises/Lying_Glute.json",
+      "hash": "42b1a6fa661b53faeac20a59cc549128e5e1022d47e10804ef4b114b2fa23a48"
+    },
+    {
+      "id": "Lying_Hamstring",
+      "path": "exercises/Lying_Hamstring.json",
+      "hash": "fa3e409af5b607466900f3814083b441c886c880ab53cc94109df1ac1635b54c"
+    },
+    {
+      "id": "Lying_High_Bench_Barbell_Curl",
+      "path": "exercises/Lying_High_Bench_Barbell_Curl.json",
+      "hash": "88e080281e9b854b02ec03a950d503d0b33d2578ae46d16ff1710abc577437e8"
+    },
+    {
+      "id": "Lying_Leg_Curls",
+      "path": "exercises/Lying_Leg_Curls.json",
+      "hash": "220acdab82f6ad7110e1688edb718a414913cbab84c268037dc583e31329e8a0"
+    },
+    {
+      "id": "Lying_Machine_Squat",
+      "path": "exercises/Lying_Machine_Squat.json",
+      "hash": "0a4185c51fea4d2e9d07a0185f8f0012d5137683d55b17b8e9e1612000eead52"
+    },
+    {
+      "id": "Lying_One-Arm_Lateral_Raise",
+      "path": "exercises/Lying_One-Arm_Lateral_Raise.json",
+      "hash": "b92e2dec31b6f66c5bea0ce63b152bd0437a49841defd51165da7740c00ee11d"
+    },
+    {
+      "id": "Lying_Prone_Quadriceps",
+      "path": "exercises/Lying_Prone_Quadriceps.json",
+      "hash": "b32c4787e6a2026200c54c1a29e3cd0456f1bf7f6536fcdf1ade3bec32dff781"
+    },
+    {
+      "id": "Lying_Rear_Delt_Raise",
+      "path": "exercises/Lying_Rear_Delt_Raise.json",
+      "hash": "e93b1f0cb91cf307d3c2fd686c08c3869ff2212b9a117e6654a3008bfa213eb4"
+    },
+    {
+      "id": "Lying_Supine_Dumbbell_Curl",
+      "path": "exercises/Lying_Supine_Dumbbell_Curl.json",
+      "hash": "018e98d10dc4a402f6f019e6ec85c7343d0d55d69f6ce68c4b6b8d98a70cf5b9"
+    },
+    {
+      "id": "Lying_T-Bar_Row",
+      "path": "exercises/Lying_T-Bar_Row.json",
+      "hash": "9570aad6df335f66e7c0fdb47b5a1d6ab97df8d20daa281498922c058464b7d1"
+    },
+    {
+      "id": "Lying_Triceps_Press",
+      "path": "exercises/Lying_Triceps_Press.json",
+      "hash": "bb167858bb8052562bd905bf8202f38421a9f99ef7055a86d0bc2e21800c1d44"
+    },
+    {
+      "id": "Machine_Bench_Press",
+      "path": "exercises/Machine_Bench_Press.json",
+      "hash": "eb7ca418404db6833fcf14c5ad6ad5c431bb0a5e66eddea4038d27c803554797"
+    },
+    {
+      "id": "Machine_Bicep_Curl",
+      "path": "exercises/Machine_Bicep_Curl.json",
+      "hash": "7dd0864c32932a6769da0713f7aac518e3d5436d62279b842cb7ca251f2daea7"
+    },
+    {
+      "id": "Machine_Preacher_Curls",
+      "path": "exercises/Machine_Preacher_Curls.json",
+      "hash": "7be461435f44438978c94b56d371802b322977cef2dbf0ff19a3f7f10290c13e"
+    },
+    {
+      "id": "Machine_Shoulder_Military_Press",
+      "path": "exercises/Machine_Shoulder_Military_Press.json",
+      "hash": "ada02f4eafd695e0a3bf86a1bef709b5f4f3f8df549254a7af5d7ef5fd3e2b0c"
+    },
+    {
+      "id": "Machine_Triceps_Extension",
+      "path": "exercises/Machine_Triceps_Extension.json",
+      "hash": "f8b18baf14c979ebf0a8978ef17cf3bd06b1915828862e7aa39e1535f40bbe36"
+    },
+    {
+      "id": "Medicine_Ball_Chest_Pass",
+      "path": "exercises/Medicine_Ball_Chest_Pass.json",
+      "hash": "0941347ee97a6a0511753493396d25620174868c75a4b491bbfd47591f8ec0eb"
+    },
+    {
+      "id": "Medicine_Ball_Full_Twist",
+      "path": "exercises/Medicine_Ball_Full_Twist.json",
+      "hash": "24fa81cdb4db9f4e0ef5d61ffa9a82b97eeddd16061d031a61da91b5cc5ca843"
+    },
+    {
+      "id": "Medicine_Ball_Scoop_Throw",
+      "path": "exercises/Medicine_Ball_Scoop_Throw.json",
+      "hash": "4b81ce7d90ff25d700e58060b094a10c83f93d057002811d36386f6a1643ebaf"
+    },
+    {
+      "id": "Middle_Back_Shrug",
+      "path": "exercises/Middle_Back_Shrug.json",
+      "hash": "9fe81c1e42cc0a77288ce15fc578e61cdf2bb2bcd91e78fe977d29cadbf583a3"
+    },
+    {
+      "id": "Middle_Back_Stretch",
+      "path": "exercises/Middle_Back_Stretch.json",
+      "hash": "4697f11a2592e30d67646c7c46433a5f2a898f268076416942d31212eb8a6ef5"
+    },
+    {
+      "id": "Mixed_Grip_Chin",
+      "path": "exercises/Mixed_Grip_Chin.json",
+      "hash": "8ccf34461c4a35884e2f8e4157624dc5003fcfc434acc7c07d01972aec79277b"
+    },
+    {
+      "id": "Monster_Walk",
+      "path": "exercises/Monster_Walk.json",
+      "hash": "b7e4225d37e9b9d03b9cec71955d332caf3aa9af994442790947b98c8c39701c"
+    },
+    {
+      "id": "Mountain_Climbers",
+      "path": "exercises/Mountain_Climbers.json",
+      "hash": "70d19bb6988af3faa377004730f48ccf0e43fcc701d010a3a15e520cb2ee5aac"
+    },
+    {
+      "id": "Moving_Claw_Series",
+      "path": "exercises/Moving_Claw_Series.json",
+      "hash": "216b2015d810aa967f2cb083578352f1883ccaeba24e47aa48e3e4b783be1d98"
+    },
+    {
+      "id": "Muscle_Snatch",
+      "path": "exercises/Muscle_Snatch.json",
+      "hash": "b340e6b732c0bc45d22d1e4e59832c2306d00e4c80f40744ebf0e60f3ffad346"
+    },
+    {
+      "id": "Muscle_Up",
+      "path": "exercises/Muscle_Up.json",
+      "hash": "cc78329d71c100b99f5959cdcb694a83c4316b45c5029d7b681702c35cf8777b"
+    },
+    {
+      "id": "Narrow_Stance_Hack_Squats",
+      "path": "exercises/Narrow_Stance_Hack_Squats.json",
+      "hash": "f3e420a4d293b8011feb3933fb5d9fe104430b153411876e02e9beff76f4b851"
+    },
+    {
+      "id": "Narrow_Stance_Leg_Press",
+      "path": "exercises/Narrow_Stance_Leg_Press.json",
+      "hash": "9698dd6aca48b3939903197317d91d4a9141a595ca0d68c4b9d83dac2c77ebba"
+    },
+    {
+      "id": "Narrow_Stance_Squats",
+      "path": "exercises/Narrow_Stance_Squats.json",
+      "hash": "4175f6b74629078e90b3e654e10b661bda6aa07734a32a12e4e4a1d150af1601"
+    },
+    {
+      "id": "Natural_Glute_Ham_Raise",
+      "path": "exercises/Natural_Glute_Ham_Raise.json",
+      "hash": "3037b34ec1d03183f3d6d450da490e89a2e92a60377f2417e436888b82b0cde8"
+    },
+    {
+      "id": "Neck-SMR",
+      "path": "exercises/Neck-SMR.json",
+      "hash": "c86bbbf2a6bd512cb070d268948849fa1893da2d461fc109b1bf2e31b0f302b4"
+    },
+    {
+      "id": "Neck_Press",
+      "path": "exercises/Neck_Press.json",
+      "hash": "4d08c14fc3ebada06b4d4fd3b71494a227ff4a03fef8596d0f366d38c33dd6f1"
+    },
+    {
+      "id": "Oblique_Crunches",
+      "path": "exercises/Oblique_Crunches.json",
+      "hash": "506a0caed93b2c5633b9020e10a0e5e9b4cbe8b89d1ffc6753b1bcf68b0dbf0e"
+    },
+    {
+      "id": "Oblique_Crunches_-_On_The_Floor",
+      "path": "exercises/Oblique_Crunches_-_On_The_Floor.json",
+      "hash": "8a9a4ee008eecdb97dfe64bea097885e842a24987053910b5c9b7f0ca85a890e"
+    },
+    {
+      "id": "Olympic_Squat",
+      "path": "exercises/Olympic_Squat.json",
+      "hash": "154a08f3787f21c508f5246dd7e5b3dd0c948e43595fb8f71572ac3d55a372b0"
+    },
+    {
+      "id": "On-Your-Back_Quad_Stretch",
+      "path": "exercises/On-Your-Back_Quad_Stretch.json",
+      "hash": "b64f3c35fe23ee79fabd563f1197acc1a8f434d00f46200676a81ac3062d404c"
+    },
+    {
+      "id": "On_Your_Side_Quad_Stretch",
+      "path": "exercises/On_Your_Side_Quad_Stretch.json",
+      "hash": "4c69209b1618f12bb73a6334c5916459e49fe1e529598bd330774c66c5c9f28a"
+    },
+    {
+      "id": "One-Arm_Dumbbell_Row",
+      "path": "exercises/One-Arm_Dumbbell_Row.json",
+      "hash": "c729ef40ff50603598a7729dd32744c1f802be4ba4b531c99cc2248fa7deed6d"
+    },
+    {
+      "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+      "path": "exercises/One-Arm_Flat_Bench_Dumbbell_Flye.json",
+      "hash": "ed8f7a3faff82c98cd1143378ac57a713cf5c85c563231872390ae0ee80ab3e8"
+    },
+    {
+      "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+      "path": "exercises/One-Arm_High-Pulley_Cable_Side_Bends.json",
+      "hash": "8898984c4a738e53e617a070280ca7486fcd419e53d382429d91c0971c6e7ed2"
+    },
+    {
+      "id": "One-Arm_Incline_Lateral_Raise",
+      "path": "exercises/One-Arm_Incline_Lateral_Raise.json",
+      "hash": "38bf70b79f25cb9b89979a2c8e4cf186705b6170ec818d994f42099ea40c200a"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Clean",
+      "path": "exercises/One-Arm_Kettlebell_Clean.json",
+      "hash": "7cf6d884d1791f01bb02240837cf59cf92a7f8ce6118d9bde5add50bd4171a0e"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Clean_and_Jerk",
+      "path": "exercises/One-Arm_Kettlebell_Clean_and_Jerk.json",
+      "hash": "9fe2ca46e8e142ce497cfbca0bff0dfa83e406e8542cc2c20fd9ced7bc28a30e"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Floor_Press",
+      "path": "exercises/One-Arm_Kettlebell_Floor_Press.json",
+      "hash": "50d3da504d78f20f39507fc8ccc9902ccc2e0df8cf8386897822beabb3788940"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Jerk",
+      "path": "exercises/One-Arm_Kettlebell_Jerk.json",
+      "hash": "7478426014b1657f48b4356cf5eaa0152194358ab4c193c719eb764c1ed84320"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+      "path": "exercises/One-Arm_Kettlebell_Military_Press_To_The_Side.json",
+      "hash": "fe6cb7c32ebecd4b1bbb58fd5a0d9e294d8774e71decade1444b7f5f5fb07d0a"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Para_Press",
+      "path": "exercises/One-Arm_Kettlebell_Para_Press.json",
+      "hash": "fc8622704f7cf6cbbb5316dbe99e18a35a5de2cb7b38662215c31192e89e9fcf"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Push_Press",
+      "path": "exercises/One-Arm_Kettlebell_Push_Press.json",
+      "hash": "df36341659a9d4c7ee1a513ddb5c6bf4fe94b3b2a789b6aedc1c9c040f9196aa"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Row",
+      "path": "exercises/One-Arm_Kettlebell_Row.json",
+      "hash": "fd503c6305ac0f5c07a11e25df04ddb2258a0c7fbed907032439e0bb8aaac66b"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Snatch",
+      "path": "exercises/One-Arm_Kettlebell_Snatch.json",
+      "hash": "d0cec021de9818c8b8de5697eb72cf51179bbbe2de0022816fd4ec8609cf42ea"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Split_Jerk",
+      "path": "exercises/One-Arm_Kettlebell_Split_Jerk.json",
+      "hash": "5ef3da3f40e0d6002c60269aa9f5a2e98fb26754af8d71b5f522f4b954d038c1"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Split_Snatch",
+      "path": "exercises/One-Arm_Kettlebell_Split_Snatch.json",
+      "hash": "f9ba92cbcfde3c905af5d2355fcb8b4d7720ec84f89b3bd4b4f62761ec096dbc"
+    },
+    {
+      "id": "One-Arm_Kettlebell_Swings",
+      "path": "exercises/One-Arm_Kettlebell_Swings.json",
+      "hash": "c87aa3906775bbbcb9689b2461549a4d4acfee04d283558da51055159664ac78"
+    },
+    {
+      "id": "One-Arm_Long_Bar_Row",
+      "path": "exercises/One-Arm_Long_Bar_Row.json",
+      "hash": "1361cbe6d37b45681dfa7352aafe7245b3ef62c8bbcfb3dae1ff6ac768ae1d85"
+    },
+    {
+      "id": "One-Arm_Medicine_Ball_Slam",
+      "path": "exercises/One-Arm_Medicine_Ball_Slam.json",
+      "hash": "f5a9e76d6678435cff4e762dd4e8be6aa89b14627fe4cc97b7b09c0ab524d35d"
+    },
+    {
+      "id": "One-Arm_Open_Palm_Kettlebell_Clean",
+      "path": "exercises/One-Arm_Open_Palm_Kettlebell_Clean.json",
+      "hash": "2068b8db400207275b0036774ee4516dde3bd7180c24ca092e90a4ddd1d8fa93"
+    },
+    {
+      "id": "One-Arm_Overhead_Kettlebell_Squats",
+      "path": "exercises/One-Arm_Overhead_Kettlebell_Squats.json",
+      "hash": "217454d047725ffa6320a88f0abae738315c85c4f9ab8f1433573528b2cf51f0"
+    },
+    {
+      "id": "One-Arm_Side_Deadlift",
+      "path": "exercises/One-Arm_Side_Deadlift.json",
+      "hash": "8dae8c2b8e6f06e70847b2b5a578cb39a43b71d2df317674a423f9784ec7767e"
+    },
+    {
+      "id": "One-Arm_Side_Laterals",
+      "path": "exercises/One-Arm_Side_Laterals.json",
+      "hash": "5b42d97c308aabbea28569b07f428d37d8744b05b4e814753a49291574a3f7aa"
+    },
+    {
+      "id": "One-Legged_Cable_Kickback",
+      "path": "exercises/One-Legged_Cable_Kickback.json",
+      "hash": "500e2b09719578e220730344302437b771a3133a1e7e0863fd161ef69ccb382d"
+    },
+    {
+      "id": "One_Arm_Against_Wall",
+      "path": "exercises/One_Arm_Against_Wall.json",
+      "hash": "d35ff141ae80d3288df5f8ce5acb74c193577f3333961a93323b93f6669a148e"
+    },
+    {
+      "id": "One_Arm_Chin-Up",
+      "path": "exercises/One_Arm_Chin-Up.json",
+      "hash": "0740cb025d4260ef8aae3e4d4121d27176859b604ab7e373765f00b4155c7a65"
+    },
+    {
+      "id": "One_Arm_Dumbbell_Bench_Press",
+      "path": "exercises/One_Arm_Dumbbell_Bench_Press.json",
+      "hash": "a43f581793974546b840fed7cfc4dfaea87097714be75e03b326eb083caf48b9"
+    },
+    {
+      "id": "One_Arm_Dumbbell_Preacher_Curl",
+      "path": "exercises/One_Arm_Dumbbell_Preacher_Curl.json",
+      "hash": "e8d801380d4e855322f44482a07c4a0a5dc03acee41b5cbd080ff409f80e4597"
+    },
+    {
+      "id": "One_Arm_Floor_Press",
+      "path": "exercises/One_Arm_Floor_Press.json",
+      "hash": "b0103ceaf4be99fd149c51b76ccb0a8342659f8f204848d5cab1a0b24e075c26"
+    },
+    {
+      "id": "One_Arm_Lat_Pulldown",
+      "path": "exercises/One_Arm_Lat_Pulldown.json",
+      "hash": "17c5736df1dd0efb45d616c631c49f9490b46cc9c8451ec34023c72bc0f5ea2f"
+    },
+    {
+      "id": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+      "path": "exercises/One_Arm_Pronated_Dumbbell_Triceps_Extension.json",
+      "hash": "f38785871864f57bdf10bc6f9737dac54cf572fe86c8febd5698327cbbf8fbea"
+    },
+    {
+      "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+      "path": "exercises/One_Arm_Supinated_Dumbbell_Triceps_Extension.json",
+      "hash": "f3ef7d4af425c83f64093388b693135f2b5b81a4841a014ac0e6df741e52f9b2"
+    },
+    {
+      "id": "One_Half_Locust",
+      "path": "exercises/One_Half_Locust.json",
+      "hash": "2159726a797bdac70ae096e76256a6e960d8ef9b9f109af16bd60a3bb61d9509"
+    },
+    {
+      "id": "One_Handed_Hang",
+      "path": "exercises/One_Handed_Hang.json",
+      "hash": "1df537b623aca521e101a8e4880af6cd4e197f8154e71c26f5b4eb9016d02893"
+    },
+    {
+      "id": "One_Knee_To_Chest",
+      "path": "exercises/One_Knee_To_Chest.json",
+      "hash": "4c4d8c3fc44ed27f48081719e262cce134affb7e3841aa2300fdac6d3a8713fc"
+    },
+    {
+      "id": "One_Leg_Barbell_Squat",
+      "path": "exercises/One_Leg_Barbell_Squat.json",
+      "hash": "a28b966c88e3b67fb39334db9b401f2fc53138add9a9108a79c9b1db0dcee421"
+    },
+    {
+      "id": "Open_Palm_Kettlebell_Clean",
+      "path": "exercises/Open_Palm_Kettlebell_Clean.json",
+      "hash": "839481f1cdfd46a111bc34886f7e6bdfb5e0ba7cf3787f142a0280ea8169928b"
+    },
+    {
+      "id": "Otis-Up",
+      "path": "exercises/Otis-Up.json",
+      "hash": "981c7def5a2380b2a0117b542acab0bfd411b75988dd03c00cd37fdf7c2c3d69"
+    },
+    {
+      "id": "Overhead_Cable_Curl",
+      "path": "exercises/Overhead_Cable_Curl.json",
+      "hash": "6fc47aaba8542b654a613e7a5b93d1621531fe2366b97ed62c889de2598d1c78"
+    },
+    {
+      "id": "Overhead_Lat",
+      "path": "exercises/Overhead_Lat.json",
+      "hash": "f3898e40c3c5724c74069f2168963e88aee64542081c51e1b1e0c29170b5032f"
+    },
+    {
+      "id": "Overhead_Slam",
+      "path": "exercises/Overhead_Slam.json",
+      "hash": "ffcf0c2568b1819701ec6307bc314ecfc8782a5eef756e8676151ce23b818f97"
+    },
+    {
+      "id": "Overhead_Squat",
+      "path": "exercises/Overhead_Squat.json",
+      "hash": "e46df2b1f574595d21d95b074d6828a0ea3666767f778da6eb2549a0192728ba"
+    },
+    {
+      "id": "Overhead_Stretch",
+      "path": "exercises/Overhead_Stretch.json",
+      "hash": "44e195db753e2ee3ba1a9bf8f4ffce0e5dae25893e9af5e1bf983172e61523b6"
+    },
+    {
+      "id": "Overhead_Triceps",
+      "path": "exercises/Overhead_Triceps.json",
+      "hash": "183cd3efd99dcfdcb8cce3f8b610bef5c783cc3f195f65727a192022971f9e46"
+    },
+    {
+      "id": "Pallof_Press",
+      "path": "exercises/Pallof_Press.json",
+      "hash": "b5daaaaa41bf7cd7f40c04eb02bd1faebb14d92a8aa98eddfe0e710902816910"
+    },
+    {
+      "id": "Pallof_Press_With_Rotation",
+      "path": "exercises/Pallof_Press_With_Rotation.json",
+      "hash": "aa59d4d212723baa608647632b8c3e00418e39a093dce9a879258af4e0ca370a"
+    },
+    {
+      "id": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
+      "path": "exercises/Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench.json",
+      "hash": "9a507ff8172fb9cfb285dbf46cf2a3c5806dcf2594f0a34b847cb904c568418b"
+    },
+    {
+      "id": "Palms-Down_Wrist_Curl_Over_A_Bench",
+      "path": "exercises/Palms-Down_Wrist_Curl_Over_A_Bench.json",
+      "hash": "8fa3d95ba3e1af2cb3cab22a3397c65cacf8468aa11e86a3e1371c425ae4db99"
+    },
+    {
+      "id": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+      "path": "exercises/Palms-Up_Barbell_Wrist_Curl_Over_A_Bench.json",
+      "hash": "5b8b25612f17fe2c6c9e76d25e314ec7171a510716e4d96beb12999171ee002c"
+    },
+    {
+      "id": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
+      "path": "exercises/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench.json",
+      "hash": "5ab20eb72cad8ff626f0cb90d37f2652d7305da555bca3284bed8d904b2127c8"
+    },
+    {
+      "id": "Parallel_Bar_Dip",
+      "path": "exercises/Parallel_Bar_Dip.json",
+      "hash": "088b16ceb383b0cf1882397763a3daab0d842fb6f74eefb65adafe41b48f56c2"
+    },
+    {
+      "id": "Pelvic_Tilt_Into_Bridge",
+      "path": "exercises/Pelvic_Tilt_Into_Bridge.json",
+      "hash": "cf5c5392ba65ad762eccd9849fc32f258912fe70964c7aa677453193a484c760"
+    },
+    {
+      "id": "Peroneals-SMR",
+      "path": "exercises/Peroneals-SMR.json",
+      "hash": "8bf991cf94b9bbd0b467825273054e25db9c5ac8cd186ea6edfc08a5d2f8815c"
+    },
+    {
+      "id": "Peroneals_Stretch",
+      "path": "exercises/Peroneals_Stretch.json",
+      "hash": "54157b4d61674a3a632ff30d3962dd92cedf44f28af641628c0d7e1145b89716"
+    },
+    {
+      "id": "Physioball_Hip_Bridge",
+      "path": "exercises/Physioball_Hip_Bridge.json",
+      "hash": "745110290a5cc24a03dacc1f4f5a011fd2ebb38310d292f000d56a534f4104d1"
+    },
+    {
+      "id": "Pin_Presses",
+      "path": "exercises/Pin_Presses.json",
+      "hash": "4efb9120fcdaf8393678c325170ae0cf8d551c026e764e69b8d4ed908afa610e"
+    },
+    {
+      "id": "Piriformis-SMR",
+      "path": "exercises/Piriformis-SMR.json",
+      "hash": "3cf12ef7adbdfcaa905850e7e6e26c2ab8b15b89bfe7915dc7ce0349405ceafd"
+    },
+    {
+      "id": "Plank",
+      "path": "exercises/Plank.json",
+      "hash": "54eaf5c0161d5c6d4bce18a9fdb2790d608f4f35c7a4f43eafaf3975cfa699e3"
+    },
+    {
+      "id": "Plate_Pinch",
+      "path": "exercises/Plate_Pinch.json",
+      "hash": "0533c5a474c77c30dc13e439c2f4bc04ec5c2c3eba44f41899e9b1799565bf3a"
+    },
+    {
+      "id": "Plate_Twist",
+      "path": "exercises/Plate_Twist.json",
+      "hash": "a0cbe9bedbd6630bc575379229cbaefcc1e92f3ca18040a7eaf9be25f205389e"
+    },
+    {
+      "id": "Platform_Hamstring_Slides",
+      "path": "exercises/Platform_Hamstring_Slides.json",
+      "hash": "2e2bb293f166eccbb24a61a609eb7bcba08deacdf4b0b3cc1162c6d4ad5e0cb8"
+    },
+    {
+      "id": "Plie_Dumbbell_Squat",
+      "path": "exercises/Plie_Dumbbell_Squat.json",
+      "hash": "76808edbf1a9d768d313ed6f55fa2f8803b1ce79b85821001f3e1f37ff298ddc"
+    },
+    {
+      "id": "Plyo_Kettlebell_Pushups",
+      "path": "exercises/Plyo_Kettlebell_Pushups.json",
+      "hash": "8a869476d3abfcc5875a08cd256b925cee9e62392f53e8e904f5098e91704b45"
+    },
+    {
+      "id": "Plyo_Push-up",
+      "path": "exercises/Plyo_Push-up.json",
+      "hash": "ee27efe78fdbe50db60cafbfe2a94c7276bc467b2355891dfa3997e40ba690de"
+    },
+    {
+      "id": "Posterior_Tibialis_Stretch",
+      "path": "exercises/Posterior_Tibialis_Stretch.json",
+      "hash": "b42921c63bdea9f959c014812f5505495e8cf2a860a06174b8a3e545133f0582"
+    },
+    {
+      "id": "Power_Clean",
+      "path": "exercises/Power_Clean.json",
+      "hash": "26a51f7348f6d16260d71addc8d9e68e5709e8c14165910dddd428bc501bee35"
+    },
+    {
+      "id": "Power_Clean_from_Blocks",
+      "path": "exercises/Power_Clean_from_Blocks.json",
+      "hash": "fd076c81e19f7712681a0fbad83a151f7b63873604220543b0a2ef8f5d15c539"
+    },
+    {
+      "id": "Power_Jerk",
+      "path": "exercises/Power_Jerk.json",
+      "hash": "82266615c1ce63280b1acca4c887ce448bf86800e75ec5c91424ce6170a5ff36"
+    },
+    {
+      "id": "Power_Partials",
+      "path": "exercises/Power_Partials.json",
+      "hash": "0e0e5e993a4cab7bc59bc5f05026f6155640d18ef9a75fa9745fe5e2589cb871"
+    },
+    {
+      "id": "Power_Snatch",
+      "path": "exercises/Power_Snatch.json",
+      "hash": "2aa7ce768e18dc6a839ce646b0fc45987b2fb9b43ae2c9f9a63dbd09e167a601"
+    },
+    {
+      "id": "Power_Snatch_from_Blocks",
+      "path": "exercises/Power_Snatch_from_Blocks.json",
+      "hash": "d420c326faf7e66e0853d19460e83c40a6e1f77c60d5fd8f71029c1cf1e2ea5a"
+    },
+    {
+      "id": "Power_Stairs",
+      "path": "exercises/Power_Stairs.json",
+      "hash": "f48dd2a88aa2fe44ef37aadb7efbd82c1587b3ea2b586c13450c779cca955459"
+    },
+    {
+      "id": "Preacher_Curl",
+      "path": "exercises/Preacher_Curl.json",
+      "hash": "7d95038083df2be9f14f6c16b13692368917b2e9eab3ef6e1d589c6a6e61996d"
+    },
+    {
+      "id": "Preacher_Hammer_Dumbbell_Curl",
+      "path": "exercises/Preacher_Hammer_Dumbbell_Curl.json",
+      "hash": "9bf9187bf8cf200bffd2c786a5993819b99b0d347cbe4ce15a10e8faf6506580"
+    },
+    {
+      "id": "Press_Sit-Up",
+      "path": "exercises/Press_Sit-Up.json",
+      "hash": "38ebb869a3256df21eaffb82eb183550e1725b4a791344d6f0e703d25584a199"
+    },
+    {
+      "id": "Prone_Manual_Hamstring",
+      "path": "exercises/Prone_Manual_Hamstring.json",
+      "hash": "64653810057280e6e9877c58d3e979e270f4d30e7b65f58aecd2eeaf82b2fb50"
+    },
+    {
+      "id": "Prowler_Sprint",
+      "path": "exercises/Prowler_Sprint.json",
+      "hash": "731a8dbe9222b2ce966c8893b7399feaddbf091fdd20ad68ea50f83e926e4d2d"
+    },
+    {
+      "id": "Pull_Through",
+      "path": "exercises/Pull_Through.json",
+      "hash": "c5fe5263a07a920476866b1cd1c706c28836fdc571c0867c81beec6729bd3372"
+    },
+    {
+      "id": "Pullups",
+      "path": "exercises/Pullups.json",
+      "hash": "914f6282b4382675be41018cd56dcad5fc47e2a0bf715e809794762e0f3dbfd8"
+    },
+    {
+      "id": "Push-Up_Wide",
+      "path": "exercises/Push-Up_Wide.json",
+      "hash": "63c8b4c56129bf6e0eb94f456af633f4af0f426dc18b7c528b4375ae428561df"
+    },
+    {
+      "id": "Push-Ups_-_Close_Triceps_Position",
+      "path": "exercises/Push-Ups_-_Close_Triceps_Position.json",
+      "hash": "720f045b4c850e26b4e233bce23f970d5ee3191015f388390fc6b2243890a9f5"
+    },
+    {
+      "id": "Push-Ups_With_Feet_Elevated",
+      "path": "exercises/Push-Ups_With_Feet_Elevated.json",
+      "hash": "1a57e3f471ce624ce9360b73c59386498c207e8bb4d7be7580a3d47fd1919f33"
+    },
+    {
+      "id": "Push-Ups_With_Feet_On_An_Exercise_Ball",
+      "path": "exercises/Push-Ups_With_Feet_On_An_Exercise_Ball.json",
+      "hash": "70f34213a14ff68b4ff454db1755999ff1d49b61a906bfd3ca84809e7b743581"
+    },
+    {
+      "id": "Push_Press",
+      "path": "exercises/Push_Press.json",
+      "hash": "e9e37aaad714db3227a664cc60d974c4cd365a1e0354dd76f97fdcc747007c30"
+    },
+    {
+      "id": "Push_Press_-_Behind_the_Neck",
+      "path": "exercises/Push_Press_-_Behind_the_Neck.json",
+      "hash": "f435feab7d86af57ce6d03712cae320c18ed66abf66f9acc648b247b99a2a5ba"
+    },
+    {
+      "id": "Push_Up_to_Side_Plank",
+      "path": "exercises/Push_Up_to_Side_Plank.json",
+      "hash": "c2182e591a0269c5acba0f42b17b3f1191bb30263e05b4e1487bef1aeab15715"
+    },
+    {
+      "id": "Pushups",
+      "path": "exercises/Pushups.json",
+      "hash": "a6f4d3cc3c32fa8362dbc15c616bdb5b9f8946f6304f541f555cc16344f34c06"
+    },
+    {
+      "id": "Pushups_Close_and_Wide_Hand_Positions",
+      "path": "exercises/Pushups_Close_and_Wide_Hand_Positions.json",
+      "hash": "7b8b1e9ee4ddc73e223d3a359e354fadbb9e2a877f78f75d3811325ae1d7c0ed"
+    },
+    {
+      "id": "Pyramid",
+      "path": "exercises/Pyramid.json",
+      "hash": "6551c40a7f79fa4df18f9957e2aa7d5e96b50f2b9b86846c24f4566509b93ad2"
+    },
+    {
+      "id": "Quad_Stretch",
+      "path": "exercises/Quad_Stretch.json",
+      "hash": "0590ff313169335cfd36c6f621789e3b8f60c8fe99bf70950a8010e4abbd4df7"
+    },
+    {
+      "id": "Quadriceps-SMR",
+      "path": "exercises/Quadriceps-SMR.json",
+      "hash": "b51e98af090a978c904ed1a3343f567fe85faca08f612e6430880096579e58d8"
+    },
+    {
+      "id": "Quick_Leap",
+      "path": "exercises/Quick_Leap.json",
+      "hash": "ddac32405e677c5a95d5be476ddf9b7cbccf6f2346b7ffeffe2c9173fdfde95d"
+    },
+    {
+      "id": "Rack_Delivery",
+      "path": "exercises/Rack_Delivery.json",
+      "hash": "194e4d21690a63a7ab898514225f5ef0cef8ddebfd413e65aae7761a18fb79ba"
+    },
+    {
+      "id": "Rack_Pull_with_Bands",
+      "path": "exercises/Rack_Pull_with_Bands.json",
+      "hash": "6ca61d2d0f65224968d787017d2ba323deff53881abe300b6c015f92875c55e6"
+    },
+    {
+      "id": "Rack_Pulls",
+      "path": "exercises/Rack_Pulls.json",
+      "hash": "7a4dcb2c6cf0ac02be9ce9561cbf1bb780590d41e88d6607ecdf687ca734f65c"
+    },
+    {
+      "id": "Rear_Leg_Raises",
+      "path": "exercises/Rear_Leg_Raises.json",
+      "hash": "4e22c3ea58c77ed8134a0c9b3081106abe36ac3427f5e95de51331d2642f702c"
+    },
+    {
+      "id": "Recumbent_Bike",
+      "path": "exercises/Recumbent_Bike.json",
+      "hash": "81fde3024c15eb9d4ac32667a9e556c836311be6e15294c727a4cddabbde48ec"
+    },
+    {
+      "id": "Return_Push_from_Stance",
+      "path": "exercises/Return_Push_from_Stance.json",
+      "hash": "ecff28b8c73ad878c911888fc338a397be2de7023c98598d4d678edc6c620cd9"
+    },
+    {
+      "id": "Reverse_Band_Bench_Press",
+      "path": "exercises/Reverse_Band_Bench_Press.json",
+      "hash": "5d9ea5f6a1ca48ee066889f635be5eab7744ee6359661498d7deea25a63e5e27"
+    },
+    {
+      "id": "Reverse_Band_Box_Squat",
+      "path": "exercises/Reverse_Band_Box_Squat.json",
+      "hash": "0ca5d347fba60db5fa7e88469ab63debcfc335342e6fe0a60d241d968ef20757"
+    },
+    {
+      "id": "Reverse_Band_Deadlift",
+      "path": "exercises/Reverse_Band_Deadlift.json",
+      "hash": "da1c06ddf96e87af9d6f7b8f5905f37f50f2c15d23d7945bb5d6f4a9881c0b3f"
+    },
+    {
+      "id": "Reverse_Band_Power_Squat",
+      "path": "exercises/Reverse_Band_Power_Squat.json",
+      "hash": "26e58baba8b6ed193e31ec7d01e83355b970d56030827606dd415f8754ba7232"
+    },
+    {
+      "id": "Reverse_Band_Sumo_Deadlift",
+      "path": "exercises/Reverse_Band_Sumo_Deadlift.json",
+      "hash": "7d676818996f9a3d4465f7c027e3b1740412d1917a0cf7d77ece1c7abbf00c0f"
+    },
+    {
+      "id": "Reverse_Barbell_Curl",
+      "path": "exercises/Reverse_Barbell_Curl.json",
+      "hash": "ce496d168c557a639b81f39687da55c2407f648e3ad5e99a9db49c5aed33765d"
+    },
+    {
+      "id": "Reverse_Barbell_Preacher_Curls",
+      "path": "exercises/Reverse_Barbell_Preacher_Curls.json",
+      "hash": "8e1042b6f080290b978712e44ca1360daf606682fab1176b2283914feaef15ca"
+    },
+    {
+      "id": "Reverse_Cable_Curl",
+      "path": "exercises/Reverse_Cable_Curl.json",
+      "hash": "c43f42491844b694c3f67f70f5043627556f28f7290c3009089a225b398544ed"
+    },
+    {
+      "id": "Reverse_Crunch",
+      "path": "exercises/Reverse_Crunch.json",
+      "hash": "8cb895fbca488f606d98de9ed6c7aedd4e5b1343586c404368e3cd8369c8c0c4"
+    },
+    {
+      "id": "Reverse_Flyes",
+      "path": "exercises/Reverse_Flyes.json",
+      "hash": "bd2001bdd5bee8ac551656584d3766558e896b76b8af666f19fc5755a1e6bd63"
+    },
+    {
+      "id": "Reverse_Flyes_With_External_Rotation",
+      "path": "exercises/Reverse_Flyes_With_External_Rotation.json",
+      "hash": "bbf6cdc81bc0b62d1e717faac78e1cbc56e358a9d11fdbaa3bf1e73d9dc4920c"
+    },
+    {
+      "id": "Reverse_Grip_Bent-Over_Rows",
+      "path": "exercises/Reverse_Grip_Bent-Over_Rows.json",
+      "hash": "52e7407feeab3e144880200d8b6ce324efb5771de2575e74cf2536ea40b98b3a"
+    },
+    {
+      "id": "Reverse_Grip_Triceps_Pushdown",
+      "path": "exercises/Reverse_Grip_Triceps_Pushdown.json",
+      "hash": "3498845f04e6c04ca467aff4b7c08cb3c6b3fa508d8005e3a0bbb9e68b38c397"
+    },
+    {
+      "id": "Reverse_Hyperextension",
+      "path": "exercises/Reverse_Hyperextension.json",
+      "hash": "bf3294c324f5cb2b99abd67a8eaaf96dd0ce5ca2905a132b34a7d45e4c714a87"
+    },
+    {
+      "id": "Reverse_Machine_Flyes",
+      "path": "exercises/Reverse_Machine_Flyes.json",
+      "hash": "6cd824ea42089788894d9af52180da55276042e6b7d39fb23044eab955f79bf9"
+    },
+    {
+      "id": "Reverse_Plate_Curls",
+      "path": "exercises/Reverse_Plate_Curls.json",
+      "hash": "ea5b10840314aa32e1394dd40904faa208033b2bec986c86fa2e5428b331d60f"
+    },
+    {
+      "id": "Reverse_Triceps_Bench_Press",
+      "path": "exercises/Reverse_Triceps_Bench_Press.json",
+      "hash": "79f3eb07216f1a1279434eed5dc9c9882f272f40270cd5443a69b45ca6230ea7"
+    },
+    {
+      "id": "Rhomboids-SMR",
+      "path": "exercises/Rhomboids-SMR.json",
+      "hash": "cce632783ef40d41e5325afd3d02b5af07194e473710dbfa326ac016aec910b2"
+    },
+    {
+      "id": "Rickshaw_Carry",
+      "path": "exercises/Rickshaw_Carry.json",
+      "hash": "06798154fa0d3283a3d2e41a00c76d4a214fa8538a72421d5e15aa3b2a6a6b8a"
+    },
+    {
+      "id": "Rickshaw_Deadlift",
+      "path": "exercises/Rickshaw_Deadlift.json",
+      "hash": "a016fdf999198bd1123dc782af2177392e12e349da74255dc3496c6f473f9b1b"
+    },
+    {
+      "id": "Ring_Dips",
+      "path": "exercises/Ring_Dips.json",
+      "hash": "9b446e313b87f0677b62de39e83d7b1bafe1dbc0c45c763808b2df3dc3e080b3"
+    },
+    {
+      "id": "Rocket_Jump",
+      "path": "exercises/Rocket_Jump.json",
+      "hash": "78fa993c1dba6256c6b185ec0bd4f175710bc4785fbbeca6fd70db0201f51865"
+    },
+    {
+      "id": "Rocking_Standing_Calf_Raise",
+      "path": "exercises/Rocking_Standing_Calf_Raise.json",
+      "hash": "9f293b55884470e8edaffc1463b0eae0a97693f6c826a997b464e842a9dee92c"
+    },
+    {
+      "id": "Rocky_Pull-Ups_Pulldowns",
+      "path": "exercises/Rocky_Pull-Ups_Pulldowns.json",
+      "hash": "ef9a3005cc4e5b2a8ace1dc0faaac7841e823e85b51a91dd9e33fcda616368fd"
+    },
+    {
+      "id": "Romanian_Deadlift",
+      "path": "exercises/Romanian_Deadlift.json",
+      "hash": "f514c03de22320b7c084d47154de944048dc94fde04b71a1a72b8ab80f9a835b"
+    },
+    {
+      "id": "Romanian_Deadlift_from_Deficit",
+      "path": "exercises/Romanian_Deadlift_from_Deficit.json",
+      "hash": "6623e4576c711c47c0312374372cbcfea8a71704301ec3bcc1d749820f0e34bb"
+    },
+    {
+      "id": "Rope_Climb",
+      "path": "exercises/Rope_Climb.json",
+      "hash": "b538bc04a9a04514229c9c32ecc156bb978b1854d56ff3bc2c21fe2cda71c3df"
+    },
+    {
+      "id": "Rope_Crunch",
+      "path": "exercises/Rope_Crunch.json",
+      "hash": "c8fce040bd17c164cf1dc980a122bd5f335685f53b1007881a1123dd370e8074"
+    },
+    {
+      "id": "Rope_Jumping",
+      "path": "exercises/Rope_Jumping.json",
+      "hash": "f34dfa86aeadd74e5d6c14722f707aba6615f936f735dc724cd203b68f10ee83"
+    },
+    {
+      "id": "Rope_Straight-Arm_Pulldown",
+      "path": "exercises/Rope_Straight-Arm_Pulldown.json",
+      "hash": "7e51068bb9554ac51a025139a0bffa09973fdc0e68054be58c0435d06cf932a2"
+    },
+    {
+      "id": "Round_The_World_Shoulder_Stretch",
+      "path": "exercises/Round_The_World_Shoulder_Stretch.json",
+      "hash": "0872e8e41dec7c2eae1de2b0769427e8f7cc6e713ae01fa227aa2cddb19bb810"
+    },
+    {
+      "id": "Rowing_Stationary",
+      "path": "exercises/Rowing_Stationary.json",
+      "hash": "c4b12ca61dd54e91c70583e6c0cc76e157c9b96a9e33aef67b74de677c04fb05"
+    },
+    {
+      "id": "Runners_Stretch",
+      "path": "exercises/Runners_Stretch.json",
+      "hash": "a6fdd4d77f4171f134ae93f0f1b9bee0f7cb3005acd679579c02a468af23e24c"
+    },
+    {
+      "id": "Running_Treadmill",
+      "path": "exercises/Running_Treadmill.json",
+      "hash": "1bcd2b94137b1d93412b8ec9f1000ccf236bff7293643cc5b3bdd425f91a054e"
+    },
+    {
+      "id": "Russian_Twist",
+      "path": "exercises/Russian_Twist.json",
+      "hash": "03183289465f5aae4bd6478a4441705fe0151de72738b9c1c8cbeb86e68813b3"
+    },
+    {
+      "id": "Sandbag_Load",
+      "path": "exercises/Sandbag_Load.json",
+      "hash": "06f043083af1e14deff39af997780f7ddf5a5eafe953fef37aa6776ef5f879bf"
+    },
+    {
+      "id": "Scapular_Pull-Up",
+      "path": "exercises/Scapular_Pull-Up.json",
+      "hash": "46767999c7a54569bdb9b7054fad64eb410d2e20726dc04097581a31ff6c14d9"
+    },
+    {
+      "id": "Scissor_Kick",
+      "path": "exercises/Scissor_Kick.json",
+      "hash": "8cbe33a7567bfc3fdd64ce2fb219aaf63a49b5bebc692e38ed1b441c2a9fe9a8"
+    },
+    {
+      "id": "Scissors_Jump",
+      "path": "exercises/Scissors_Jump.json",
+      "hash": "32f501091428460f8308e7f7313adb5079c7a62ea948e432fbd67671cc6b23c9"
+    },
+    {
+      "id": "Seated_Band_Hamstring_Curl",
+      "path": "exercises/Seated_Band_Hamstring_Curl.json",
+      "hash": "c4d17de1bd1e474d4a7715892c7d72047cbff37dc639d12965650f52ef4ebd29"
+    },
+    {
+      "id": "Seated_Barbell_Military_Press",
+      "path": "exercises/Seated_Barbell_Military_Press.json",
+      "hash": "8e527289a30d7a29269efafbd6d67230be1f90ae0a2f26d5ca099a2c9a2bd4a0"
+    },
+    {
+      "id": "Seated_Barbell_Twist",
+      "path": "exercises/Seated_Barbell_Twist.json",
+      "hash": "2861c1605afcdb4b2faa4b54ee94ed6fe0d55c39dba9d2ca383b1bc35dd4d410"
+    },
+    {
+      "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+      "path": "exercises/Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension.json",
+      "hash": "057ea9746ece49fc865f48645cdebfab0c686b89c19c54986971d782111d0af7"
+    },
+    {
+      "id": "Seated_Bent-Over_Rear_Delt_Raise",
+      "path": "exercises/Seated_Bent-Over_Rear_Delt_Raise.json",
+      "hash": "663b7faf8547eb0768fcea5d60cdb4c61f44c86cf3d6cdf7d920161bfc829f28"
+    },
+    {
+      "id": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+      "path": "exercises/Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension.json",
+      "hash": "1a0fe92775dee25164f9dbba1750c505711a47ed900bb843f2a5c0fe909ca5c0"
+    },
+    {
+      "id": "Seated_Biceps",
+      "path": "exercises/Seated_Biceps.json",
+      "hash": "a0df5fd295d2d83321b3cb4421a759213f0e3023e13b5157f86e88423df7ced3"
+    },
+    {
+      "id": "Seated_Cable_Rows",
+      "path": "exercises/Seated_Cable_Rows.json",
+      "hash": "44daed246571752d6dcae7ab0a4b876c28e698cd846529746a8c4a43f08174f8"
+    },
+    {
+      "id": "Seated_Cable_Shoulder_Press",
+      "path": "exercises/Seated_Cable_Shoulder_Press.json",
+      "hash": "6611683a9162cff11cbe4d020c93076269b71629f9fbea09cf9ae8565d9253af"
+    },
+    {
+      "id": "Seated_Calf_Raise",
+      "path": "exercises/Seated_Calf_Raise.json",
+      "hash": "3e251b8fb55eb857a714e27a987825e2e8576ec04a7fd9aeebe481320e5e837d"
+    },
+    {
+      "id": "Seated_Calf_Stretch",
+      "path": "exercises/Seated_Calf_Stretch.json",
+      "hash": "c3b154efadd761b6c9784fb3e009fbbc8bbaf0f330e67834367d60a2d2e4ae2c"
+    },
+    {
+      "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
+      "path": "exercises/Seated_Close-Grip_Concentration_Barbell_Curl.json",
+      "hash": "30befc7d98f40417166f33b9d3c72d62cb7317914dd62a182fd2f8f4bb7ad47e"
+    },
+    {
+      "id": "Seated_Dumbbell_Curl",
+      "path": "exercises/Seated_Dumbbell_Curl.json",
+      "hash": "f48bd7b9318a8c7e9999295a2c17f039762f6460caa95aace485ae9a16c4f7c8"
+    },
+    {
+      "id": "Seated_Dumbbell_Inner_Biceps_Curl",
+      "path": "exercises/Seated_Dumbbell_Inner_Biceps_Curl.json",
+      "hash": "a67b86102c9519a73b205c1e59af6cc269a40b69d048ea4c520fcb9ddf1ec242"
+    },
+    {
+      "id": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+      "path": "exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl.json",
+      "hash": "1dbe7386b938a7284b14d4229ef39e8c33624269e22c7aa2d21a7d9273482a8d"
+    },
+    {
+      "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+      "path": "exercises/Seated_Dumbbell_Palms-Up_Wrist_Curl.json",
+      "hash": "01c4defdd803e433c7b59e684fd374685904d94743c56890bd81216736514659"
+    },
+    {
+      "id": "Seated_Dumbbell_Press",
+      "path": "exercises/Seated_Dumbbell_Press.json",
+      "hash": "365743dfa3b453d2e3029b3a62a55f98e9172b0c0f2a1d330cc7dcb9b21b7760"
+    },
+    {
+      "id": "Seated_Flat_Bench_Leg_Pull-In",
+      "path": "exercises/Seated_Flat_Bench_Leg_Pull-In.json",
+      "hash": "af41c6cdf5f608495a1422500075650a72d449401a23199333f4a0a7f32748f7"
+    },
+    {
+      "id": "Seated_Floor_Hamstring_Stretch",
+      "path": "exercises/Seated_Floor_Hamstring_Stretch.json",
+      "hash": "2ece5e995fcf3649b9c0738a7d1b6e974832aa9dcf68ec408d9c640a4d073041"
+    },
+    {
+      "id": "Seated_Front_Deltoid",
+      "path": "exercises/Seated_Front_Deltoid.json",
+      "hash": "5454e2463599c239d3b3c51ffda5e679c1b60f5577c0482d46387d8065cb3793"
+    },
+    {
+      "id": "Seated_Glute",
+      "path": "exercises/Seated_Glute.json",
+      "hash": "e525ac92ee99eea7a86836576e11bedb4081baac14a6fd6728e36a12fb683247"
+    },
+    {
+      "id": "Seated_Good_Mornings",
+      "path": "exercises/Seated_Good_Mornings.json",
+      "hash": "90539e396c8eacd40c43588e09396151444ca5e9192b4cedf5f012fb5460cbc9"
+    },
+    {
+      "id": "Seated_Hamstring",
+      "path": "exercises/Seated_Hamstring.json",
+      "hash": "b085474103165df79f4128049d778bbb69b51d7f46c3368c7f76ec4aded87bbe"
+    },
+    {
+      "id": "Seated_Hamstring_and_Calf_Stretch",
+      "path": "exercises/Seated_Hamstring_and_Calf_Stretch.json",
+      "hash": "53d4d70ab4a660ced1d1c4316d5674eb5a82a48997f452f29b7aad4b1db336b5"
+    },
+    {
+      "id": "Seated_Head_Harness_Neck_Resistance",
+      "path": "exercises/Seated_Head_Harness_Neck_Resistance.json",
+      "hash": "a4ff9beec394c1708616f757b6a4574707740b8ef2c799716815f62b66a86640"
+    },
+    {
+      "id": "Seated_Leg_Curl",
+      "path": "exercises/Seated_Leg_Curl.json",
+      "hash": "9c736afd11de143a49b7a09aa81c27560d365e67289bd43965c573064ee60f9c"
+    },
+    {
+      "id": "Seated_Leg_Tucks",
+      "path": "exercises/Seated_Leg_Tucks.json",
+      "hash": "846977337c6c9c6db48715c67a2ef59c27066971c952ee69f019a0a0a403b5ce"
+    },
+    {
+      "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+      "path": "exercises/Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl.json",
+      "hash": "c32fa2c61f3732584590a7b73c865997352a3c7098a5f439741ad9cfc0b5597c"
+    },
+    {
+      "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+      "path": "exercises/Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl.json",
+      "hash": "35e0e1d55b62a592fecca9f98d5db179c98706a6a4a75423e78b14b16fb36853"
+    },
+    {
+      "id": "Seated_One-arm_Cable_Pulley_Rows",
+      "path": "exercises/Seated_One-arm_Cable_Pulley_Rows.json",
+      "hash": "c481fb4a2f7109149395ed293de1a0e72d827b7abf11e74ae3368f9e490f7f05"
+    },
+    {
+      "id": "Seated_Overhead_Stretch",
+      "path": "exercises/Seated_Overhead_Stretch.json",
+      "hash": "500e90f9e1f12b32732b2da71ea8308d0c6b3f4df56d5e7be0b14454027967ef"
+    },
+    {
+      "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
+      "path": "exercises/Seated_Palm-Up_Barbell_Wrist_Curl.json",
+      "hash": "c0d2a9594bb403f7c037ab7f776f98d03d6f33af1f24377ab7f529eb6f07d99e"
+    },
+    {
+      "id": "Seated_Palms-Down_Barbell_Wrist_Curl",
+      "path": "exercises/Seated_Palms-Down_Barbell_Wrist_Curl.json",
+      "hash": "5fd710b49cc468e38e6b988ac00d6b3ea66002d65610d20c44d129c2066b2121"
+    },
+    {
+      "id": "Seated_Side_Lateral_Raise",
+      "path": "exercises/Seated_Side_Lateral_Raise.json",
+      "hash": "c3c50881c8fa083e8b9511e09ae680e820bfc49046cd5d45e521b3ed7604d55b"
+    },
+    {
+      "id": "Seated_Triceps_Press",
+      "path": "exercises/Seated_Triceps_Press.json",
+      "hash": "5320fd8308febc90f0d29ad1291141193ec4ab728468fd5ac3bc057cf8ae5c9e"
+    },
+    {
+      "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+      "path": "exercises/Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl.json",
+      "hash": "8aa8c0b37ea9cfa6d9900a37b121b0ef86db5071e2980a4d2bbcdeb2cff10ce5"
+    },
+    {
+      "id": "See-Saw_Press_Alternating_Side_Press",
+      "path": "exercises/See-Saw_Press_Alternating_Side_Press.json",
+      "hash": "d93691b41d4e95b9cdf6c937a612684ea80ebb4e5f94f2fa11999a01d893d1ca"
+    },
+    {
+      "id": "Shotgun_Row",
+      "path": "exercises/Shotgun_Row.json",
+      "hash": "464af3e5f47a25f15b1ed02ed6e2f10ba5cc96ea4bfad19a554b2abaf8239066"
+    },
+    {
+      "id": "Shoulder_Circles",
+      "path": "exercises/Shoulder_Circles.json",
+      "hash": "77a937bea6041ce865ffcb1000cefba5301c05c6fb2fadc91806d498ab8ea1dd"
+    },
+    {
+      "id": "Shoulder_Press_-_With_Bands",
+      "path": "exercises/Shoulder_Press_-_With_Bands.json",
+      "hash": "7e41d68b916897a38bc89fc243d0883dd1ccb03fcfa87beffabc85fcd65e91e0"
+    },
+    {
+      "id": "Shoulder_Raise",
+      "path": "exercises/Shoulder_Raise.json",
+      "hash": "8da1363a41c00a61947f03158a6d604f145507ccaa00ad5581f2bed57afb7bef"
+    },
+    {
+      "id": "Shoulder_Stretch",
+      "path": "exercises/Shoulder_Stretch.json",
+      "hash": "7708241e563582b83ac61ac4b9e6b6078fa6e9bb12bb3a17f7e055a74581c447"
+    },
+    {
+      "id": "Side-Lying_Floor_Stretch",
+      "path": "exercises/Side-Lying_Floor_Stretch.json",
+      "hash": "b1c11e4a09662132b98f845f24dbe577db64819dde852fcc71563759d0c7c965"
+    },
+    {
+      "id": "Side_Bridge",
+      "path": "exercises/Side_Bridge.json",
+      "hash": "b490e13b65c5a46c3a9e2c302b4b2500f3bead26978021e4aff70f0e2186b1f8"
+    },
+    {
+      "id": "Side_Hop-Sprint",
+      "path": "exercises/Side_Hop-Sprint.json",
+      "hash": "4677f94ca317f8425323841818e969dec61b4b763aa5128a5a5e0b3f9cf4518d"
+    },
+    {
+      "id": "Side_Jackknife",
+      "path": "exercises/Side_Jackknife.json",
+      "hash": "2ab55d31e99d41224789009dc73ab99e6d7232f58998868492297911edfbd0d0"
+    },
+    {
+      "id": "Side_Lateral_Raise",
+      "path": "exercises/Side_Lateral_Raise.json",
+      "hash": "1bf3ecdcbf7aa66cccd81a0b1ed93886cc2cc2d1a5c27489a3abe1d634555e39"
+    },
+    {
+      "id": "Side_Laterals_to_Front_Raise",
+      "path": "exercises/Side_Laterals_to_Front_Raise.json",
+      "hash": "2e668b809f6e50c46313aa22a8333e649055ed127eba75d971ac44eca273ba9c"
+    },
+    {
+      "id": "Side_Leg_Raises",
+      "path": "exercises/Side_Leg_Raises.json",
+      "hash": "d8bf9c0708920b243c1a7048a006745b7630dd6a91b6e07c29b6e5e9ee37af96"
+    },
+    {
+      "id": "Side_Lying_Groin_Stretch",
+      "path": "exercises/Side_Lying_Groin_Stretch.json",
+      "hash": "e0c724e9eae703c239e17149193ecb1b1c84c7fc6910fc031f3d279134458490"
+    },
+    {
+      "id": "Side_Neck_Stretch",
+      "path": "exercises/Side_Neck_Stretch.json",
+      "hash": "a3d448ca12b157f2617dd44d408c3dfb15bfff136bc28661b0530b9515af4fea"
+    },
+    {
+      "id": "Side_Standing_Long_Jump",
+      "path": "exercises/Side_Standing_Long_Jump.json",
+      "hash": "f04ec776a317ba0235136708e381f8de990c68f0500c31f425d4e6b92818a88f"
+    },
+    {
+      "id": "Side_To_Side_Chins",
+      "path": "exercises/Side_To_Side_Chins.json",
+      "hash": "3937d66951fcc897a5cdefcdf756e98e59f8237108ccd76eac97fdfddc548ae8"
+    },
+    {
+      "id": "Side_Wrist_Pull",
+      "path": "exercises/Side_Wrist_Pull.json",
+      "hash": "c28927877e4c3b454ac737c22449b9709c34c00ff1218ac864f52da5b488e663"
+    },
+    {
+      "id": "Side_to_Side_Box_Shuffle",
+      "path": "exercises/Side_to_Side_Box_Shuffle.json",
+      "hash": "970f39c1ae98e4b5ae69536b4abcc5d5366f525e6e08a7cc1906c30c9634f5ab"
+    },
+    {
+      "id": "Single-Arm_Cable_Crossover",
+      "path": "exercises/Single-Arm_Cable_Crossover.json",
+      "hash": "43691aa97966472b5b1ad95c2021fb0349592feca9168918191660f3536fd1f5"
+    },
+    {
+      "id": "Single-Arm_Linear_Jammer",
+      "path": "exercises/Single-Arm_Linear_Jammer.json",
+      "hash": "3d06f2f84d4741a8d00dc515f0c067aecbfb3dbceb5a91ed28df1adaa23b5d51"
+    },
+    {
+      "id": "Single-Arm_Push-Up",
+      "path": "exercises/Single-Arm_Push-Up.json",
+      "hash": "08292fbf662aae5d32b22fc13b675f4418bdac24aaea87d8b5bf993823471780"
+    },
+    {
+      "id": "Single-Cone_Sprint_Drill",
+      "path": "exercises/Single-Cone_Sprint_Drill.json",
+      "hash": "4ada6de71a94713c9b4f3e2765bc3e2e84a3b1f929f4179d7a73e31361cbc69c"
+    },
+    {
+      "id": "Single-Leg_High_Box_Squat",
+      "path": "exercises/Single-Leg_High_Box_Squat.json",
+      "hash": "31aaf9448bd77e120072d371ebac593858f7eb31950c0c6d55fc95fd301281f4"
+    },
+    {
+      "id": "Single-Leg_Hop_Progression",
+      "path": "exercises/Single-Leg_Hop_Progression.json",
+      "hash": "bb21e962a3db24a0ed5dba7e3b14bb71b1314fef8aea9931330840e087515511"
+    },
+    {
+      "id": "Single-Leg_Lateral_Hop",
+      "path": "exercises/Single-Leg_Lateral_Hop.json",
+      "hash": "25d2187ff9c5f653632e45a8b5f260807f3d3abe125b85ab0e363086ed2c493c"
+    },
+    {
+      "id": "Single-Leg_Leg_Extension",
+      "path": "exercises/Single-Leg_Leg_Extension.json",
+      "hash": "b3c2985d5def4bf2856e0ca9a79203ae6875f7c69935861e8a7884b08225e51f"
+    },
+    {
+      "id": "Single-Leg_Stride_Jump",
+      "path": "exercises/Single-Leg_Stride_Jump.json",
+      "hash": "3084f266873ffda0ef60c7c36fdb8e7057df31dc023919fd72fb2aaf5500196d"
+    },
+    {
+      "id": "Single_Dumbbell_Raise",
+      "path": "exercises/Single_Dumbbell_Raise.json",
+      "hash": "26d8da10678217184071305efeabc7defd15641fb86225424d77f88d10aa1f21"
+    },
+    {
+      "id": "Single_Leg_Butt_Kick",
+      "path": "exercises/Single_Leg_Butt_Kick.json",
+      "hash": "8ed1a5e964e7a9155eebfcc37c0d139a5e05195b32c567a3971ccaa6f86f4206"
+    },
+    {
+      "id": "Single_Leg_Glute_Bridge",
+      "path": "exercises/Single_Leg_Glute_Bridge.json",
+      "hash": "0aa53f37b5126ac3f750277f05f70f2f77ec88e9f10a649138408af1074de54b"
+    },
+    {
+      "id": "Single_Leg_Push-off",
+      "path": "exercises/Single_Leg_Push-off.json",
+      "hash": "302bd76e69b6ba6f7b7ed9d0b96b44f4d1170a9463896b021f67679a8be2e7ee"
+    },
+    {
+      "id": "Sit-Up",
+      "path": "exercises/Sit-Up.json",
+      "hash": "fbc1a6bf905b81e101889f99d41a943a65b94c20fe6002eda0a142868d389b59"
+    },
+    {
+      "id": "Sit_Squats",
+      "path": "exercises/Sit_Squats.json",
+      "hash": "520b5e9d518fe83f02e500abdfa712377d5c2e8fccc9aac89078226f10813a56"
+    },
+    {
+      "id": "Skating",
+      "path": "exercises/Skating.json",
+      "hash": "2766efb82531d82b4919a7bce376c0ec1f189a67b4a9a22a115ef3c757428b3d"
+    },
+    {
+      "id": "Sled_Drag_-_Harness",
+      "path": "exercises/Sled_Drag_-_Harness.json",
+      "hash": "04284e4b6434c50adc06cd5a95abb413496b73c31c5abdc97c146c3f3e705527"
+    },
+    {
+      "id": "Sled_Overhead_Backward_Walk",
+      "path": "exercises/Sled_Overhead_Backward_Walk.json",
+      "hash": "0d83c06a1652cd658a92378e053d3081fbb050fd86aeeda74117402c198e3891"
+    },
+    {
+      "id": "Sled_Overhead_Triceps_Extension",
+      "path": "exercises/Sled_Overhead_Triceps_Extension.json",
+      "hash": "c836b4e3f38a1303ca700428498a5ed070d99509901b299a5d9f9e352a127452"
+    },
+    {
+      "id": "Sled_Push",
+      "path": "exercises/Sled_Push.json",
+      "hash": "644bedf92602b5e9b5924a2e80b6048a7253b4769c477918f4b4dd5809ab674f"
+    },
+    {
+      "id": "Sled_Reverse_Flye",
+      "path": "exercises/Sled_Reverse_Flye.json",
+      "hash": "75bd54526ba58f9482682cf8a696190b499f0ee7d1488948c13c11b62790286c"
+    },
+    {
+      "id": "Sled_Row",
+      "path": "exercises/Sled_Row.json",
+      "hash": "f4fecdfd38e16c1a095cdaf7c5c459560ebbf829a8566b13ab92b03b0c2ce270"
+    },
+    {
+      "id": "Sledgehammer_Swings",
+      "path": "exercises/Sledgehammer_Swings.json",
+      "hash": "21a461f5bd7b32a4fbfac7f098bf0510fe87cb97950302bf3fd5dede8f3e7abf"
+    },
+    {
+      "id": "Smith_Incline_Shoulder_Raise",
+      "path": "exercises/Smith_Incline_Shoulder_Raise.json",
+      "hash": "1c2ae5012d0549f0a9e9e07096336f9323c6c8623e8021865bae00eb2539fd50"
+    },
+    {
+      "id": "Smith_Machine_Behind_the_Back_Shrug",
+      "path": "exercises/Smith_Machine_Behind_the_Back_Shrug.json",
+      "hash": "2a556effb0edb38ad72f5097a74b820cc931515d99b000baa9da1ec546a13a36"
+    },
+    {
+      "id": "Smith_Machine_Bench_Press",
+      "path": "exercises/Smith_Machine_Bench_Press.json",
+      "hash": "2af5e4505e8be1b5f74fac9fdad093ceb3d0e1d64b4e56de8373559f01b15937"
+    },
+    {
+      "id": "Smith_Machine_Bent_Over_Row",
+      "path": "exercises/Smith_Machine_Bent_Over_Row.json",
+      "hash": "5f6a1541d8f4ac14c8f95f4189367ec5692a02d35dfca11ead994a7e31137fd2"
+    },
+    {
+      "id": "Smith_Machine_Calf_Raise",
+      "path": "exercises/Smith_Machine_Calf_Raise.json",
+      "hash": "a9368621a26e8e10e767dd8203cff5644bda4125ce18e322c11b4c578c369398"
+    },
+    {
+      "id": "Smith_Machine_Close-Grip_Bench_Press",
+      "path": "exercises/Smith_Machine_Close-Grip_Bench_Press.json",
+      "hash": "49fe47a8e9c6d95b0efca30e3e8400c101dc7bee86522b7ccdb808e9e3f6a618"
+    },
+    {
+      "id": "Smith_Machine_Decline_Press",
+      "path": "exercises/Smith_Machine_Decline_Press.json",
+      "hash": "67e2d6cbeb1cf193194658a90a39286e7d8c8d77b469e9e20f4259c0f3529e02"
+    },
+    {
+      "id": "Smith_Machine_Hang_Power_Clean",
+      "path": "exercises/Smith_Machine_Hang_Power_Clean.json",
+      "hash": "73d6841c8e9506144170f9f3f3188ba781f51c291c1abe14056888953cdfd0f8"
+    },
+    {
+      "id": "Smith_Machine_Hip_Raise",
+      "path": "exercises/Smith_Machine_Hip_Raise.json",
+      "hash": "5d79386d68a325dd2115bbc2366f6579c718eb6d708de1c69d112a3e0a6ad7f9"
+    },
+    {
+      "id": "Smith_Machine_Incline_Bench_Press",
+      "path": "exercises/Smith_Machine_Incline_Bench_Press.json",
+      "hash": "3d9ca867c1148a9c378cbfe00ee6330f5029c1f0c4c5a67fb69ad15915fe41b2"
+    },
+    {
+      "id": "Smith_Machine_Leg_Press",
+      "path": "exercises/Smith_Machine_Leg_Press.json",
+      "hash": "75e75252d9ae2af7070984cd7ebe775e0662e9cd7abaf8520b0aa310afe80c79"
+    },
+    {
+      "id": "Smith_Machine_One-Arm_Upright_Row",
+      "path": "exercises/Smith_Machine_One-Arm_Upright_Row.json",
+      "hash": "1ac1f0af4f5405d66d35d4ca0036ecbf375966c14c5a2dc406d53294372a576c"
+    },
+    {
+      "id": "Smith_Machine_Overhead_Shoulder_Press",
+      "path": "exercises/Smith_Machine_Overhead_Shoulder_Press.json",
+      "hash": "4f41dce9403812e2669b92310a462be9cf0e74ba7d7b7af8afb3459812f72b25"
+    },
+    {
+      "id": "Smith_Machine_Pistol_Squat",
+      "path": "exercises/Smith_Machine_Pistol_Squat.json",
+      "hash": "4d16f95904ecd80601ee2fb00583c09fa565cf9d4e31f07fd289a59de4250fdb"
+    },
+    {
+      "id": "Smith_Machine_Reverse_Calf_Raises",
+      "path": "exercises/Smith_Machine_Reverse_Calf_Raises.json",
+      "hash": "cba9a8daf36d7e215fe58cc95946809acbc956c33908c27220cb3fbb6e08a3a0"
+    },
+    {
+      "id": "Smith_Machine_Squat",
+      "path": "exercises/Smith_Machine_Squat.json",
+      "hash": "b8392c7cfa9a44e447c2b401c780f608e6cdd8d5234636a7a65fa22e32682a9c"
+    },
+    {
+      "id": "Smith_Machine_Stiff-Legged_Deadlift",
+      "path": "exercises/Smith_Machine_Stiff-Legged_Deadlift.json",
+      "hash": "0650b2127465656999ab1fe46a90db1ab5af1e07f9efc198320699339ef4061c"
+    },
+    {
+      "id": "Smith_Machine_Upright_Row",
+      "path": "exercises/Smith_Machine_Upright_Row.json",
+      "hash": "b2023157ff7f383badf807099a5faa9b71dd350753ab4612a62b7b1cc55b4d7e"
+    },
+    {
+      "id": "Smith_Single-Leg_Split_Squat",
+      "path": "exercises/Smith_Single-Leg_Split_Squat.json",
+      "hash": "aae5320fb9b2c41d502935de41acb7c2bfbb558599b658051e83d7467f66936e"
+    },
+    {
+      "id": "Snatch",
+      "path": "exercises/Snatch.json",
+      "hash": "dda7cc72ebf881a364a6a2170b48fb6347f8bf87f0abf460f2d852ce6e5b0538"
+    },
+    {
+      "id": "Snatch_Balance",
+      "path": "exercises/Snatch_Balance.json",
+      "hash": "8ccc08e27ee1e5a5b68f46f78e6f49bf9a5c17d469c5642499a0660ee364e28d"
+    },
+    {
+      "id": "Snatch_Deadlift",
+      "path": "exercises/Snatch_Deadlift.json",
+      "hash": "f2638f37bd2d4bc09375c6462844df8dd8b834f3b6bb42ab1d8ae797d8013d89"
+    },
+    {
+      "id": "Snatch_Pull",
+      "path": "exercises/Snatch_Pull.json",
+      "hash": "8d0d49734f8a5e8522b92ece2fe26022eb66785a33bd50f3435ce636e755d9d7"
+    },
+    {
+      "id": "Snatch_Shrug",
+      "path": "exercises/Snatch_Shrug.json",
+      "hash": "437d2ed4f2d49182a24c3e1e025967f7abc54013e0e55fef00afced690c6f185"
+    },
+    {
+      "id": "Snatch_from_Blocks",
+      "path": "exercises/Snatch_from_Blocks.json",
+      "hash": "a8afe0018c20965d5d4342b18cbda1e3b2989db2fa5d2809f5c468d7c209c247"
+    },
+    {
+      "id": "Speed_Band_Overhead_Triceps",
+      "path": "exercises/Speed_Band_Overhead_Triceps.json",
+      "hash": "079507accaa2bd7d539c89099659f10e2c8192469aa717e3760157beb8900d29"
+    },
+    {
+      "id": "Speed_Box_Squat",
+      "path": "exercises/Speed_Box_Squat.json",
+      "hash": "7e3b5ce207aaa47079067d6713f243ae3b2c7a3c9a616a6b5a01c440d35b6ab1"
+    },
+    {
+      "id": "Speed_Squats",
+      "path": "exercises/Speed_Squats.json",
+      "hash": "0b12f9398e80d7d466eece19e72c8d99f39003adbb5b00f63568836716404754"
+    },
+    {
+      "id": "Spell_Caster",
+      "path": "exercises/Spell_Caster.json",
+      "hash": "8b5383c00d0fc2e0d79e2362630329a301eaae8ca6c20fb905c773f2d6d6ea26"
+    },
+    {
+      "id": "Spider_Crawl",
+      "path": "exercises/Spider_Crawl.json",
+      "hash": "4d3064f4a7133abce0e1e3a19f3ed5d68e4e11b0615a3eb76525ba79470435fc"
+    },
+    {
+      "id": "Spider_Curl",
+      "path": "exercises/Spider_Curl.json",
+      "hash": "eb4f0cc82ceac6aec070dc70a007f414931eaab6b6da3096d3e3a09a5f6ec59e"
+    },
+    {
+      "id": "Spinal_Stretch",
+      "path": "exercises/Spinal_Stretch.json",
+      "hash": "f0afedbe3c1372412916dcab24af34bbad4d049970280549997b3f487ca1f407"
+    },
+    {
+      "id": "Split_Clean",
+      "path": "exercises/Split_Clean.json",
+      "hash": "c987bbfeb153d836c97757823c2dd5c510c139bb7e0bbfc2250b61cdfb0195ee"
+    },
+    {
+      "id": "Split_Jerk",
+      "path": "exercises/Split_Jerk.json",
+      "hash": "03b5a4e4191a7e041e0f7ca172c537be4fc94c79f142889ffd8b261a4cda20a6"
+    },
+    {
+      "id": "Split_Jump",
+      "path": "exercises/Split_Jump.json",
+      "hash": "e9107c8824012b3908ce99764eb4b917120ed8622aad35aa5868ee9f5ff24ddc"
+    },
+    {
+      "id": "Split_Snatch",
+      "path": "exercises/Split_Snatch.json",
+      "hash": "4a5fd9ab1bc44c129a19a52abddbc8ce8403d9605800996e773aee1139d04226"
+    },
+    {
+      "id": "Split_Squat_with_Dumbbells",
+      "path": "exercises/Split_Squat_with_Dumbbells.json",
+      "hash": "9ba9a9e931df6080ecf6ee2f10df9905865a224c45e1fec65d33769f52da63db"
+    },
+    {
+      "id": "Split_Squats",
+      "path": "exercises/Split_Squats.json",
+      "hash": "ad495eae2ee65d72bd03153a7567915acefaf68d354c1d4197e69fe51e24ddc3"
+    },
+    {
+      "id": "Squat_Jerk",
+      "path": "exercises/Squat_Jerk.json",
+      "hash": "d0d40d0358bc45c13220b87eecc1d3bf4a10f3e49be2e30ce8100931e3c54145"
+    },
+    {
+      "id": "Squat_with_Bands",
+      "path": "exercises/Squat_with_Bands.json",
+      "hash": "7e8c1d21f4fbbd3c955631179f4fb234a03397be51fbf2e8b4b57e5e06814158"
+    },
+    {
+      "id": "Squat_with_Chains",
+      "path": "exercises/Squat_with_Chains.json",
+      "hash": "f2a3562b1b5918035c47fadb0b2c57bab939ebe403122a9361611c34d805fd5e"
+    },
+    {
+      "id": "Squat_with_Plate_Movers",
+      "path": "exercises/Squat_with_Plate_Movers.json",
+      "hash": "ef25476c3173c0dec9dc599cfc17a836c67d6205d5ad9fd9ec5e8b3b2e7bfcc9"
+    },
+    {
+      "id": "Squats_-_With_Bands",
+      "path": "exercises/Squats_-_With_Bands.json",
+      "hash": "43bd6a8e977acecba48de6fa6af9da0e4ad73bf12da0a4d6d8d0fef7f7624a0d"
+    },
+    {
+      "id": "Stairmaster",
+      "path": "exercises/Stairmaster.json",
+      "hash": "ebd1f3b4fa5eca9adf9daad7fd712dfee3d64e45a65fa778df468f8e7f6d9cf6"
+    },
+    {
+      "id": "Standing_Alternating_Dumbbell_Press",
+      "path": "exercises/Standing_Alternating_Dumbbell_Press.json",
+      "hash": "f14fce2157b2efe31daa0236de6e2325f3f34db5ef83acab3becf50bc4869299"
+    },
+    {
+      "id": "Standing_Barbell_Calf_Raise",
+      "path": "exercises/Standing_Barbell_Calf_Raise.json",
+      "hash": "a121bd93360f98510355968da9462bebce3f7e6c73dbb190070cd417684a6942"
+    },
+    {
+      "id": "Standing_Barbell_Press_Behind_Neck",
+      "path": "exercises/Standing_Barbell_Press_Behind_Neck.json",
+      "hash": "35c2e3e2350e55a2444ae44b39116e0c341fb0b3b9977d9d1ede8b683a770d5a"
+    },
+    {
+      "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+      "path": "exercises/Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension.json",
+      "hash": "a36730ef681fb72399705e6018b0ebfed6920064067784d27c0ece3ba7311727"
+    },
+    {
+      "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+      "path": "exercises/Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension.json",
+      "hash": "91a8e8e82833a5ceca9ce568beec3b3c610ca1e6af3bf11280371f5066777280"
+    },
+    {
+      "id": "Standing_Biceps_Cable_Curl",
+      "path": "exercises/Standing_Biceps_Cable_Curl.json",
+      "hash": "c8c48418a5687dbd1c74ca272b3d3c4e494a4610763a6d06140a4985a90ba490"
+    },
+    {
+      "id": "Standing_Biceps_Stretch",
+      "path": "exercises/Standing_Biceps_Stretch.json",
+      "hash": "86cd9a55d3eff5aa01893e401370e707e732a68558e63409de60778ad2d75237"
+    },
+    {
+      "id": "Standing_Bradford_Press",
+      "path": "exercises/Standing_Bradford_Press.json",
+      "hash": "b2c445d09fa854e5f42d478f548d3040838ce408f4f2cac44bfff3f9bc3c5ad1"
+    },
+    {
+      "id": "Standing_Cable_Chest_Press",
+      "path": "exercises/Standing_Cable_Chest_Press.json",
+      "hash": "ad152e6eda4a684bdfb8a8bee7ed7d9640dd891573a1cf262c57a6e75bf6ae8e"
+    },
+    {
+      "id": "Standing_Cable_Lift",
+      "path": "exercises/Standing_Cable_Lift.json",
+      "hash": "1bba99766f96e663d337289dcf98fb8db7aa5d67a65cdb4abba3f48619b75427"
+    },
+    {
+      "id": "Standing_Cable_Wood_Chop",
+      "path": "exercises/Standing_Cable_Wood_Chop.json",
+      "hash": "34d121e2bd16289722499841f21a647bb8559a58906fb0683c895f632b411def"
+    },
+    {
+      "id": "Standing_Calf_Raises",
+      "path": "exercises/Standing_Calf_Raises.json",
+      "hash": "8a3d1eea5031b0072914069fde7a51dfe48b22aa8214cdde8d9bfd2cd1ed5408"
+    },
+    {
+      "id": "Standing_Concentration_Curl",
+      "path": "exercises/Standing_Concentration_Curl.json",
+      "hash": "4bc863231b78648e6cd95780243091c6c2b319a0620a0518f7c3a61890254290"
+    },
+    {
+      "id": "Standing_Dumbbell_Calf_Raise",
+      "path": "exercises/Standing_Dumbbell_Calf_Raise.json",
+      "hash": "3a5280d6623b3144e0deb3d782c2a3781f26f585bc379ac9d59c4332d4dcde65"
+    },
+    {
+      "id": "Standing_Dumbbell_Press",
+      "path": "exercises/Standing_Dumbbell_Press.json",
+      "hash": "33b4cadd2d22d0a9c37508a93d094063d23adb838e99abee923e0c7e5ab84ec1"
+    },
+    {
+      "id": "Standing_Dumbbell_Reverse_Curl",
+      "path": "exercises/Standing_Dumbbell_Reverse_Curl.json",
+      "hash": "c20e03b98eecf6c9806596f3d319b81f089e31d98b0fb376f4d0e51fa94c7662"
+    },
+    {
+      "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+      "path": "exercises/Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head.json",
+      "hash": "4fe9bdc601d1aa9ca345e645a88d03f0312d4b40f708845e9e56af1e23dbcf0e"
+    },
+    {
+      "id": "Standing_Dumbbell_Triceps_Extension",
+      "path": "exercises/Standing_Dumbbell_Triceps_Extension.json",
+      "hash": "5a0fcd0d3d6d4c2a35d7414639efb5b939cbc747529813f7feb371a631956693"
+    },
+    {
+      "id": "Standing_Dumbbell_Upright_Row",
+      "path": "exercises/Standing_Dumbbell_Upright_Row.json",
+      "hash": "c8a77aca98435c7dc132b5dd2aefbf1186cb14a1d48db9eca88e7e1d2f2e9fcb"
+    },
+    {
+      "id": "Standing_Elevated_Quad_Stretch",
+      "path": "exercises/Standing_Elevated_Quad_Stretch.json",
+      "hash": "d17ff545b2d836e9193bb7a69a02c3f8a09cb9cf993e39454a08f94d6daee339"
+    },
+    {
+      "id": "Standing_Front_Barbell_Raise_Over_Head",
+      "path": "exercises/Standing_Front_Barbell_Raise_Over_Head.json",
+      "hash": "394a77bd32d8d31999aef57543e6b55031be13fad9b0d7e6419d3302a3d46866"
+    },
+    {
+      "id": "Standing_Gastrocnemius_Calf_Stretch",
+      "path": "exercises/Standing_Gastrocnemius_Calf_Stretch.json",
+      "hash": "cb4f3d3cee0a76bff05362d0b3a66956255e3610b603c61511cee357dcb5d923"
+    },
+    {
+      "id": "Standing_Hamstring_and_Calf_Stretch",
+      "path": "exercises/Standing_Hamstring_and_Calf_Stretch.json",
+      "hash": "9461555e359318d0eac6a97420a5f7a67d2f33bb3cc662ec61bbd03691274fdd"
+    },
+    {
+      "id": "Standing_Hip_Circles",
+      "path": "exercises/Standing_Hip_Circles.json",
+      "hash": "38699929a35835d84c4ba89a3a265ca178016ec85c62837d5204b5b02f124cd2"
+    },
+    {
+      "id": "Standing_Hip_Flexors",
+      "path": "exercises/Standing_Hip_Flexors.json",
+      "hash": "f7191b105e118a6381a2c27395a35d1453582585ad74a836eaca1d76f66056b8"
+    },
+    {
+      "id": "Standing_Inner-Biceps_Curl",
+      "path": "exercises/Standing_Inner-Biceps_Curl.json",
+      "hash": "49525760ca708edf321c656ecb91e33cf4679c9aab7ada403dcf821ec5c4ceec"
+    },
+    {
+      "id": "Standing_Lateral_Stretch",
+      "path": "exercises/Standing_Lateral_Stretch.json",
+      "hash": "aae905fdb8202e5816ab7765ad915c216c7ca62623bea71a7b44024d821cd72d"
+    },
+    {
+      "id": "Standing_Leg_Curl",
+      "path": "exercises/Standing_Leg_Curl.json",
+      "hash": "536014ee76f6b3e05e5b569aca83ee8563687e9d6cfa2a9b0f663a2bded6f402"
+    },
+    {
+      "id": "Standing_Long_Jump",
+      "path": "exercises/Standing_Long_Jump.json",
+      "hash": "9edbc126cc24d7d178dd95faac4f1a9867cc7f184c6d627e0539b2c58deabdd4"
+    },
+    {
+      "id": "Standing_Low-Pulley_Deltoid_Raise",
+      "path": "exercises/Standing_Low-Pulley_Deltoid_Raise.json",
+      "hash": "605d1a48903605f5528493b7766d5bca2b9186b55044e1671aa6dfd350739633"
+    },
+    {
+      "id": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+      "path": "exercises/Standing_Low-Pulley_One-Arm_Triceps_Extension.json",
+      "hash": "f4e4dd989fd58454dddfaaa7c0aa4e1050c8c3f9337745a28f177cd495505e76"
+    },
+    {
+      "id": "Standing_Military_Press",
+      "path": "exercises/Standing_Military_Press.json",
+      "hash": "61c49455f197c0b3a7e7c3d3fc01b77195392966c110437148d06f0e47e43e93"
+    },
+    {
+      "id": "Standing_Olympic_Plate_Hand_Squeeze",
+      "path": "exercises/Standing_Olympic_Plate_Hand_Squeeze.json",
+      "hash": "cc264936c592ecc25643f8c9f98c231f4781f1480b7fc14189fad003f9ac5298"
+    },
+    {
+      "id": "Standing_One-Arm_Cable_Curl",
+      "path": "exercises/Standing_One-Arm_Cable_Curl.json",
+      "hash": "dcfc50f1ef7806e6f43b7b6aa88e65132ec54aef5a23d0a0e2086f9dea63bfdd"
+    },
+    {
+      "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
+      "path": "exercises/Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench.json",
+      "hash": "b54141b8310bf0486bb529db6fcb3581630884504011c51e6cf8f885c2663070"
+    },
+    {
+      "id": "Standing_One-Arm_Dumbbell_Triceps_Extension",
+      "path": "exercises/Standing_One-Arm_Dumbbell_Triceps_Extension.json",
+      "hash": "fa5b6f9d972555fe7ca105d451eb239e2a551983716680126e4b98f51fa71a01"
+    },
+    {
+      "id": "Standing_Overhead_Barbell_Triceps_Extension",
+      "path": "exercises/Standing_Overhead_Barbell_Triceps_Extension.json",
+      "hash": "a1c43c8e6390366431f97301a20c1f0a9b3bd079067689cfa80f1667bc96b14c"
+    },
+    {
+      "id": "Standing_Palm-In_One-Arm_Dumbbell_Press",
+      "path": "exercises/Standing_Palm-In_One-Arm_Dumbbell_Press.json",
+      "hash": "a6fa6c090de08605975a4f9ad1c36f86e1563090b2df82fc137133f0b0ee3215"
+    },
+    {
+      "id": "Standing_Palms-In_Dumbbell_Press",
+      "path": "exercises/Standing_Palms-In_Dumbbell_Press.json",
+      "hash": "61907877f81af3b5e1d3a28412c5bf372214a95c35b8a4beb4fc4cf5129c14ab"
+    },
+    {
+      "id": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+      "path": "exercises/Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl.json",
+      "hash": "265e5110830e00afd6f08d94d9b98bf0b9badf04fb508f748faee71f63c7b2eb"
+    },
+    {
+      "id": "Standing_Pelvic_Tilt",
+      "path": "exercises/Standing_Pelvic_Tilt.json",
+      "hash": "cb58b8ea7cdcbb8b9ef8b1cf0ee7648bf2d5ebb8f6bc9fd78b70cb2b795c37b7"
+    },
+    {
+      "id": "Standing_Rope_Crunch",
+      "path": "exercises/Standing_Rope_Crunch.json",
+      "hash": "c78bfd01442c9cc5f17cad66b51721051589c113c823aec20910fea9a75d1b81"
+    },
+    {
+      "id": "Standing_Soleus_And_Achilles_Stretch",
+      "path": "exercises/Standing_Soleus_And_Achilles_Stretch.json",
+      "hash": "3690271b09e83adc8a38aeb72188a4fbefc176d82d9b9394234c9faa7fd8c4f1"
+    },
+    {
+      "id": "Standing_Toe_Touches",
+      "path": "exercises/Standing_Toe_Touches.json",
+      "hash": "3951894b29d66a08e22ca4c657c244a30c44b6e804161df6c9a7242a54b0e2e3"
+    },
+    {
+      "id": "Standing_Towel_Triceps_Extension",
+      "path": "exercises/Standing_Towel_Triceps_Extension.json",
+      "hash": "a6b1943885c300730df6024b04ea4e99893d791f437d418c3f8d929240491792"
+    },
+    {
+      "id": "Standing_Two-Arm_Overhead_Throw",
+      "path": "exercises/Standing_Two-Arm_Overhead_Throw.json",
+      "hash": "a131ecca6f960ed24c48ff32ae34227d5827e817d356a0152fcc08fc296b9fc0"
+    },
+    {
+      "id": "Star_Jump",
+      "path": "exercises/Star_Jump.json",
+      "hash": "ccff9575728ca89276e875680e67c77198ffa21084cca7108e3b2c7184934bab"
+    },
+    {
+      "id": "Step-up_with_Knee_Raise",
+      "path": "exercises/Step-up_with_Knee_Raise.json",
+      "hash": "bac41862d511ba7650c0e3fcf44fced30904bc1083c7c71502e77e4fc8a9d034"
+    },
+    {
+      "id": "Step_Mill",
+      "path": "exercises/Step_Mill.json",
+      "hash": "dd95a031a99c953235b274b83130565e395eeb6994c6abc0f027a003c1953d09"
+    },
+    {
+      "id": "Stiff-Legged_Barbell_Deadlift",
+      "path": "exercises/Stiff-Legged_Barbell_Deadlift.json",
+      "hash": "5b592e529e3d3d6bfc626c31cbd4be8f91dd282bf87c14a3ec22ec76de3dec31"
+    },
+    {
+      "id": "Stiff-Legged_Dumbbell_Deadlift",
+      "path": "exercises/Stiff-Legged_Dumbbell_Deadlift.json",
+      "hash": "8fe3eec044d3460356c6248e70bd8510c68f77ed2aaee76a3f0fd444180d1bab"
+    },
+    {
+      "id": "Stiff_Leg_Barbell_Good_Morning",
+      "path": "exercises/Stiff_Leg_Barbell_Good_Morning.json",
+      "hash": "826e30fba8afcadf1ea32b49d0f19de7bc298992ffb0218b1077748f8324c260"
+    },
+    {
+      "id": "Stomach_Vacuum",
+      "path": "exercises/Stomach_Vacuum.json",
+      "hash": "d8d5105aa5893eb237fa33862d6b6f4dc6d58f644a6666fdede361f73760b291"
+    },
+    {
+      "id": "Straight-Arm_Dumbbell_Pullover",
+      "path": "exercises/Straight-Arm_Dumbbell_Pullover.json",
+      "hash": "30c59ec409c175754165be23e657cf0840ddbe7f8d428fdda461f2722d08c98c"
+    },
+    {
+      "id": "Straight-Arm_Pulldown",
+      "path": "exercises/Straight-Arm_Pulldown.json",
+      "hash": "3d0322b0de16d981bd046b49c8623e2b7804fc30f3fe0ad23f14fb4fd3e90c36"
+    },
+    {
+      "id": "Straight_Bar_Bench_Mid_Rows",
+      "path": "exercises/Straight_Bar_Bench_Mid_Rows.json",
+      "hash": "a662a07f76cf7ea18c08454226633bfbb94e1f1c2f9f2ed7e7e2a6c583628777"
+    },
+    {
+      "id": "Straight_Raises_on_Incline_Bench",
+      "path": "exercises/Straight_Raises_on_Incline_Bench.json",
+      "hash": "1f09d9c649d8ad26939ffbd95e452726c6a4dbec4fbd67118705df0acbd4799c"
+    },
+    {
+      "id": "Stride_Jump_Crossover",
+      "path": "exercises/Stride_Jump_Crossover.json",
+      "hash": "c16a71751cd5d60e6655e4c343a845594f869cd1623f90c8fe0a76878b0417d5"
+    },
+    {
+      "id": "Sumo_Deadlift",
+      "path": "exercises/Sumo_Deadlift.json",
+      "hash": "7cb914eff512575d2154506d49428c3a4cda49a98be13ad2866fed7faea7cbdc"
+    },
+    {
+      "id": "Sumo_Deadlift_with_Bands",
+      "path": "exercises/Sumo_Deadlift_with_Bands.json",
+      "hash": "bb0429a50caafab6737ec84e4ea04e71a27587ac43f14f0d18630ae1d0a91197"
+    },
+    {
+      "id": "Sumo_Deadlift_with_Chains",
+      "path": "exercises/Sumo_Deadlift_with_Chains.json",
+      "hash": "15d7114069364eb55e50bfb80aa2b9ec5da433a08400ed2388adc3044a3c21f7"
+    },
+    {
+      "id": "Superman",
+      "path": "exercises/Superman.json",
+      "hash": "0935788f16fec6527331d027bbf903d512d0263bdd858d619c8739d2ca30c95d"
+    },
+    {
+      "id": "Supine_Chest_Throw",
+      "path": "exercises/Supine_Chest_Throw.json",
+      "hash": "dc348718cc1ddaaaa29d99174278479ece8388b09aa08a6615598336ceebbf9a"
+    },
+    {
+      "id": "Supine_One-Arm_Overhead_Throw",
+      "path": "exercises/Supine_One-Arm_Overhead_Throw.json",
+      "hash": "cbd8d44d04f18be4eccef2f6cf3bfa4ed49c30d6f6c6913657ad7fbe90d157db"
+    },
+    {
+      "id": "Supine_Two-Arm_Overhead_Throw",
+      "path": "exercises/Supine_Two-Arm_Overhead_Throw.json",
+      "hash": "be92f367129a5d8fc9f35cf81f371cad122fbda93909b028a6074a918720d4b4"
+    },
+    {
+      "id": "Suspended_Fallout",
+      "path": "exercises/Suspended_Fallout.json",
+      "hash": "7fc84e3f7c164c2962f753a27e4239837b00e8034acea598961636ef607fe2ce"
+    },
+    {
+      "id": "Suspended_Push-Up",
+      "path": "exercises/Suspended_Push-Up.json",
+      "hash": "605adde74bf061b1b299b3417103c03607b0ef7703428c038021a685304aec04"
+    },
+    {
+      "id": "Suspended_Reverse_Crunch",
+      "path": "exercises/Suspended_Reverse_Crunch.json",
+      "hash": "ec1b27e85048718281416e8316f7423aa01f2af1db7d2002e3ee64151950ae9e"
+    },
+    {
+      "id": "Suspended_Row",
+      "path": "exercises/Suspended_Row.json",
+      "hash": "61e5e785e7b011221514992216e1b9def0ab9199197414dd9125c3ac4aa6d189"
+    },
+    {
+      "id": "Suspended_Split_Squat",
+      "path": "exercises/Suspended_Split_Squat.json",
+      "hash": "fed2ac1ff33b670d3aa20de17d23e006bec4e9c531c1ced065e67b79abcf9b5a"
+    },
+    {
+      "id": "Svend_Press",
+      "path": "exercises/Svend_Press.json",
+      "hash": "9c52dd45785c1d4d53e0ba036a472c7ba32ff9ccad621404f391a0762bfdc6a6"
+    },
+    {
+      "id": "T-Bar_Row_with_Handle",
+      "path": "exercises/T-Bar_Row_with_Handle.json",
+      "hash": "6b83629305ee3c631e44e8ee7c87c8b9c8b41b94eaf700133167c5bf99ffe800"
+    },
+    {
+      "id": "Tate_Press",
+      "path": "exercises/Tate_Press.json",
+      "hash": "c90e9ccee0592b4ca7bbd4eb377c00360ecbc6ede3d36aaccba791f168bd1beb"
+    },
+    {
+      "id": "The_Straddle",
+      "path": "exercises/The_Straddle.json",
+      "hash": "271da6da586c3f026de21d549335126f06fa905e6931bcd98739ae9b648eb86e"
+    },
+    {
+      "id": "Thigh_Abductor",
+      "path": "exercises/Thigh_Abductor.json",
+      "hash": "bd0ee3759ff685520c71d5ccd1348010db20e869c91f6201dd4070673250dc6f"
+    },
+    {
+      "id": "Thigh_Adductor",
+      "path": "exercises/Thigh_Adductor.json",
+      "hash": "1efd71580ce6e3140b0df5dea7e0db87880e629fa822ceb7bb880d52a42aa997"
+    },
+    {
+      "id": "Tire_Flip",
+      "path": "exercises/Tire_Flip.json",
+      "hash": "ea7655d247f986fdf449aa2248a1fbe379e7cc02323eefdf483915f15d749f3b"
+    },
+    {
+      "id": "Toe_Touchers",
+      "path": "exercises/Toe_Touchers.json",
+      "hash": "39bae03bdd40d53c87a638fc858000c411310e38d92bca87f36c37e6b9e6141b"
+    },
+    {
+      "id": "Torso_Rotation",
+      "path": "exercises/Torso_Rotation.json",
+      "hash": "a2917e232166ef11c06afbdb76f117bda473c93f2fa6e107f308e3596378baca"
+    },
+    {
+      "id": "Trail_Running_Walking",
+      "path": "exercises/Trail_Running_Walking.json",
+      "hash": "5e69db27209f9864a7ae3041f997ca663ca877fde20b6210caab537496903a74"
+    },
+    {
+      "id": "Trap_Bar_Deadlift",
+      "path": "exercises/Trap_Bar_Deadlift.json",
+      "hash": "6dd692b412b7146df0ec41eb21a9efdfc7f97daf5084197556eab86a9ce8208d"
+    },
+    {
+      "id": "Tricep_Dumbbell_Kickback",
+      "path": "exercises/Tricep_Dumbbell_Kickback.json",
+      "hash": "eaf69df8f6128d9d17c40c4f841c1381d04ddb93bac477e102312b2d0959d916"
+    },
+    {
+      "id": "Tricep_Side_Stretch",
+      "path": "exercises/Tricep_Side_Stretch.json",
+      "hash": "7e5072ba86984c2f169c027136c90c4c9e8101c59b4dbf38af1ecdf0632af830"
+    },
+    {
+      "id": "Triceps_Overhead_Extension_with_Rope",
+      "path": "exercises/Triceps_Overhead_Extension_with_Rope.json",
+      "hash": "8e2f5e95f96751d660bd4cce0d8e49b96692d712b68e4871b8aba72b9d47d2ac"
+    },
+    {
+      "id": "Triceps_Pushdown",
+      "path": "exercises/Triceps_Pushdown.json",
+      "hash": "09990c40361531dfd13c227ba443a82ff56b9b5197b9f54249e5b0e81a582180"
+    },
+    {
+      "id": "Triceps_Pushdown_-_Rope_Attachment",
+      "path": "exercises/Triceps_Pushdown_-_Rope_Attachment.json",
+      "hash": "9c80d52af6cf4ee05ca579a303f3bd00919985bcc1137b6624bd791e5b0ae872"
+    },
+    {
+      "id": "Triceps_Pushdown_-_V-Bar_Attachment",
+      "path": "exercises/Triceps_Pushdown_-_V-Bar_Attachment.json",
+      "hash": "7576c06d8a5d4b79e97022b8401bba76afad4240aaf9bd0e7e20ba3be6c2fc98"
+    },
+    {
+      "id": "Triceps_Stretch",
+      "path": "exercises/Triceps_Stretch.json",
+      "hash": "4099c4476d08ef2aced9fbe81694c88790420b55ec0ed6c0b8ed6f91096a26e1"
+    },
+    {
+      "id": "Tuck_Crunch",
+      "path": "exercises/Tuck_Crunch.json",
+      "hash": "355ecdcdcea2fbb20fd23729ca462aafa8f89c6e61fe8ac6b4ec03eb57cc25a3"
+    },
+    {
+      "id": "Two-Arm_Dumbbell_Preacher_Curl",
+      "path": "exercises/Two-Arm_Dumbbell_Preacher_Curl.json",
+      "hash": "c8466e0287637c6b3828a13804e1a13fa02bf4a024caeeb833bcbe811f37efef"
+    },
+    {
+      "id": "Two-Arm_Kettlebell_Clean",
+      "path": "exercises/Two-Arm_Kettlebell_Clean.json",
+      "hash": "a0c8f1f5170fe0980581f89253611bb38a14bb722b67add34209e77b4165ad87"
+    },
+    {
+      "id": "Two-Arm_Kettlebell_Jerk",
+      "path": "exercises/Two-Arm_Kettlebell_Jerk.json",
+      "hash": "46fa8fa8057b215c17722897727bd92036528d48049f612563fd0d9901accd15"
+    },
+    {
+      "id": "Two-Arm_Kettlebell_Military_Press",
+      "path": "exercises/Two-Arm_Kettlebell_Military_Press.json",
+      "hash": "a6939694a8c06083104a982b89d8458484bc91829c62880bfd84cb410c624529"
+    },
+    {
+      "id": "Two-Arm_Kettlebell_Row",
+      "path": "exercises/Two-Arm_Kettlebell_Row.json",
+      "hash": "8faf91f73f631e9da3433143ec2fdfc5af9dd04b21ec6586e7efcdf7653e04ff"
+    },
+    {
+      "id": "Underhand_Cable_Pulldowns",
+      "path": "exercises/Underhand_Cable_Pulldowns.json",
+      "hash": "06aff099d7ceab9947c9b18a937172417fe6cc97869c6437c9feecde8576abe1"
+    },
+    {
+      "id": "Upper_Back-Leg_Grab",
+      "path": "exercises/Upper_Back-Leg_Grab.json",
+      "hash": "35c25ee23e94ecd095b3aa53dc5d6fdf45f977d93a224d7533d1d64596e15bc6"
+    },
+    {
+      "id": "Upper_Back_Stretch",
+      "path": "exercises/Upper_Back_Stretch.json",
+      "hash": "5c546a140dc9193653ef9a48076397472bd2361a43f83c560e495c178eb61c5f"
+    },
+    {
+      "id": "Upright_Barbell_Row",
+      "path": "exercises/Upright_Barbell_Row.json",
+      "hash": "b21045820b48493609799e7c2643dbb06dacb05a170d36808d812d3b07b5178d"
+    },
+    {
+      "id": "Upright_Cable_Row",
+      "path": "exercises/Upright_Cable_Row.json",
+      "hash": "28745445d9d630f7b95d2e375c838474e98d43e5c16e00619280f0d72448dc12"
+    },
+    {
+      "id": "Upright_Row_-_With_Bands",
+      "path": "exercises/Upright_Row_-_With_Bands.json",
+      "hash": "7f1aa4fb575a261017df188fceb53d9f00c2007a2f937c58a55d771a45121a8b"
+    },
+    {
+      "id": "Upward_Stretch",
+      "path": "exercises/Upward_Stretch.json",
+      "hash": "5de8c9f8fdc352d706ee2bd87d1e82789ccb5527b7e8b77e55072b5b6b3bd37b"
+    },
+    {
+      "id": "V-Bar_Pulldown",
+      "path": "exercises/V-Bar_Pulldown.json",
+      "hash": "f0220e2e4f5b39697541f4a62156af87abb4e48c7b106dca37ba53dd8ead9826"
+    },
+    {
+      "id": "V-Bar_Pullup",
+      "path": "exercises/V-Bar_Pullup.json",
+      "hash": "ccc564c175e196c14c21f67069b2e926fb81664f58be0a693a8ed3b459a02e5a"
+    },
+    {
+      "id": "Vertical_Swing",
+      "path": "exercises/Vertical_Swing.json",
+      "hash": "dab1759777a54efd35f956d39fcddaeb36bf272e4b2ea94ddb9f0cc230911e81"
+    },
+    {
+      "id": "Walking_Treadmill",
+      "path": "exercises/Walking_Treadmill.json",
+      "hash": "51f12c5b4867310ee3979200a632ea2b8c9ea83488d343f9a8546fba29a844da"
+    },
+    {
+      "id": "Weighted_Ball_Hyperextension",
+      "path": "exercises/Weighted_Ball_Hyperextension.json",
+      "hash": "a0ff9832d3abe93d43ea62b28f0cc109891fcadb974185fe7b4736ac189ecda6"
+    },
+    {
+      "id": "Weighted_Ball_Side_Bend",
+      "path": "exercises/Weighted_Ball_Side_Bend.json",
+      "hash": "338e4ba4764a16cd804d9bb9203cced1d46a3e0454a076029abfe53de1e7be14"
+    },
+    {
+      "id": "Weighted_Bench_Dip",
+      "path": "exercises/Weighted_Bench_Dip.json",
+      "hash": "8c3938db6686aeb582a36cd868935c7ffdb6fb17ed5dea5746a47bfe23ee1bd4"
+    },
+    {
+      "id": "Weighted_Crunches",
+      "path": "exercises/Weighted_Crunches.json",
+      "hash": "21fe8b655e1df4993366368f63318f2ee23d8a87d6873f1a3edc287cea936cc7"
+    },
+    {
+      "id": "Weighted_Jump_Squat",
+      "path": "exercises/Weighted_Jump_Squat.json",
+      "hash": "dbc735730ea4c07d3b4e71f4c797ebb4cef309240d46379009a3a0dfc3b4e4bc"
+    },
+    {
+      "id": "Weighted_Pull_Ups",
+      "path": "exercises/Weighted_Pull_Ups.json",
+      "hash": "59a7a24b4e5333d92adce4f9e1b45efbf2a9c3f0f92b26ff85dd6efed9e90f29"
+    },
+    {
+      "id": "Weighted_Sissy_Squat",
+      "path": "exercises/Weighted_Sissy_Squat.json",
+      "hash": "ace5967057084c078b2e3a842ef30bcba530f0dc42637f2dca26197d9a2a6088"
+    },
+    {
+      "id": "Weighted_Sit-Ups_-_With_Bands",
+      "path": "exercises/Weighted_Sit-Ups_-_With_Bands.json",
+      "hash": "3bc0bc40c141510b5782a84fc3a928d3f765d69e5c53825b12df29fa03865710"
+    },
+    {
+      "id": "Weighted_Squat",
+      "path": "exercises/Weighted_Squat.json",
+      "hash": "5e7ecdf17592bb8e4169dab7c1b5b1708874e889085f87b767de64519929d911"
+    },
+    {
+      "id": "Wide-Grip_Barbell_Bench_Press",
+      "path": "exercises/Wide-Grip_Barbell_Bench_Press.json",
+      "hash": "a0254366185fa68b626d85f8de2b5089b5a16cf2516706c996278626f579da6f"
+    },
+    {
+      "id": "Wide-Grip_Decline_Barbell_Bench_Press",
+      "path": "exercises/Wide-Grip_Decline_Barbell_Bench_Press.json",
+      "hash": "a764daad2753b9e3bd227696a5d5de89608f2db89cebef3d80d82ffe3841dd80"
+    },
+    {
+      "id": "Wide-Grip_Decline_Barbell_Pullover",
+      "path": "exercises/Wide-Grip_Decline_Barbell_Pullover.json",
+      "hash": "4513264f8a3b581f824adf4eda86d2eed91805cdbbf5b9212dc15e6994067529"
+    },
+    {
+      "id": "Wide-Grip_Lat_Pulldown",
+      "path": "exercises/Wide-Grip_Lat_Pulldown.json",
+      "hash": "c68ac7bc0a0304df5c9836ccb917e245eac9856622add9048fa0bd34b5065108"
+    },
+    {
+      "id": "Wide-Grip_Pulldown_Behind_The_Neck",
+      "path": "exercises/Wide-Grip_Pulldown_Behind_The_Neck.json",
+      "hash": "9f3ba0e371af9541de40090ffa9bce6cdad4286fdf5b721d0f523e8b4c60257c"
+    },
+    {
+      "id": "Wide-Grip_Rear_Pull-Up",
+      "path": "exercises/Wide-Grip_Rear_Pull-Up.json",
+      "hash": "9c71dc5a11d2d44fd9eb9e7158dfe1cb2544353852bfa0ec25ff25acd7174422"
+    },
+    {
+      "id": "Wide-Grip_Standing_Barbell_Curl",
+      "path": "exercises/Wide-Grip_Standing_Barbell_Curl.json",
+      "hash": "b07974728e2415821dc632d6fe5cfe7c99cac1f67eb6872747e9d496f1d2ba9b"
+    },
+    {
+      "id": "Wide_Stance_Barbell_Squat",
+      "path": "exercises/Wide_Stance_Barbell_Squat.json",
+      "hash": "64640d5c0de21cf97f5b9942245830bd16ae6429f2fa726bcf4f5009f2aa3c2c"
+    },
+    {
+      "id": "Wide_Stance_Stiff_Legs",
+      "path": "exercises/Wide_Stance_Stiff_Legs.json",
+      "hash": "c6ae0bff49c6969070fbea43641e7fcdb22a8ce25676ffa6ffe58669e1750222"
+    },
+    {
+      "id": "Wind_Sprints",
+      "path": "exercises/Wind_Sprints.json",
+      "hash": "94e73cfeebdfd5b6651be152ab1e3a74ff97bb0ffaa072cedcf565facd732469"
+    },
+    {
+      "id": "Windmills",
+      "path": "exercises/Windmills.json",
+      "hash": "592ec939f81e41559cba8b296accaf2c30542c8b3fbc7298bfc8489e291109fb"
+    },
+    {
+      "id": "Worlds_Greatest_Stretch",
+      "path": "exercises/Worlds_Greatest_Stretch.json",
+      "hash": "69f226db0046bb16c087bc584557fb5969c9e3caf156ad5df3a1ddba59904b73"
+    },
+    {
+      "id": "Wrist_Circles",
+      "path": "exercises/Wrist_Circles.json",
+      "hash": "ca814d48130be31b77c1172ddd74aefcce65432626d99b98830d45c914e3dd6d"
+    },
+    {
+      "id": "Wrist_Roller",
+      "path": "exercises/Wrist_Roller.json",
+      "hash": "5df90de9d15c477660e547eb4b102e4c99c58b251ddf12a501c1756ea297c6fe"
+    },
+    {
+      "id": "Wrist_Rotations_with_Straight_Bar",
+      "path": "exercises/Wrist_Rotations_with_Straight_Bar.json",
+      "hash": "d3d1314b7668e3422ed8d6581fe957876380f44955fcbc14a18aee04c7865ac8"
+    },
+    {
+      "id": "Yoke_Walk",
+      "path": "exercises/Yoke_Walk.json",
+      "hash": "70df78c2c12caf523c7444751619f1e763e78ef2bf396d556551e0fcd6f1553a"
+    },
+    {
+      "id": "Zercher_Squats",
+      "path": "exercises/Zercher_Squats.json",
+      "hash": "3100816838f4130bab81ecb6e8c99a9d9fe3c292ccd1e850061cbab533cdd46b"
+    },
+    {
+      "id": "Zottman_Curl",
+      "path": "exercises/Zottman_Curl.json",
+      "hash": "fe41b8942b9e2b7a450d371467235b93728942bb153ac809d43ef2c70ebdd333"
+    },
+    {
+      "id": "Zottman_Preacher_Curl",
+      "path": "exercises/Zottman_Preacher_Curl.json",
+      "hash": "19504095c874b5e348e9ba42d46853359ce067898ba00bbfc4ae72bf9c8a0451"
+    }
+  ]
+}
