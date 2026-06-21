@@ -25,6 +25,18 @@
   fill: var(--muscle-secondary-color, #7790e5);
 }
 
+.muscle-map__group[data-state='inactive'] .muscle-map__posterior-optional {
+  display: none;
+}
+
+.muscle-map__group[data-state='inactive'] .muscle-map__anterior-optional {
+  display: none;
+}
+
+.muscle-map__posterior-connected {
+  stroke-width: 0;
+}
+
 .muscle-map__seam {
   fill: none;
   stroke: var(--muscle-separator-color, #f8f8f9);
