@@ -74,8 +74,7 @@ Override the CSS variables from any theme boundary:
   --muscle-primary-color: #a78bfa;
   --muscle-secondary-color: #6d5cae;
   --muscle-inactive-color: #4b5563;
-  --muscle-body-color: #1f2937;
-  --muscle-separator-color: #111827;
+  --muscle-outline-color: #111827;
 }
 ```
 
@@ -84,10 +83,11 @@ Available variables:
 - `--muscle-primary-color`
 - `--muscle-secondary-color`
 - `--muscle-inactive-color`
-- `--muscle-body-color`
-- `--muscle-separator-color`
+- `--muscle-outline-color`
 
-Every muscle group has a readable instance-scoped ID, a stable `data-muscle` value, and a `data-state` of `primary`, `secondary`, or `inactive`. The SVG remains inline so application themes can style it without regenerating assets.
+Every rendered muscle region has a readable instance-scoped ID, a stable `data-muscle` value, and a `data-state` of `primary`, `secondary`, or `inactive`. The SVG remains inline so application themes can style it without regenerating assets.
+
+The artwork shows front and back views. It includes selectable obliques and hands regions. The exercise dataset also names neck, abductors, and adductors, but the supplied artwork has no separate shapes for them, so those targets do not highlight on the map.
 
 ## Public API
 

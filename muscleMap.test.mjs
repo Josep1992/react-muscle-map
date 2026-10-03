@@ -12,7 +12,7 @@ import { exerciseTargets } from './exerciseTargets.mjs'
 const pilotExercises = JSON.parse(
   await readFile(new URL('./pilot-exercises.json', import.meta.url), 'utf8')
 )
-const componentSource = await readFile(new URL('./MuscleMap.jsx', import.meta.url), 'utf8')
+const artworkSource = await readFile(new URL('./BodyArtwork.jsx', import.meta.url), 'utf8')
 const allExercises = JSON.parse(
   await readFile(new URL('./datasets/exercises.json', import.meta.url), 'utf8')
 )
@@ -22,9 +22,9 @@ async function runTest(name, test) {
   console.log(`PASS ${name}`)
 }
 
-await runTest('defines all 17 dataset muscle groups', () => {
-  assert.equal(MUSCLE_GROUPS.length, 17)
-  assert.equal(new Set(MUSCLE_GROUPS).size, 17)
+await runTest('defines all dataset and artwork muscle groups', () => {
+  assert.equal(MUSCLE_GROUPS.length, 19)
+  assert.equal(new Set(MUSCLE_GROUPS).size, 19)
 })
 
 await runTest('uses readable semantic IDs', () => {
@@ -32,10 +32,12 @@ await runTest('uses readable semantic IDs', () => {
   assert.equal(toMuscleId('lower back'), 'muscle-lower-back')
 })
 
-await runTest('renders every supported muscle group in the SVG', () => {
-  for (const muscle of MUSCLE_GROUPS) {
-    assert.match(componentSource, new RegExp(`muscle="${muscle}"`), muscle)
-  }
+await runTest('maps every supplied artwork group to a supported muscle name', () => {
+  const artworkMuscles = [...artworkSource.matchAll(/<MuscleGroup muscle="([^"]+)"/g)].map((match) => match[1])
+  assert.deepEqual(validateMuscleGroups(artworkMuscles), [])
+  assert.ok(artworkMuscles.includes('quadriceps'))
+  assert.ok(artworkMuscles.includes('middle back'))
+  assert.ok(artworkMuscles.includes('lower back'))
 })
 
 await runTest('prioritizes primary state over secondary state', () => {
