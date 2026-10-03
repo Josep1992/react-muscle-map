@@ -1,15 +1,20 @@
 import { getMuscleState, toMuscleId } from './muscleMap.mjs'
 
-function MuscleGroup({ muscle, side, idPrefix, primaryMuscles, secondaryMuscles, children }) {
+const neckPath = 'M289.6 136 C301 150 315 159 330.2 161.7 C345 159 359 150 370.9 136 L370.9 177 C370.9 189 371 199 374 205 C360 210 346 210 330.2 210 C314 210 300 210 286.5 205 C289 199 289.6 189 289.6 177 Z'
+const abductorPath = 'M230 521 C251 530 267 552 275 588 C270 629 256 665 237 690 C221 672 212 641 212 605 C214 566 219 536 230 521 Z'
+const adductorPath = 'M320 600 C329 626 327 674 323 706 C317 751 299 792 278 822 C269 783 273 734 282 689 C292 646 305 617 320 600 Z'
+
+function MuscleGroup({ muscle, side, idPrefix, primaryMuscles, secondaryMuscles, inferred = false, children }) {
   const state = getMuscleState({ muscle, primaryMuscles, secondaryMuscles })
 
   return (
     <g
       id={`${idPrefix}-${side}-${toMuscleId(muscle)}`}
-      className="muscle-map__group"
+      className={`muscle-map__group${inferred ? ' muscle-map__inferred' : ''}`}
       data-muscle={muscle}
       data-side={side}
       data-state={state}
+      data-geometry={inferred ? 'inferred' : 'supplied'}
     >
       {children}
     </g>
@@ -61,6 +66,18 @@ export function FrontArtwork({ idPrefix, primaryMuscles, secondaryMuscles }) {
       <MuscleGroup muscle="traps" side="front" idPrefix={idPrefix} primaryMuscles={primaryMuscles} secondaryMuscles={secondaryMuscles}>
         <path d="M287.92,178.7v20.85c0,10-5.2,13.67-16.13,17.47-3.35-1.33-19.62-7.35-37.88-7.02.31-.25.64-.52,1.01-.81,3.15-2.52,7.46-5.96,10.44-7.35,1.96-.92,6.52-2.88,11.35-4.94,7.4-3.17,15.8-6.78,18.88-8.35,3.68-1.87,9.2-6.86,12.32-9.84Z" fill="currentColor" />
         <path d="M426.68,210c-18.26-.34-34.53,5.69-37.89,7.02-10.92-3.79-16.12-7.47-16.12-17.47v-20.84c3.12,2.97,8.63,7.96,12.31,9.83,3.08,1.57,11.48,5.18,18.88,8.35,4.83,2.06,9.39,4.02,11.35,4.94,2.98,1.39,7.29,4.83,10.44,7.35.37.3.71.57,1.02.81Z" fill="currentColor" />
+      </MuscleGroup>
+      {/* Approximate regions use the supplied body's centerline and nearby muscle edges. */}
+      <MuscleGroup muscle="neck" side="front" idPrefix={idPrefix} primaryMuscles={primaryMuscles} secondaryMuscles={secondaryMuscles} inferred>
+        <path d={neckPath} fill="currentColor" />
+      </MuscleGroup>
+      <MuscleGroup muscle="abductors" side="front" idPrefix={idPrefix} primaryMuscles={primaryMuscles} secondaryMuscles={secondaryMuscles} inferred>
+        <path d={abductorPath} fill="currentColor" />
+        <path d={abductorPath} fill="currentColor" transform="translate(660.46 0) scale(-1 1)" />
+      </MuscleGroup>
+      <MuscleGroup muscle="adductors" side="front" idPrefix={idPrefix} primaryMuscles={primaryMuscles} secondaryMuscles={secondaryMuscles} inferred>
+        <path d={adductorPath} fill="currentColor" />
+        <path d={adductorPath} fill="currentColor" transform="translate(660.46 0) scale(-1 1)" />
       </MuscleGroup>
       <g id={`${idPrefix}-front-body`} className="muscle-map__outline">
         <line x1="330.4" y1="504.57" x2="330.4" y2="571.92" fill="none" stroke="var(--muscle-outline-color, #737782)" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3.46" />
@@ -167,6 +184,9 @@ export function BackArtwork({ idPrefix, primaryMuscles, secondaryMuscles }) {
       <MuscleGroup muscle="shoulders" side="back" idPrefix={idPrefix} primaryMuscles={primaryMuscles} secondaryMuscles={secondaryMuscles}>
         <path d="M511.59,288.79c-3.24-2.06-8.25-4.62-13.43-4.9-.56-.04-1.2-.06-1.91-.09-6.97-.31-21.03-.93-34.55-7.07-4.38-1.99-8.7-4.55-12.71-7.89-6.97-5.78-13.74-10.96-20.27-15.97-10.06-7.72-19.59-15.02-28.81-23.66,6.14-6.45,17.33-16.23,36.59-15.6h.02c.17,0,16.25,1.4,33.54,11.85,15.31,9.27,34.65,27.7,41.54,63.32Z" fill="currentColor" />
         <path d="M260.61,229.21c-9.23,8.65-18.75,15.95-28.81,23.66-6.54,5.01-13.29,10.19-20.27,15.97-4,3.33-8.34,5.89-12.71,7.89-13.52,6.15-27.58,6.76-34.55,7.07-.71.03-1.35.05-1.92.09-5.18.27-10.19,2.84-13.43,4.9,6.9-35.62,26.23-54.06,41.55-63.33,17.29-10.46,33.37-11.85,33.53-11.85h.02c19.28-.62,30.45,9.14,36.6,15.6Z" fill="currentColor" />
+      </MuscleGroup>
+      <MuscleGroup muscle="neck" side="back" idPrefix={idPrefix} primaryMuscles={primaryMuscles} secondaryMuscles={secondaryMuscles} inferred>
+        <path d={neckPath} fill="currentColor" />
       </MuscleGroup>
       <g id={`${idPrefix}-back-body`} className="muscle-map__outline">
         <path d="M266.34,935.47c-.89-19.84-16.47-25.12-28.26-16.43-14.11,10.4-36.12-39.53-43.56-12.29" fill="none" stroke="var(--muscle-outline-color, #737782)" strokeLinecap="round" strokeLinejoin="round" strokeWidth="3.52" />

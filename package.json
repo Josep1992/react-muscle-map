@@ -54,6 +54,7 @@
     "./package.json": "./package.json"
   },
   "scripts": {
+    "sandbox": "vite --host 127.0.0.1 --port 5173 --strictPort",
     "build": "vite build",
     "generate": "node scripts/generate-muscle-map-components.mjs --all --chunk-size 50",
     "check:generated": "node scripts/generate-muscle-map-components.mjs --all --chunk-size 50 --check",

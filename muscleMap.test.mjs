@@ -35,9 +35,9 @@ await runTest('uses readable semantic IDs', () => {
 await runTest('maps every supplied artwork group to a supported muscle name', () => {
   const artworkMuscles = [...artworkSource.matchAll(/<MuscleGroup muscle="([^"]+)"/g)].map((match) => match[1])
   assert.deepEqual(validateMuscleGroups(artworkMuscles), [])
-  assert.ok(artworkMuscles.includes('quadriceps'))
-  assert.ok(artworkMuscles.includes('middle back'))
-  assert.ok(artworkMuscles.includes('lower back'))
+  for (const muscle of MUSCLE_GROUPS) {
+    assert.ok(artworkMuscles.includes(muscle), muscle)
+  }
 })
 
 await runTest('prioritizes primary state over secondary state', () => {

@@ -87,7 +87,7 @@ Available variables:
 
 Every rendered muscle region has a readable instance-scoped ID, a stable `data-muscle` value, and a `data-state` of `primary`, `secondary`, or `inactive`. The SVG remains inline so application themes can style it without regenerating assets.
 
-The artwork shows front and back views. It includes selectable obliques and hands regions. The exercise dataset also names neck, abductors, and adductors, but the supplied artwork has no separate shapes for them, so those targets do not highlight on the map.
+The artwork shows front and back views. It includes selectable obliques and hands regions. Neck, abductors, and adductors use approximate regions drawn from the surrounding anatomy because the supplied SVGs have no separate paths for them.
 
 ## Public API
 
@@ -153,3 +153,5 @@ Build and validate the publishable package with:
 npm install
 npm run prepack
 ```
+
+Preview every muscle region locally with `npm run sandbox`, then open `http://127.0.0.1:5173/sandbox.html`.

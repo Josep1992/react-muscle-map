@@ -18,6 +18,10 @@
   color: var(--muscle-secondary-color, #7790e5);
 }
 
+.muscle-map__inferred[data-state='inactive'] {
+  opacity: 0;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .muscle-map__group {
     transition: none;
